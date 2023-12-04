@@ -1,0 +1,1035 @@
+county,type,facility_name,street_address,city,state,zip,location,lat,long
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #2581,Cross Bay Blvd,Howard Beach,NY,11414,"Cross Bay Blvd
+Howard Beach, NY 11414
+(40.6464207, -73.836795229)",40.6464207,-73.836795229
+Kings,Grocery w/ Pharmacy inside,ShopRite Of Avenue I,Mcdonald Avenue,Brooklyn,NY,11230,"Mcdonald Avenue
+Brooklyn, NY 11230
+(40.619242962, -73.975014383)",40.619242962,-73.975014383
+Bronx,Grocery w/ Pharmacy inside,Stop & Shop #504,Co-Op City Blvd,Bronx,NY,10475,"Co-Op City Blvd
+Bronx, NY 10475
+(40.878351856, -73.822690366)",40.878351856,"-Op City Blvd
+Bronx, NY 10475
+(40.878351856, -73.822690366"
+Bronx,Grocery w/ Pharmacy inside,Benjamin's Pharmacy & Surgical,Allerton Avenue,Bronx,NY,10469,"Allerton Avenue
+Bronx, NY 10469
+(40.865430017, -73.855045845)",40.865430017,-73.855045845
+Queens,Grocery w/ Pharmacy inside,Horizon Pharmacy,Kissena Bo,Flushing,NY,11355,"Kissena Bo
+Flushing, NY 11355
+(40.755328445, -73.824509811)",40.755328445,-73.824509811
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #2585,Springfield Blvd,Springfield Garden,NY,11413,"Springfield Blvd
+Springfield Garden, NY 11413
+(40.674962968, -73.756031906)",40.674962968,-73.756031906
+Kings,Grocery w/ Pharmacy inside,Health Max Pharmacy,5th Avenue,Brooklyn,NY,11220,"5th Avenue
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #2587,Farrington St,Flushing,NY,11354,"Farrington St
+Flushing, NY 11354
+(40.766871519, -73.832759266)",40.766871519,-73.832759266
+Richmond,Grocery w/ Pharmacy inside,Stop & Shop #581,Hylan Blvd.,Staten Island,NY,10306,"Hylan Blvd.
+Staten Island, NY 10306
+(40.562493009, -74.117891604)",40.562493009,-74.117891604
+Kings,Grocery w/ Pharmacy inside,Stop & Shop #505,Avenue Y,Brooklyn,NY,11235,"Avenue Y
+Brooklyn, NY 11235
+(40.590685644, -73.949270384)",40.590685644,-73.949270384
+Queens,Grocery w/ Pharmacy inside,Super Stop & Shop #566,Rockaway Beach Boulevard,Arverne,NY,11692,"Rockaway Beach Boulevard
+Arverne, NY 11692
+(40.592465001, -73.784219997)",40.592465001,-73.784219997
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #509,Grand Avenue,Maspeth,NY,11378,"Grand Avenue
+Maspeth, NY 11378
+(40.721883665, -73.904333203)",40.721883665,-73.904333203
+New York,Grocery w/ Pharmacy inside,Preferred Pharmacy,East 115th Street,New York,NY,10029,"East 115th Street
+New York, NY 10029
+(40.79717979, -73.940302841)",40.79717979,-73.940302841
+Bronx,Grocery w/ Pharmacy inside,Stop & Shop #2592,Bartow Avenue,Bronx,NY,10475,"Bartow Avenue
+Bronx, NY 10475
+(40.869620005, -73.827368075)",40.869620005,-73.827368075
+Kings,Grocery w/ Pharmacy inside,Stop & Shop #2591,Cropsey Av,Brooklyn,NY,11214,"Cropsey Av
+Brooklyn, NY 11214
+(40.596311752, -73.997517972)",40.596311752,-73.997517972
+Kings,Grocery w/ Pharmacy inside,"Newkirk Pharmacy, Inc.",Newkirk Avenue,Brooklyn,NY,11226,"Newkirk Avenue
+Brooklyn, NY 11226
+(40.639249383, -73.955581241)",40.639249383,-73.955581241
+Bronx,Grocery w/ Pharmacy inside,Stop & Shop #2593,East 174th Street,Bronx,NY,10460,"East 174th Street
+Bronx, NY 10460
+(40.836372162, -73.884819878)",40.836372162,-73.884819878
+Kings,Grocery w/ Pharmacy inside,Preferred Pharmacy,Broadway,Brooklyn,NY,11207,"Broadway
+Brooklyn, NY 11207
+(40.683079269, -73.910795599)",40.683079269,-73.910795599
+Kings,Grocery w/ Pharmacy inside,Bocker Pharmacy & Food Mart Inc.,Knickerbocker Avenue,Brooklyn,NY,11237,"Knickerbocker Avenue
+Brooklyn, NY 11237
+(40.702568662, -73.92497553)",40.702568662,-73.92497553
+Kings,Grocery w/ Pharmacy inside,Green Forest Market Inc,Avenue M,Brooklyn,NY,11230,"Avenue M
+Brooklyn, NY 11230
+(40.617677031, -73.963010685)",40.617677031,-73.963010685
+Kings,Grocery w/ Pharmacy inside,Dumont Pharmacy,Junius St,Brooklyn,NY,11212,"Junius St
+Brooklyn, NY 11212
+(40.666248997, -73.902103271)",40.666248997,-73.902103271
+Richmond,Grocery w/ Pharmacy inside,Stop & Shop #2595,Forest Avenue,Staten Island,NY,10302,"Forest Avenue
+Staten Island, NY 10302
+(40.626374486, -74.133144751)",40.626374486,-74.133144751
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #2589,Atlantic Ave,Ozone Park,NY,11416,"Atlantic Ave
+Ozone Park, NY 11416
+(40.687206444, -73.851904411)",40.687206444,-73.851904411
+Kings,Grocery w/ Pharmacy inside,Stop & Shop #2586,Atlantic Ave,Brooklyn,NY,11217,"Atlantic Ave
+Brooklyn, NY 11217
+(40.684660213, -73.979005505)",40.684660213,-73.979005505
+New York,Pharmacy Only,Duane Reade #14246,Avenue Of The Americas,New York,NY,10001,"Avenue Of The Americas
+New York, NY 10001
+(40.745943777, -73.990597072)",40.745943777,-73.990597072
+Kings,Pharmacy Only,Best Care Pharmacy,3rd Ave,Brooklyn,NY,11209,"3rd Ave
+Brooklyn, NY 11209
+(40.624059334, -74.030818893)",40.624059334,-74.030818893
+Bronx,Pharmacy Only,Your Family Pharmacy Corp,Ogden Avenue,Bronx,NY,10452,"Ogden Avenue
+Bronx, NY 10452
+(40.837015744, -73.927069735)",40.837015744,-73.927069735
+Queens,Pharmacy Only,Walgreens #01616,Broadway,Elmhurst,NY,11373,"Broadway
+Elmhurst, NY 11373
+(40.742797206, -73.882595005)",40.742797206,-73.882595005
+New York,Pharmacy Only,Duane Reade #14386,Main St,New York,NY,10044,"Main St
+New York, NY 10044
+(40.763652168, -73.948171943)",40.763652168,-73.948171943
+Kings,Pharmacy Only,Duane Reade #14429,Kent Ave,Brooklyn,NY,11249,"Kent Ave
+Brooklyn, NY 11249
+(40.711302743, -73.968317023)",40.711302743,-73.968317023
+Kings,Pharmacy Only,Whitman Pharmacy,Myrtle Ave,Brooklyn,NY,11205,"Myrtle Ave
+Brooklyn, NY 11205
+(40.693123863, -73.969930633)",40.693123863,-73.969930633
+Queens,Pharmacy Only,Queens Express Pharmacy Corp.,Junction Blvd,Jackson Heights,NY,11372,"Junction Blvd
+Jackson Heights, NY 11372
+(40.756780017, -73.873629968)",40.756780017,-73.873629968
+New York,Pharmacy Only,"Bowen Pharmacy, Inc",10th Avenue,New York,NY,10019,"10th Avenue
+New York, NY 10019
+(40.766930622, -73.990156649)",40.766930622,-73.990156649
+Richmond,Pharmacy Only,Walgreens #03916,Arthur Kill Rd,Staten Island,NY,10312,"Arthur Kill Rd
+Staten Island, NY 10312
+(40.563821547, -74.188442828)",40.563821547,-74.188442828
+Kings,Pharmacy Only,Duane Reade #14426,Bedford Ave,Brooklyn,NY,11249,"Bedford Ave
+Brooklyn, NY 11249
+(40.716387165, -73.959279469)",40.716387165,-73.959279469
+Queens,Pharmacy Only,Bakers Drugs Llc,Linden Boulevard,Saint Albans,NY,11412,"Linden Boulevard
+Saint Albans, NY 11412
+(40.693496627, -73.755703679)",40.693496627,-73.755703679
+Kings,Pharmacy Only,"Eliyahu's Pharmacy, Inc.",Kings Highway,Brooklyn,NY,11223,"Kings Highway
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Queens,Pharmacy Only,Health Center Pharmacy Inc.,Beach Channel Drive,Arverne,NY,11692,"Beach Channel Drive
+Arverne, NY 11692
+(40.589827743, -73.804805186)",40.589827743,-73.804805186
+Kings,Pharmacy Only,Medcare Pharmacy,Kings Highway,Brooklyn,NY,11223,"Kings Highway
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Queens,Pharmacy Only,Walgreens #19425,Utopia Pkwy,Whitestone,NY,11357,"Utopia Pkwy
+Whitestone, NY 11357
+(40.785813168, -73.795115864)",40.785813168,-73.795115864
+Queens,Pharmacy Only,Franhill Pharmacy Llc,Hillside Ave,Hollis,NY,11423,"Hillside Ave
+Hollis, NY 11423
+(40.715809986, -73.771550038)",40.715809986,-73.771550038
+New York,Pharmacy Only,Duane Reade #14382,W 135th St,New York,NY,10030,"W 135th St
+New York, NY 10030
+(40.815634253, -73.944461666)",40.815634253,-73.944461666
+Bronx,Pharmacy Only,Leroy Pharmacy Ii Llc,East 198 Street,Bronx,NY,10458,"East 198 Street
+Bronx, NY 10458
+(40.868292404, -73.888022416)",40.868292404,-73.888022416
+Queens,Pharmacy Only,Variety Drugs,137th Ave,Jamaica,NY,11434,"137th Ave
+Jamaica, NY 11434
+(40.672203859, -73.773337697)",40.672203859,-73.773337697
+New York,Pharmacy Only,Duane Reade #14102,Broadway,New York,NY,10007,"Broadway
+New York, NY 10007
+(40.712520006, -74.00767001)",40.712520006,-74.00767001
+Richmond,Pharmacy Only,Walgreens #07321,Forest Ave,Staten Island,NY,10310,"Forest Ave
+Staten Island, NY 10310
+(40.626720868, -74.12797407)",40.626720868,-74.12797407
+New York,Pharmacy Only,Duane Reade #14319,W 20th St,New York,NY,10011,"W 20th St
+New York, NY 10011
+(40.743235574, -73.999409847)",40.743235574,-73.999409847
+Kings,Pharmacy Only,Americare Pharmacy Corp.,5th Ave,Brooklyn,NY,11209,"5th Ave
+Brooklyn, NY 11209
+(40.624133373, -74.024829246)",40.624133373,-74.024829246
+Bronx,Pharmacy Only,CSS Pharmacy Inc.,Grand Concourse,Bronx,NY,10453,"Grand Concourse
+Bronx, NY 10453
+(40.85073624, -73.905170701)",40.85073624,-73.905170701
+New York,Pharmacy Only,Duane Reade #14503,3rd Ave,New York,NY,10017,"3rd Ave
+New York, NY 10017
+(40.750940493, -73.974311201)",40.750940493,-73.974311201
+Bronx,Pharmacy Only,Defranco Pharmacy,Randall Avenue,Bronx,NY,10473,"Randall Avenue
+Bronx, NY 10473
+(40.818259241, -73.853788758)",40.818259241,-73.853788758
+Queens,Pharmacy Only,Walgreens #11126,Kissena Blvd,Flushing,NY,11367,"Kissena Blvd
+Flushing, NY 11367
+(40.727158729, -73.812517473)",40.727158729,-73.812517473
+Kings,Pharmacy Only,"A.M. Pharmacy, Inc.",8th Ave,Brooklyn,NY,11220,"8th Ave
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Bronx,Pharmacy Only,Peace Pharmacy Inc,University Avenue,Bronx,NY,10468,"University Avenue
+Bronx, NY 10468
+(40.866469572, -73.902462648)",40.866469572,-73.902462648
+Queens,Pharmacy Only,Duane Reade #14206,Beach Channel Dr,Far Rockaway,NY,11694,"Beach Channel Dr
+Far Rockaway, NY 11694
+(40.581688886, -73.840126751)",40.581688886,-73.840126751
+Kings,Pharmacy Only,Walgreens #10678,Myrtle Ave,Brooklyn,NY,11205,"Myrtle Ave
+Brooklyn, NY 11205
+(40.693123863, -73.969930633)",40.693123863,-73.969930633
+New York,Pharmacy Only,Duane Reade #14118,Broadway,New York,NY,10007,"Broadway
+New York, NY 10007
+(40.712520006, -74.00767001)",40.712520006,-74.00767001
+Queens,Pharmacy Only,Jackson Heights Pharmacy & Surgical,Roosevelt Avenue,Jackson Heights,NY,11372,"Roosevelt Avenue
+Jackson Heights, NY 11372
+(40.747096878, -73.888987581)",40.747096878,-73.888987581
+New York,Pharmacy Only,Duane Reade #14468,Union Square South,New York,NY,10003,"Union Square South
+New York, NY 10003
+(40.734799984, -73.990700009)",40.734799984,-73.990700009
+Queens,Pharmacy Only,Healthmax Pharmacy,Jamaica Av,Woodhaven,NY,11421,"Jamaica Av
+Woodhaven, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+New York,Pharmacy Only,Canal Pharmacy Inc.,Canal Street,New York,NY,10013,"Canal Street
+New York, NY 10013
+(40.722926572, -74.006777245)",40.722926572,-74.006777245
+New York,Pharmacy Only,Duane Reade #14412,Greenwich St,New York,NY,10013,"Greenwich St
+New York, NY 10013
+(40.721872682, -74.009834763)",40.721872682,-74.009834763
+Bronx,Pharmacy Only,Walgreens # 10411,E Fordham Rd,Bronx,NY,10458,"E Fordham Rd
+Bronx, NY 10458
+(40.86075613, -73.889558393)",40.86075613,-73.889558393
+Queens,Pharmacy Only,"Pharmacare Plus, Inc.",21 Ave,Astoria,NY,11105,"21 Ave
+Astoria, NY 11105
+(40.777352955, -73.907595541)",40.777352955,-73.907595541
+Queens,Pharmacy Only,Walgreens #04565,Guy R Brewer Blvd,Jamaica,NY,11434,"Guy R Brewer Blvd
+Jamaica, NY 11434
+(40.672801094, -73.775240654)",40.672801094,-73.775240654
+New York,Pharmacy Only,St. Anthony Pharmacy,Broadway,New York,NY,10032,"Broadway
+New York, NY 10032
+(40.837924012, -73.942152848)",40.837924012,-73.942152848
+Kings,Pharmacy Only,Walgreens #18135,86th St,Brooklyn,NY,11228,"86th St
+Brooklyn, NY 11228
+(40.615406696, -74.016107932)",40.615406696,-74.016107932
+New York,Pharmacy Only,Duane Reade #14125,Broad St,New York,NY,10004,"Broad St
+New York, NY 10004
+(40.704031481, -74.011570026)",40.704031481,-74.011570026
+New York,Pharmacy Only,Duane Reade #14181,Amsterdam Ave,New York,NY,10023,"Amsterdam Ave
+New York, NY 10023
+(40.774170496, -73.984887021)",40.774170496,-73.984887021
+Bronx,Pharmacy Only,Sjs Pharmacy Inc,East Burnside Avenue,Bronx,NY,10453,"East Burnside Avenue
+Bronx, NY 10453
+(40.853109233, -73.905502168)",40.853109233,-73.905502168
+Bronx,Pharmacy Only,West Street Pharmacy,West 183 Street,Bronx,NY,10453,"West 183 Street
+Bronx, NY 10453
+(40.859957526, -73.908448889)",40.859957526,-73.908448889
+Queens,Pharmacy Only,Van Wyck Prescription Center,Van Wyck Expressway,Richmond Hill,NY,11418,"Van Wyck Expressway
+Richmond Hill, NY 11418
+(40.699362385, -73.81496174)",40.699362385,-73.81496174
+Queens,Pharmacy Only,Walgreens #19694,Queens Boulevard,Forest Hills,NY,11375,"Queens Boulevard
+Forest Hills, NY 11375
+(40.718826368, -73.837854521)",40.718826368,-73.837854521
+Kings,Pharmacy Only,Yafit Pharmacy,East 7th Street,Brooklyn,NY,11223,"East 7th Street
+Brooklyn, NY 11223
+(40.600449445, -73.964563079)",40.600449445,-73.964563079
+Bronx,Pharmacy Only,Bridge Rx Pharmacy Inc.,Allerton Avenue,Bronx,NY,10467,"Allerton Avenue
+Bronx, NY 10467
+(40.865453963, -73.86597942)",40.865453963,-73.86597942
+New York,Pharmacy Only,Duane Reade #14146,Broadway,New York,NY,10025,"Broadway
+New York, NY 10025
+(40.797856, -73.968968)",40.797856,-73.968968
+Bronx,Pharmacy Only,161st Pharmacy & Surgical Supplies,East 161st Street,Bronx,NY,10451,"East 161st Street
+Bronx, NY 10451
+(40.826442846, -73.921289644)",40.826442846,-73.921289644
+New York,Pharmacy Only,Buy-Rite Pharmacy,Chatham Sq,New York,NY,10038,"Chatham Sq
+New York, NY 10038
+(40.713739992, -73.99795002)",40.713739992,-73.99795002
+Queens,Pharmacy Only,Victoria Pharmacy,Kissena Blvd,Flushing,NY,11355,"Kissena Blvd
+Flushing, NY 11355
+(40.755328445, -73.824509811)",40.755328445,-73.824509811
+Kings,Pharmacy Only,Walgreens #2650,Avenue U,Brooklyn,NY,11234,"Avenue U
+Brooklyn, NY 11234
+(40.612383336, -73.918590972)",40.612383336,-73.918590972
+New York,Pharmacy Only,Duane Reade #14524,Broadway,New York,NY,10019,"Broadway
+New York, NY 10019
+(40.76375668, -73.982619065)",40.76375668,-73.982619065
+New York,Pharmacy Only,"Metropharm, Inc.",Walker St,New York,NY,10013,"Walker St
+New York, NY 10013
+(40.718529191, -74.002310787)",40.718529191,-74.002310787
+Bronx,Pharmacy Only,1st Aid Pharmacy & Surgical Supplie,West Fordham Road,Bronx,NY,10468,"West Fordham Road
+Bronx, NY 10468
+(40.86274183, -73.908768937)",40.86274183,-73.908768937
+Kings,Pharmacy Only,Walgreens #13752,Flatbush Ave,Brooklyn,NY,11234,"Flatbush Ave
+Brooklyn, NY 11234
+(40.618684153, -73.932574171)",40.618684153,-73.932574171
+Bronx,Pharmacy Only,"Wecare Rx Plus, Inc",Westchester Avenue,Bronx,NY,10461,"Westchester Avenue
+Bronx, NY 10461
+(40.84667827, -73.832720631)",40.84667827,-73.832720631
+Queens,Pharmacy Only,Catalpa Chemists Corp.,Catalpa Avenue,Ridgewood,NY,11385,"Catalpa Avenue
+Ridgewood, NY 11385
+(40.703199091, -73.89840105)",40.703199091,-73.89840105
+Kings,Pharmacy Only,Duane Reade #14128,Fulton St,Brooklyn,NY,11201,"Fulton St
+Brooklyn, NY 11201
+(40.690243054, -73.984309551)",40.690243054,-73.984309551
+New York,Pharmacy Only,Duane Reade #14276,Broadway,New York,NY,10001,"Broadway
+New York, NY 10001
+(40.747233189, -73.988366138)",40.747233189,-73.988366138
+Queens,Pharmacy Only,Tazmi Pharmacy,Roosevelt Ave,Woodside,NY,11377,"Roosevelt Ave
+Woodside, NY 11377
+(40.745348898, -73.907306009)",40.745348898,-73.907306009
+New York,Pharmacy Only,Duane Reade #14200,2nd Ave,New York,NY,10016,"2nd Ave
+New York, NY 10016
+(40.744170718, -73.976340142)",40.744170718,-73.976340142
+Kings,Pharmacy Only,Nate's Pharmacy,Van Brunt St,Brooklyn,NY,11231,"Van Brunt St
+Brooklyn, NY 11231
+(40.678512856, -74.01151333)",40.678512856,-74.01151333
+Bronx,Pharmacy Only,Bridge Care Pharmacy Inc,Boston Road,Bronx,NY,10475,"Boston Road
+Bronx, NY 10475
+(40.885506344, -73.829036156)",40.885506344,-73.829036156
+Richmond,Pharmacy Only,Walgreens #06179,Richmond Ave,Staten Island,NY,10314,"Richmond Ave
+Staten Island, NY 10314
+(40.598887445, -74.162748744)",40.598887445,-74.162748744
+Kings,Pharmacy Only,Family Pharmacy,Flatbush Ave,Brooklyn,NY,11226,"Flatbush Ave
+Brooklyn, NY 11226
+(40.646602568, -73.958112669)",40.646602568,-73.958112669
+Kings,Pharmacy Only,"La Ruche Pharmacy, Inc.",Rockaway Parkway,Brooklyn,NY,11212,"Rockaway Parkway
+Brooklyn, NY 11212
+(40.659949643, -73.918817127)",40.659949643,-73.918817127
+Bronx,Pharmacy Only,"Pelham Pharmacy, Inc.",White Plains Road,Bronx,NY,10462,"White Plains Road
+Bronx, NY 10462
+(40.853813784, -73.867714112)",40.853813784,-73.867714112
+Kings,Pharmacy Only,"Geo Pharmacy, Inc.",Coney Island Av,Brooklyn,NY,11218,"Coney Island Av
+Brooklyn, NY 11218
+(40.642233074, -73.969645416)",40.642233074,-73.969645416
+New York,Pharmacy Only,Duane Reade #21354,West 51st Street,New York,NY,10019,"West 51st Street
+New York, NY 10019
+(40.76330847, -73.986589411)",40.76330847,-73.986589411
+Kings,Pharmacy Only,Rx Choice Pharmacy Inc.,Avenue U,Brooklyn,NY,11229,"Avenue U
+Brooklyn, NY 11229
+(40.600339695, -73.942702968)",40.600339695,-73.942702968
+Bronx,Pharmacy Only,Bronx Family Pharmacy Corp,White Plains Road,Bronx,NY,10462,"White Plains Road
+Bronx, NY 10462
+(40.853813784, -73.867714112)",40.853813784,-73.867714112
+Queens,Pharmacy Only,Walgreens #5051,Merrick Blvd,Laurelton,NY,11413,"Merrick Blvd
+Laurelton, NY 11413
+(40.677663119, -73.74510356)",40.677663119,-73.74510356
+Bronx,Pharmacy Only,Leroy Pharmacy,East 204th Street,Bronx,NY,10467,"East 204th Street
+Bronx, NY 10467
+(40.872131927, -73.877772155)",40.872131927,-73.877772155
+Richmond,Pharmacy Only,"Classic Pharmacy, Inc.",Clove Rd,Staten Island,NY,10301,"Clove Rd
+Staten Island, NY 10301
+(40.619882533, -74.108139524)",40.619882533,-74.108139524
+Richmond,Pharmacy Only,Walgreens #13750,Amboy Rd,Staten Island,NY,10307,"Amboy Rd
+Staten Island, NY 10307
+(40.510303139, -74.243005835)",40.510303139,-74.243005835
+New York,Pharmacy Only,Duane Reade #14408,Broadway,New York,NY,10013,"Broadway
+New York, NY 10013
+(40.719090014, -74.002104972)",40.719090014,-74.002104972
+Kings,Pharmacy Only,Duane Reade #14410,Myrtle Ave,Brooklyn,NY,11206,"Myrtle Ave
+Brooklyn, NY 11206
+(40.696058921, -73.943251594)",40.696058921,-73.943251594
+Queens,Pharmacy Only,Duane Reade #14438,Roosevelt Ave,Flushing,NY,11354,"Roosevelt Ave
+Flushing, NY 11354
+(40.76303365, -73.816888447)",40.76303365,-73.816888447
+Bronx,Pharmacy Only,Truemed Pharmacy Corp,Webster Avenue,Bronx,NY,10457,"Webster Avenue
+Bronx, NY 10457
+(40.846857045, -73.901421686)",40.846857045,-73.901421686
+New York,Pharmacy Only,Villy Kx Pharmacy,Hester Street,New York,NY,10013,"Hester Street
+New York, NY 10013
+(40.717981157, -73.997424258)",40.717981157,-73.997424258
+Kings,Pharmacy Only,New Brooklyn Pharmacy Inc.,Flatbush Ave,Brooklyn,NY,11210,"Flatbush Ave
+Brooklyn, NY 11210
+(40.627100179, -73.941595472)",40.627100179,-73.941595472
+New York,Pharmacy Only,Duane Reade #14499,Dyckman St,New York,NY,10040,"Dyckman St
+New York, NY 10040
+(40.865409985, -73.927169961)",40.865409985,-73.927169961
+Bronx,Pharmacy Only,Nvr Pharmacy Inc.,Mt Eden Avenue,Bronx,NY,10452,"Mt Eden Avenue
+Bronx, NY 10452
+(40.843360726, -73.912188358)",40.843360726,-73.912188358
+Bronx,Pharmacy Only,United Pharmacy Llc,Broadway,Bronx,NY,10463,"Broadway
+Bronx, NY 10463
+(40.881507219, -73.902970873)",40.881507219,-73.902970873
+Kings,Pharmacy Only,"Brighton Rx, Inc.",Brighton Beach Avenue,Brooklyn,NY,11235,"Brighton Beach Avenue
+Brooklyn, NY 11235
+(40.57767129, -73.961194181)",40.57767129,-73.961194181
+Kings,Pharmacy Only,Katz Drugs,Graham Ave,Brooklyn,NY,11206,"Graham Ave
+Brooklyn, NY 11206
+(40.706265813, -73.943035736)",40.706265813,-73.943035736
+Queens,Pharmacy Only,"Mercy Pharmacy & Surgical Supplies,",51st Street,Woodside,NY,11377,"51st Street
+Woodside, NY 11377
+(40.75548943, -73.908383665)",40.75548943,-73.908383665
+Bronx,Pharmacy Only,Mott Haven Pharmacy,East 141st Street,Bronx,NY,10454,"East 141st Street
+Bronx, NY 10454
+(40.808077853, -73.91451513)",40.808077853,-73.91451513
+Kings,Pharmacy Only,Walgreens #11141,Broadway,Brooklyn,NY,11221,"Broadway
+Brooklyn, NY 11221
+(40.69447544, -73.93078414)",40.69447544,-73.93078414
+Kings,Pharmacy Only,Livingword Pharmacy Inc,Utica Ave,Brooklyn,NY,11203,"Utica Ave
+Brooklyn, NY 11203
+(40.650159197, -73.930216953)",40.650159197,-73.930216953
+New York,Pharmacy Only,Duane Reade #14194,Broadway #7,New York,NY,10025,"Broadway #7
+New York, NY 10025
+(40.807999191, -73.963712438)",40.807999191,-73.963712438
+Bronx,Pharmacy Only,Walgreens # 12309,Eastchester Rd,Bronx,NY,10469,"Eastchester Rd
+Bronx, NY 10469
+(40.875179329, -73.84535421)",40.875179329,-73.84535421
+Queens,Pharmacy Only,Walgreens #04058,Astoria Blvd,East Elmhurst,NY,11369,"Astoria Blvd
+East Elmhurst, NY 11369
+(40.762376675, -73.871186657)",40.762376675,-73.871186657
+Queens,Pharmacy Only,Duane Reade #14314,Myrtle Ave,Ridgewood,NY,11385,"Myrtle Ave
+Ridgewood, NY 11385
+(40.702500624, -73.873977684)",40.702500624,-73.873977684
+Kings,Pharmacy Only,"Marino Pharmacy, Inc.",Wyckoff Ave,Brooklyn,NY,11237,"Wyckoff Ave
+Brooklyn, NY 11237
+(40.703431233, -73.917829949)",40.703431233,-73.917829949
+Bronx,Pharmacy Only,Walgreens #7627,Boston Rd,Bronx,NY,10469,"Boston Rd
+Bronx, NY 10469
+(40.869055167, -73.857998926)",40.869055167,-73.857998926
+Bronx,Pharmacy Only,Perla Pharmacy,East Tremont Avenue,Bronx,NY,10460,"East Tremont Avenue
+Bronx, NY 10460
+(40.841624575, -73.883449118)",40.841624575,-73.883449118
+New York,Pharmacy Only,Duane Reade #14104,Park Ave S,New York,NY,10016,"Park Ave S
+New York, NY 10016
+(40.743920094, -73.983569956)",40.743920094,-73.983569956
+Queens,Pharmacy Only,Duane Reade #14423,Broadway,Astoria,NY,11106,"Broadway
+Astoria, NY 11106
+(40.763484339, -73.928562832)",40.763484339,-73.928562832
+Queens,Pharmacy Only,Walgreens #02055,Francis Lewis Blvd,Queens Village,NY,11429,"Francis Lewis Blvd
+Queens Village, NY 11429
+(40.70495999, -73.75013)",40.70495999,-73.75013
+Bronx,Pharmacy Only,Security Drugs,Boston Road,Bronx,NY,10469,"Boston Road
+Bronx, NY 10469
+(40.869055167, -73.857998926)",40.869055167,-73.857998926
+New York,Pharmacy Only,Duane Reade #14417,W 125th St,New York,NY,10027,"W 125th St
+New York, NY 10027
+(40.81695014, -73.959426152)",40.81695014,-73.959426152
+Bronx,Pharmacy Only,Amazing Pharmacy,East Tremont Avenue,Bronx,NY,10457,"East Tremont Avenue
+Bronx, NY 10457
+(40.847177139, -73.898829356)",40.847177139,-73.898829356
+Kings,Pharmacy Only,Echo Drugs Inc.,Broadway,Brooklyn,NY,11211,"Broadway
+Brooklyn, NY 11211
+(40.707394123, -73.954927715)",40.707394123,-73.954927715
+Queens,Pharmacy Only,Mil-Rue Chemists Inc.,Fresh Pond Rd,Ridgewood,NY,11385,"Fresh Pond Rd
+Ridgewood, NY 11385
+(40.706887204, -73.897125209)",40.706887204,-73.897125209
+New York,Pharmacy Only,Duane Reade #14126,Wall Street,New York,NY,10005,"Wall Street
+New York, NY 10005
+(40.70711, -74.01061)",40.70711,-74.01061
+Queens,Pharmacy Only,Vida Care Pharmacy Llc,90th Street,Jackson Heights,NY,11372,"90th Street
+Jackson Heights, NY 11372
+(40.752379373, -73.877205398)",40.752379373,-73.877205398
+Queens,Pharmacy Only,County Pharmacy Corp.,Hempstead Ave,Queens Village,NY,11429,"Hempstead Ave
+Queens Village, NY 11429
+(40.713820171, -73.737517368)",40.713820171,-73.737517368
+Queens,Pharmacy Only,Walgreens #17876,Myrtle Ave,Ridgewood,NY,11385,"Myrtle Ave
+Ridgewood, NY 11385
+(40.702500624, -73.873977684)",40.702500624,-73.873977684
+Queens,Pharmacy Only,Walgreens #19794,Ditmars Boulevard,Astoria,NY,11105,"Ditmars Boulevard
+Astoria, NY 11105
+(40.775665734, -73.910044323)",40.775665734,-73.910044323
+Bronx,Pharmacy Only,Rosa Pharmacy And Surgical Supply,East Mount Eden Avenue,Bronx,NY,10452,"East Mount Eden Avenue
+Bronx, NY 10452
+(40.84338868, -73.912623983)",40.84338868,-73.912623983
+Kings,Pharmacy Only,Rxcircle Pharmacy Corp,7th Avenue,Brooklyn,NY,11220,"7th Avenue
+Brooklyn, NY 11220
+(40.639888085, -74.00857688)",40.639888085,-74.00857688
+Kings,Pharmacy Only,Duane Reade #14432,5th Ave,Brooklyn,NY,11220,"5th Ave
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+New York,Pharmacy Only,Duane Reade #14335,W 145th St,New York,NY,10039,"W 145th St
+New York, NY 10039
+(40.821851035, -73.939606819)",40.821851035,-73.939606819
+Kings,Pharmacy Only,Walgreens #15352,Fulton St,Brooklyn,NY,11216,"Fulton St
+Brooklyn, NY 11216
+(40.680257406, -73.947077748)",40.680257406,-73.947077748
+Bronx,Pharmacy Only,Randall Pharmacy,Randall Avenue,Bronx,NY,10473,"Randall Avenue
+Bronx, NY 10473
+(40.818259241, -73.853788758)",40.818259241,-73.853788758
+Kings,Pharmacy Only,"Rafieh Pharmacy, Inc.",Lee Avenue,Brooklyn,NY,11211,"Lee Avenue
+Brooklyn, NY 11211
+(40.704744686, -73.958840853)",40.704744686,-73.958840853
+Kings,Pharmacy Only,Walgreens # 11555,18th Ave,Brooklyn,NY,11204,"18th Ave
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+Kings,Pharmacy Only,Mercy Pharmacy Inc.,18th Av,Brooklyn,NY,11204,"18th Av
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+New York,Pharmacy Only,Duane Reade #14260,7th Ave,New York,NY,10011,"7th Ave
+New York, NY 10011
+(40.740665152, -73.998147769)",40.740665152,-73.998147769
+Kings,Pharmacy Only,Walgreens #10441,Coney Island Ave,Brooklyn,NY,11223,"Coney Island Ave
+Brooklyn, NY 11223
+(40.6007957, -73.961383742)",40.6007957,-73.961383742
+Kings,Pharmacy Only,Aa Pharmacy,57th Street,Brooklyn,NY,11220,"57th Street
+Brooklyn, NY 11220
+(40.639752628, -74.012037396)",40.639752628,-74.012037396
+Kings,Pharmacy Only,Woodhull Drugs,Ellery Street,Brooklyn,NY,11206,"Ellery Street
+Brooklyn, NY 11206
+(40.69940701, -73.940320218)",40.69940701,-73.940320218
+Kings,Pharmacy Only,Qualimeds Pharmacy,86th St,Brooklyn,NY,11214,"86th St
+Brooklyn, NY 11214
+(40.605296074, -73.999391361)",40.605296074,-73.999391361
+Kings,Pharmacy Only,Alleon Pharmacy,Fort Hamilton Pkwy,Brooklyn,NY,11219,"Fort Hamilton Pkwy
+Brooklyn, NY 11219
+(40.635448124, -74.002042816)",40.635448124,-74.002042816
+Bronx,Pharmacy Only,Parkchester Pharmacy,Metropolitan Avenue,Bronx,NY,10462,"Metropolitan Avenue
+Bronx, NY 10462
+(40.835507081, -73.861019981)",40.835507081,-73.861019981
+Queens,Pharmacy Only,Broadway Pharmacy,55th Avenue,Elmhurst,NY,11373,"55th Avenue
+Elmhurst, NY 11373
+(40.736524653, -73.874074946)",40.736524653,-73.874074946
+Bronx,Pharmacy Only,Circle Pharmacy Corp.,Hugh J. Grant Circle,Bronx,NY,10472,"Hugh J. Grant Circle
+Bronx, NY 10472
+(40.832723383, -73.860701594)",40.832723383,-73.860701594
+Kings,Pharmacy Only,"Elm Pharmacy, Inc.",Coney Island Ave,Brooklyn,NY,11230,"Coney Island Ave
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+Kings,Pharmacy Only,Fine Care Pharmacy,Broadway,Brooklyn,NY,11207,"Broadway
+Brooklyn, NY 11207
+(40.683079269, -73.910795599)",40.683079269,-73.910795599
+New York,Pharmacy Only,Duane Reade #14225,Broadway,New York,NY,10025,"Broadway
+New York, NY 10025
+(40.797856, -73.968968)",40.797856,-73.968968
+Queens,Pharmacy Only,Shalom Pharmacy,Main Street,Flushing,NY,11367,"Main Street
+Flushing, NY 11367
+(40.732119616, -73.824486948)",40.732119616,-73.824486948
+New York,Pharmacy Only,Duane Reade #14465,3rd Ave,New York,NY,10022,"3rd Ave
+New York, NY 10022
+(40.760734997, -73.967169995)",40.760734997,-73.967169995
+Kings,Pharmacy Only,Hoyt Pharmacy & Surgical Supplies,Atlantic Avenue,Brooklyn,NY,11208,"Atlantic Avenue
+Brooklyn, NY 11208
+(40.678139938, -73.884244889)",40.678139938,-73.884244889
+Bronx,Pharmacy Only,Medi Center Pharmacy,Boston Road,Bronx,NY,10456,"Boston Road
+Bronx, NY 10456
+(40.829322231, -73.902525344)",40.829322231,-73.902525344
+Bronx,Pharmacy Only,Castle Hill Community Pharmacy,Castle Hill Avenue,Bronx,NY,10473,"Castle Hill Avenue
+Bronx, NY 10473
+(40.81923468, -73.848082644)",40.81923468,-73.848082644
+Richmond,Pharmacy Only,Walgreens #10475,Clove Rd,Staten Island,NY,10305,"Clove Rd
+Staten Island, NY 10305
+(40.600957357, -74.08143649)",40.600957357,-74.08143649
+New York,Pharmacy Only,Duane Reade #14265,3rd Ave,New York,NY,10003,"3rd Ave
+New York, NY 10003
+(40.730824616, -73.988973308)",40.730824616,-73.988973308
+Kings,Pharmacy Only,Walgreens #10064,Avenue U,Brooklyn,NY,11229,"Avenue U
+Brooklyn, NY 11229
+(40.600339695, -73.942702968)",40.600339695,-73.942702968
+Kings,Pharmacy Only,Absoluterx Pharmacy,8th Avenue,Brooklyn,NY,11220,"8th Avenue
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Queens,Pharmacy Only,Duane Reade #14477,63rd Dr,Rego Park,NY,11374,"63rd Dr
+Rego Park, NY 11374
+(40.726346719, -73.864778861)",40.726346719,-73.864778861
+Kings,Pharmacy Only,Walgreens #17670,Flatbush Ave,Brooklyn,NY,11210,"Flatbush Ave
+Brooklyn, NY 11210
+(40.627100179, -73.941595472)",40.627100179,-73.941595472
+Kings,Pharmacy Only,Remedies Pharmacy,Bedford Avenue,Brooklyn,NY,11206,"Bedford Avenue
+Brooklyn, NY 11206
+(40.699903081, -73.957215639)",40.699903081,-73.957215639
+Queens,Pharmacy Only,Elmhurst Pharmacy & Home Infusion I,Baxter Av,Elmhurst,NY,11373,"Baxter Av
+Elmhurst, NY 11373
+(40.745857144, -73.883796016)",40.745857144,-73.883796016
+New York,Pharmacy Only,Walgreens #1214,2nd Ave,New York,NY,10021,"2nd Ave
+New York, NY 10021
+(40.769133761, -73.958140875)",40.769133761,-73.958140875
+Queens,Pharmacy Only,Sunrise Pharmacy,Jamaica Av,Richmond Hill,NY,11418,"Jamaica Av
+Richmond Hill, NY 11418
+(40.697910308, -73.835528358)",40.697910308,-73.835528358
+Kings,Pharmacy Only,Neergaard Pharmacy,5 Ave,Brooklyn,NY,11215,"5 Ave
+Brooklyn, NY 11215
+(40.668128602, -73.987165162)",40.668128602,-73.987165162
+Queens,Pharmacy Only,Walgreens #9869,Eliot Ave,Middle Village,NY,11379,"Eliot Ave
+Middle Village, NY 11379
+(40.721298968, -73.887217571)",40.721298968,-73.887217571
+Bronx,Pharmacy Only,Bryant Pharmacy,Bryant Avenue,Bronx,NY,10460,"Bryant Avenue
+Bronx, NY 10460
+(40.834226843, -73.886460431)",40.834226843,-73.886460431
+New York,Pharmacy Only,Duane Reade #14153,3rd Ave,New York,NY,10022,"3rd Ave
+New York, NY 10022
+(40.760734997, -73.967169995)",40.760734997,-73.967169995
+Queens,Pharmacy Only,"Health Source Plus Pharmacy, Llc",Metropolitan Ave,Kew Gardens,NY,11415,"Metropolitan Ave
+Kew Gardens, NY 11415
+(40.705294037, -73.828768083)",40.705294037,-73.828768083
+Kings,Pharmacy Only,Walgreens #11806,Beverley Rd,Brooklyn,NY,11218,"Beverley Rd
+Brooklyn, NY 11218
+(40.64360558, -73.971319196)",40.64360558,-73.971319196
+Kings,Pharmacy Only,Dahill Pharmacy Inc.,Church Avenue,Brooklyn,NY,11218,"Church Avenue
+Brooklyn, NY 11218
+(40.645041076, -73.974101779)",40.645041076,-73.974101779
+New York,Pharmacy Only,"Pancare Pharmacy, Inc.",Bowery St,New York,NY,10013,"Bowery St
+New York, NY 10013
+(40.717015303, -73.995590659)",40.717015303,-73.995590659
+New York,Pharmacy Only,Duane Reade #14489,Broadway,New York,NY,10031,"Broadway
+New York, NY 10031
+(40.825168807, -73.951470904)",40.825168807,-73.951470904
+Queens,Pharmacy Only,Duane Reade #14271,Jamaica Ave,Jamaica,NY,11421,"Jamaica Ave
+Jamaica, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+Bronx,Pharmacy Only,Walgreens # 10989,Boston Rd,Bronx,NY,10467,"Boston Rd
+Bronx, NY 10467
+(40.861766057, -73.866651958)",40.861766057,-73.866651958
+Queens,Pharmacy Only,"Med Rx Pharmacy, Inc",Queens Boulevard,Rego Park,NY,11374,"Queens Boulevard
+Rego Park, NY 11374
+(40.728909273, -73.858804065)",40.728909273,-73.858804065
+Kings,Pharmacy Only,Duane Reade #14312,Flatbush Ave,Brooklyn,NY,11217,"Flatbush Ave
+Brooklyn, NY 11217
+(40.681552627, -73.975632978)",40.681552627,-73.975632978
+Queens,Pharmacy Only,Duane Reade #14390,5th St,Long Island City,NY,11101,"5th St
+Long Island City, NY 11101
+(40.744912715, -73.95585269)",40.744912715,-73.95585269
+Kings,Pharmacy Only,Value Med Pharmacy,Avenue O,Brooklyn,NY,11204,"Avenue O
+Brooklyn, NY 11204
+(40.610538045, -73.981100501)",40.610538045,-73.981100501
+Bronx,Pharmacy Only,Stat Rx Pharmacy Inc,East 167th Street,Bronx,NY,10456,"East 167th Street
+Bronx, NY 10456
+(40.831001581, -73.911466562)",40.831001581,-73.911466562
+New York,Pharmacy Only,Duane Reade #14369,Madison Ave,New York,NY,10029,"Madison Ave
+New York, NY 10029
+(40.793608276, -73.949511218)",40.793608276,-73.949511218
+Bronx,Pharmacy Only,Walgreens #5074,Westchester Sq,Bronx,NY,10461,"Westchester Sq
+Bronx, NY 10461
+(40.841370572, -73.843162129)",40.841370572,-73.843162129
+New York,Pharmacy Only,Duane Reade #14272,Columbus Cir,New York,NY,10019,"Columbus Cir
+New York, NY 10019
+(40.767746506, -73.981545006)",40.767746506,-73.981545006
+Queens,Pharmacy Only,Pharmex Pharmacy Inc.,Rockaway Blvd,Jamaica,NY,11436,"Rockaway Blvd
+Jamaica, NY 11436
+(40.673875863, -73.795736155)",40.673875863,-73.795736155
+New York,Pharmacy Only,Duane Reade #14488,Lexington Ave,New York,NY,10022,"Lexington Ave
+New York, NY 10022
+(40.759360758, -73.970276611)",40.759360758,-73.970276611
+Kings,Pharmacy Only,Future Pharmacy Corp.,65th St,Brooklyn,NY,11204,"65th St
+Brooklyn, NY 11204
+(40.620766974, -73.992873185)",40.620766974,-73.992873185
+Kings,Pharmacy Only,"Knapp Nutritional & Pharmacy, Inc.",Church Ave,Brooklyn,NY,11212,"Church Ave
+Brooklyn, NY 11212
+(40.655478672, -73.91581346)",40.655478672,-73.91581346
+New York,Pharmacy Only,Duane Reade #14111,Broadway,New York,NY,10018,"Broadway
+New York, NY 10018
+(40.753041, -73.984996)",40.753041,-73.984996
+Bronx,Pharmacy Only,Good Life Pharmacy,Grand Concourse,Bronx,NY,10458,"Grand Concourse
+Bronx, NY 10458
+(40.868371938, -73.892469081)",40.868371938,-73.892469081
+Queens,Pharmacy Only,Apex Pharmacy Inc.,Sutphin Blvd.,Jamaica,NY,11434,"Sutphin Blvd.
+Jamaica, NY 11434
+(40.679467118, -73.791729837)",40.679467118,-73.791729837
+Queens,Pharmacy Only,Walgreens #4319,Broadway,Elmhurst,NY,11373,"Broadway
+Elmhurst, NY 11373
+(40.742797206, -73.882595005)",40.742797206,-73.882595005
+Bronx,Pharmacy Only,Aldus Pharmacy,Southern Blvd,Bronx,NY,10459,"Southern Blvd
+Bronx, NY 10459
+(40.82386322, -73.891859421)",40.82386322,-73.891859421
+Kings,Pharmacy Only,Voorhies Health Pharmacy Inc,Voorhies Ave,Brooklyn,NY,11235,"Voorhies Ave
+Brooklyn, NY 11235
+(40.586968016, -73.942287947)",40.586968016,-73.942287947
+Kings,Pharmacy Only,Duane Reade #14444,Ralph Ave,Brooklyn,NY,11234,"Ralph Ave
+Brooklyn, NY 11234
+(40.625225037, -73.917869494)",40.625225037,-73.917869494
+Kings,Pharmacy Only,Walgreens #10941,Church Ave,Brooklyn,NY,11226,"Church Ave
+Brooklyn, NY 11226
+(40.647725722, -73.967413861)",40.647725722,-73.967413861
+Kings,Pharmacy Only,Walgreens #11808,Flatlands Ave,Brooklyn,NY,11234,"Flatlands Ave
+Brooklyn, NY 11234
+(40.624763187, -73.929896474)",40.624763187,-73.929896474
+Queens,Pharmacy Only,Duane Reade #14325,Steinway St,Astoria,NY,11103,"Steinway St
+Astoria, NY 11103
+(40.763000954, -73.915727824)",40.763000954,-73.915727824
+Kings,Pharmacy Only,"Fulton 1st Pharmacy, Inc.",Fulton Street,Brooklyn,NY,11216,"Fulton Street
+Brooklyn, NY 11216
+(40.680257406, -73.947077748)",40.680257406,-73.947077748
+Bronx,Pharmacy Only,Medstop Pharmacy & Surgical Supplie,Jerome Avenue,Bronx,NY,10452,"Jerome Avenue
+Bronx, NY 10452
+(40.835148, -73.924245)",40.835148,-73.924245
+Queens,Pharmacy Only,Duane Reade #14431,82nd St,Jackson Heights,NY,11372,"82nd St
+Jackson Heights, NY 11372
+(40.751585139, -73.884647945)",40.751585139,-73.884647945
+New York,Pharmacy Only,Duane Reade #14297,8th Ave,New York,NY,10019,"8th Ave
+New York, NY 10019
+(40.761645414, -73.986526137)",40.761645414,-73.986526137
+Richmond,Pharmacy Only,Walgreens #09204,Manor Rd,Staten Island,NY,10314,"Manor Rd
+Staten Island, NY 10314
+(40.61120088, -74.121807871)",40.61120088,-74.121807871
+New York,Pharmacy Only,Walgreens #6160,5th Ave,New York,NY,10118,"5th Ave
+New York, NY 10118
+(40.748359997, -73.984619986)",40.748359997,-73.984619986
+New York,Pharmacy Only,Inwood Pharmacy,Broadway,New York,NY,10034,"Broadway
+New York, NY 10034
+(40.868737696, -73.917929147)",40.868737696,-73.917929147
+Bronx,Pharmacy Only,Mt. Carmel Pharmacy,East 187th Street,Bronx,NY,10458,"East 187th Street
+Bronx, NY 10458
+(40.85579327, -73.88801136)",40.85579327,-73.88801136
+Bronx,Pharmacy Only,Goodman Plaza Pharmacy Inc,Third Avenue,Bronx,NY,10456,"Third Avenue
+Bronx, NY 10456
+(40.830808951, -73.905946751)",40.830808951,-73.905946751
+Kings,Pharmacy Only,Fine Care Pharmacy,13th Avenue,Brooklyn,NY,11219,"13th Avenue
+Brooklyn, NY 11219
+(40.631580168, -73.995655412)",40.631580168,-73.995655412
+Kings,Pharmacy Only,"Coney Island Chemist, Inc.",Coney Island Ave,Brooklyn,NY,11223,"Coney Island Ave
+Brooklyn, NY 11223
+(40.6007957, -73.961383742)",40.6007957,-73.961383742
+Bronx,Pharmacy Only,Walgreens #11267,E 161st Street,Bronx,NY,10451,"E 161st Street
+Bronx, NY 10451
+(40.826442846, -73.921289644)",40.826442846,-73.921289644
+New York,Pharmacy Only,Thriftway Pharmacy,10th Ave,New York,NY,10036,"10th Ave
+New York, NY 10036
+(40.761204147, -73.994321016)",40.761204147,-73.994321016
+Kings,Pharmacy Only,Smart Choice Pharmacy,Ave X,Brooklyn,NY,11223,"Ave X
+Brooklyn, NY 11223
+(40.590481665, -73.970725849)",40.590481665,-73.970725849
+Kings,Pharmacy Only,Lane Drugs,13th Ave,Brooklyn,NY,11219,"13th Ave
+Brooklyn, NY 11219
+(40.631580168, -73.995655412)",40.631580168,-73.995655412
+Queens,Pharmacy Only,Nature's Way Pharmacy,Myrtle Ave,Ridgewood,NY,11385,"Myrtle Ave
+Ridgewood, NY 11385
+(40.702500624, -73.873977684)",40.702500624,-73.873977684
+Queens,Pharmacy Only,National Pharmacy,National St,Corona,NY,11368,"National St
+Corona, NY 11368
+(40.747464981, -73.863518052)",40.747464981,-73.863518052
+Bronx,Pharmacy Only,Wellcare Pharmacy,East 180th Street,Bronx,NY,10460,"East 180th Street
+Bronx, NY 10460
+(40.842224, -73.876117)",40.842224,-73.876117
+New York,Pharmacy Only,Duane Reade #21261,8th Ave,New York,NY,10036,"8th Ave
+New York, NY 10036
+(40.757629983, -73.989499972)",40.757629983,-73.989499972
+Kings,Pharmacy Only,Thriftway Pharmacy,Classon Avenue,Brooklyn,NY,11238,"Classon Avenue
+Brooklyn, NY 11238
+(40.677630006, -73.959064442)",40.677630006,-73.959064442
+Kings,Pharmacy Only,A One Pharmacy Inc.,8th Avenue,Brooklyn,NY,11220,"8th Avenue
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Bronx,Pharmacy Only,City Line Pharmacy,White Plains Road,Bronx,NY,10470,"White Plains Road
+Bronx, NY 10470
+(40.903429022, -73.850371164)",40.903429022,-73.850371164
+Kings,Pharmacy Only,Walgreens #12732,3rd Ave,Brooklyn,NY,11209,"3rd Ave
+Brooklyn, NY 11209
+(40.624059334, -74.030818893)",40.624059334,-74.030818893
+Queens,Pharmacy Only,Medicmasters Pharmacy & Surgical Su,Jamaica Avenue,Jamaica,NY,11432,"Jamaica Avenue
+Jamaica, NY 11432
+(40.706413026, -73.792487356)",40.706413026,-73.792487356
+Queens,Pharmacy Only,Starside Drugs,Main Street,Flushing,NY,11355,"Main Street
+Flushing, NY 11355
+(40.754487704, -73.827950753)",40.754487704,-73.827950753
+New York,Pharmacy Only,Duane Reade #14356,N End Ave,New York,NY,10282,"N End Ave
+New York, NY 10282
+(40.715830478, -74.015389638)",40.715830478,-74.015389638
+Queens,Pharmacy Only,Walgreens #19224,Union Turnpike,Glen Oaks,NY,11004,"Union Turnpike
+Glen Oaks, NY 11004
+(40.747460157, -73.711070915)",40.747460157,-73.711070915
+Kings,Pharmacy Only,Forever Health Pharmacy,18th Avenue,Brooklyn,NY,11204,"18th Avenue
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+Kings,Pharmacy Only,"YMD Pharmacy, Inc.",Utica Avenue,Brooklyn,NY,11203,"Utica Avenue
+Brooklyn, NY 11203
+(40.650159197, -73.930216953)",40.650159197,-73.930216953
+Queens,Pharmacy Only,Walgreens #07367,College Point Blvd,College Point,NY,11356,"College Point Blvd
+College Point, NY 11356
+(40.784669876, -73.845796279)",40.784669876,-73.845796279
+Bronx,Pharmacy Only,Gig Pharmacy Inc.,Jerome Avenue,Bronx,NY,10467,"Jerome Avenue
+Bronx, NY 10467
+(40.882873847, -73.88112239)",40.882873847,-73.88112239
+Bronx,Pharmacy Only,Walgreens #12899,E Tremont Ave,Bronx,NY,10461,"E Tremont Ave
+Bronx, NY 10461
+(40.839669429, -73.836866509)",40.839669429,-73.836866509
+Kings,Pharmacy Only,Duane Reade #14277,Cortelyou Rd,Brooklyn,NY,11226,"Cortelyou Rd
+Brooklyn, NY 11226
+(40.644292785, -73.951952827)",40.644292785,-73.951952827
+Queens,Pharmacy Only,Walgreens #4688,14th Ave,Whitestone,NY,11357,"14th Ave
+Whitestone, NY 11357
+(40.78892265, -73.800872619)",40.78892265,-73.800872619
+Queens,Pharmacy Only,Jamaica Pharmacy Within,Hillside Ave,Jamaica,NY,11432,"Hillside Ave
+Jamaica, NY 11432
+(40.711010006, -73.792219979)",40.711010006,-73.792219979
+New York,Pharmacy Only,Uptown Care Pharmacy Llc,2nd Ave,New York,NY,10029,"2nd Ave
+New York, NY 10029
+(40.790626109, -73.942432808)",40.790626109,-73.942432808
+Kings,Pharmacy Only,Kenby Drugs,5th Avenue,Brooklyn,NY,11220,"5th Avenue
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+New York,Pharmacy Only,Duane Reade #14134,W 57th Street,New York,NY,10019,"W 57th Street
+New York, NY 10019
+(40.766510002, -73.982355028)",40.766510002,-73.982355028
+New York,Pharmacy Only,Duane Reade #14209,Columbus Ave,New York,NY,10024,"Columbus Ave
+New York, NY 10024
+(40.784852955, -73.973398782)",40.784852955,-73.973398782
+Kings,Pharmacy Only,J Drugs,Avenue J,Brooklyn,NY,11230,"Avenue J
+Brooklyn, NY 11230
+(40.624626054, -73.966611167)",40.624626054,-73.966611167
+Kings,Pharmacy Only,Abo Pharmacy & Medical Supplies,Flatlands Ave,Brooklyn,NY,11236,"Flatlands Ave
+Brooklyn, NY 11236
+(40.640211735, -73.90600239)",40.640211735,-73.90600239
+Kings,Pharmacy Only,"Infant Formula Laboratory Service,",Livonia Ave,Brooklyn,NY,11207,"Livonia Ave
+Brooklyn, NY 11207
+(40.665151469, -73.891436217)",40.665151469,-73.891436217
+New York,Pharmacy Only,Duane Reade #14400,John St,New York,NY,10038,"John St
+New York, NY 10038
+(40.708201436, -74.006499441)",40.708201436,-74.006499441
+Bronx,Pharmacy Only,Walgreens #1013,Broadway,Bronx,NY,10463,"Broadway
+Bronx, NY 10463
+(40.881507219, -73.902970873)",40.881507219,-73.902970873
+Kings,Pharmacy Only,Ditmas Pharmacy Corp.,Ditmas Avenue,Brooklyn,NY,11218,"Ditmas Avenue
+Brooklyn, NY 11218
+(40.636034171, -73.973561635)",40.636034171,-73.973561635
+New York,Pharmacy Only,Duane Reade #14436,Water Street,New York,NY,10038,"Water Street
+New York, NY 10038
+(40.708028612, -74.002392748)",40.708028612,-74.002392748
+Kings,Pharmacy Only,Mg Pharmacy Inc.,Broadway,Brooklyn,NY,11221,"Broadway
+Brooklyn, NY 11221
+(40.69447544, -73.93078414)",40.69447544,-73.93078414
+Queens,Pharmacy Only,Duane Reade #14268,Bell Blvd,Bayside,NY,11360,"Bell Blvd
+Bayside, NY 11360
+(40.784720189, -73.778148899)",40.784720189,-73.778148899
+New York,Pharmacy Only,Duane Reade #14138,7th Ave,New York,NY,10001,"7th Ave
+New York, NY 10001
+(40.748264, -73.992264)",40.748264,-73.992264
+Kings,Pharmacy Only,Walgreens #19375,13th Ave,Brooklyn,NY,11228,"13th Ave
+Brooklyn, NY 11228
+(40.618881412, -74.00889746)",40.618881412,-74.00889746
+New York,Pharmacy Only,Citydrug & Surgical,Audubon Avenue,New York,NY,10032,"Audubon Avenue
+New York, NY 10032
+(40.841175228, -73.937866087)",40.841175228,-73.937866087
+Queens,Pharmacy Only,Rx-Spress Pharmacy,Liberty Avenue,Jamaica,NY,11419,"Liberty Avenue
+Jamaica, NY 11419
+(40.685869996, -73.825910033)",40.685869996,-73.825910033
+Kings,Pharmacy Only,Walgreens #06982,Kings Hwy,Brooklyn,NY,11223,"Kings Hwy
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Kings,Pharmacy Only,Fine Care Pharmacy,Flatbush Ave,Brooklyn,NY,11210,"Flatbush Ave
+Brooklyn, NY 11210
+(40.627100179, -73.941595472)",40.627100179,-73.941595472
+Kings,Pharmacy Only,Thriftway Pharmacy,Church Ave,Brooklyn,NY,11226,"Church Ave
+Brooklyn, NY 11226
+(40.647725722, -73.967413861)",40.647725722,-73.967413861
+Queens,Pharmacy Only,Walgreens #1180,Crescent Street,Astoria,NY,11106,"Crescent Street
+Astoria, NY 11106
+(40.761308452, -73.930476669)",40.761308452,-73.930476669
+Kings,Pharmacy Only,Walgreens #1918,Broadway,Brooklyn,NY,11206,"Broadway
+Brooklyn, NY 11206
+(40.702938337, -73.945766539)",40.702938337,-73.945766539
+Kings,Pharmacy Only,Fine Care Pharmacy,Knickerbocker Av,Brooklyn,NY,11237,"Knickerbocker Av
+Brooklyn, NY 11237
+(40.702568662, -73.92497553)",40.702568662,-73.92497553
+New York,Pharmacy Only,Duane Reade #14185,Delancey St,New York,NY,10002,"Delancey St
+New York, NY 10002
+(40.720308397, -73.994031912)",40.720308397,-73.994031912
+Kings,Pharmacy Only,Family Pharmacy,Rockaway Ave,Brooklyn,NY,11212,"Rockaway Ave
+Brooklyn, NY 11212
+(40.663342102, -73.909133026)",40.663342102,-73.909133026
+Queens,Pharmacy Only,Duane Reade #14187,Roosevelt Ave,Woodside,NY,11377,"Roosevelt Ave
+Woodside, NY 11377
+(40.745348898, -73.907306009)",40.745348898,-73.907306009
+New York,Pharmacy Only,Farmacia San Rafael,St Nicholas Ave,New York,NY,10033,"St Nicholas Ave
+New York, NY 10033
+(40.848600208, -73.934262238)",40.848600208,-73.934262238
+Kings,Pharmacy Only,The Modern Chemist,Coney Island Ave,Brooklyn,NY,11230,"Coney Island Ave
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+New York,Pharmacy Only,Duane Reade #14239,9th Ave,New York,NY,10019,"9th Ave
+New York, NY 10019
+(40.765727994, -73.987315104)",40.765727994,-73.987315104
+Kings,Pharmacy Only,Walgreens #04363,Union Ave,Brooklyn,NY,11211,"Union Ave
+Brooklyn, NY 11211
+(40.712954708, -73.951445801)",40.712954708,-73.951445801
+Kings,Pharmacy Only,A Plus Pharmacy Corp,7th Avenue,Brooklyn,NY,11220,"7th Avenue
+Brooklyn, NY 11220
+(40.639888085, -74.00857688)",40.639888085,-74.00857688
+Queens,Pharmacy Only,Long Island City Chemists,36th Ave,Long Island City,NY,11106,"36th Ave
+Long Island City, NY 11106
+(40.762267495, -73.94353094)",40.762267495,-73.94353094
+New York,Pharmacy Only,Duane Reade #14101,Broadway,New York,NY,10006,"Broadway
+New York, NY 10006
+(40.707839807, -74.01163018)",40.707839807,-74.01163018
+Kings,Pharmacy Only,Walgreens #11807,Church Ave,Brooklyn,NY,11203,"Church Ave
+Brooklyn, NY 11203
+(40.651604081, -73.933218454)",40.651604081,-73.933218454
+Kings,Pharmacy Only,Knickerbocker Chemists Inc.,Knickerbocker Avenue,Brooklyn,NY,11237,"Knickerbocker Avenue
+Brooklyn, NY 11237
+(40.702568662, -73.92497553)",40.702568662,-73.92497553
+Queens,Pharmacy Only,Francis Lewis Pharmacy Inc,Francis Lewis Blvd,Flushing,NY,11358,"Francis Lewis Blvd
+Flushing, NY 11358
+(40.769559503, -73.792368455)",40.769559503,-73.792368455
+Queens,Pharmacy Only,Walgreens #18412,Rockaway Boulevard,Ozone Park,NY,11417,"Rockaway Boulevard
+Ozone Park, NY 11417
+(40.679575677, -73.836753512)",40.679575677,-73.836753512
+Kings,Pharmacy Only,Duane Reade #14464,86th St,Brooklyn,NY,11209,"86th St
+Brooklyn, NY 11209
+(40.623556792, -74.031474859)",40.623556792,-74.031474859
+New York,Pharmacy Only,Duane Reade #14317,3rd Ave,New York,NY,10029,"3rd Ave
+New York, NY 10029
+(40.791573804, -73.944667283)",40.791573804,-73.944667283
+Kings,Pharmacy Only,Sunshine Pharmacy Of N.Y. Inc.,Kingston Avenue,Brooklyn,NY,11225,"Kingston Avenue
+Brooklyn, NY 11225
+(40.663215364, -73.94277617)",40.663215364,-73.94277617
+Queens,Pharmacy Only,Skyview Pharmacy,40th Rd,Flushing,NY,11354,"40th Rd
+Flushing, NY 11354
+(40.756419993, -73.835240013)",40.756419993,-73.835240013
+Richmond,Pharmacy Only,Walgreens #07776,Hylan Blvd,Staten Island,NY,10305,"Hylan Blvd
+Staten Island, NY 10305
+(40.590102107, -74.088919732)",40.590102107,-74.088919732
+Queens,Pharmacy Only,Walgreens #04564,Jamaica Ave,Jamaica,NY,11432,"Jamaica Ave
+Jamaica, NY 11432
+(40.706413026, -73.792487356)",40.706413026,-73.792487356
+Kings,Pharmacy Only,Millennium Pharmacy Inc.,Fulton Street,Brooklyn,NY,11208,"Fulton Street
+Brooklyn, NY 11208
+(40.682521989, -73.876106933)",40.682521989,-73.876106933
+Kings,Pharmacy Only,Duane Reade #14184,Flatbush Ave,Brooklyn,NY,11226,"Flatbush Ave
+Brooklyn, NY 11226
+(40.646602568, -73.958112669)",40.646602568,-73.958112669
+Bronx,Pharmacy Only,Jerome Drugs,Jerome Avenue,Bronx,NY,10453,"Jerome Avenue
+Bronx, NY 10453
+(40.854342642, -73.906918625)",40.854342642,-73.906918625
+New York,Pharmacy Only,Duane Reade #14217,8th Ave,New York,NY,10018,"8th Ave
+New York, NY 10018
+(40.754398402, -73.99185615)",40.754398402,-73.99185615
+Bronx,Pharmacy Only,Rx Masters Inc,Webster Avenue,Bronx,NY,10456,"Webster Avenue
+Bronx, NY 10456
+(40.837165912, -73.906860557)",40.837165912,-73.906860557
+Queens,Pharmacy Only,Walgreens #01487,Queens Blvd,Forest Hills,NY,11375,"Queens Blvd
+Forest Hills, NY 11375
+(40.718826368, -73.837854521)",40.718826368,-73.837854521
+Queens,Pharmacy Only,Duane Reade #14449,37th Ave,Jackson Heights,NY,11372,"37th Ave
+Jackson Heights, NY 11372
+(40.749864797, -73.883149449)",40.749864797,-73.883149449
+Bronx,Pharmacy Only,Mcgraw Pharmacy Inc.,Mcgraw Avenue,Bronx,NY,10462,"Mcgraw Avenue
+Bronx, NY 10462
+(40.834834241, -73.859219337)",40.834834241,-73.859219337
+Queens,Pharmacy Only,Atlas Pharmacy Llc,Jamaica Avenue,Woodhaven,NY,11421,"Jamaica Avenue
+Woodhaven, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+Kings,Pharmacy Only,Boro Park Pharmacy Corp.,New Utrecht Avenue,Brooklyn,NY,11219,"New Utrecht Avenue
+Brooklyn, NY 11219
+(40.633295913, -73.995170147)",40.633295913,-73.995170147
+New York,Pharmacy Only,Walgreens #10135,1st Ave,New York,NY,10009,"1st Ave
+New York, NY 10009
+(40.733190009, -73.981230009)",40.733190009,-73.981230009
+Bronx,Pharmacy Only,Care First Pharmacy Corp,White Plains Road,Bronx,NY,10466,"White Plains Road
+Bronx, NY 10466
+(40.892130306, -73.858120818)",40.892130306,-73.858120818
+Queens,Pharmacy Only,Health & Beauty Vitamin Center,Astoria Blvd,East Elmhurst,NY,11369,"Astoria Blvd
+East Elmhurst, NY 11369
+(40.762376675, -73.871186657)",40.762376675,-73.871186657
+Queens,Pharmacy Only,Primacare Plus Pharmacy Inc.,Main St,Flushing,NY,11354,"Main St
+Flushing, NY 11354
+(40.7606883, -73.830680443)",40.7606883,-73.830680443
+Kings,Pharmacy Only,"S.V.R.H. Pharmacy, Inc.",Smith Street,Brooklyn,NY,11201,"Smith Street
+Brooklyn, NY 11201
+(40.687795797, -73.989738535)",40.687795797,-73.989738535
+New York,Pharmacy Only,Duane Reade #14480,Spring St,New York,NY,10012,"Spring St
+New York, NY 10012
+(40.723120212, -73.998992822)",40.723120212,-73.998992822
+Queens,Pharmacy Only,Walgreens #12490,Metropolitan Ave,Richmond Hill,NY,11418,"Metropolitan Ave
+Richmond Hill, NY 11418
+(40.708532049, -73.838893279)",40.708532049,-73.838893279
+Queens,Pharmacy Only,Walgreens #17151,Rockway Beach Blvd.,Rockaway Park,NY,11694,"Rockway Beach Blvd.
+Rockaway Park, NY 11694
+(40.584053022, -73.82069254)",40.584053022,-73.82069254
+Bronx,Pharmacy Only,Walgreens #11172,Metropolitan Ave,Bronx,NY,10462,"Metropolitan Ave
+Bronx, NY 10462
+(40.835507081, -73.861019981)",40.835507081,-73.861019981
+Kings,Pharmacy Only,Hina Drugs,Sutter Ave,Brooklyn,NY,11212,"Sutter Ave
+Brooklyn, NY 11212
+(40.666809874, -73.912541795)",40.666809874,-73.912541795
+New York,Pharmacy Only,"Lenox Terrace Pharmacy, Inc.",West 135th Street,New York,NY,10037,"West 135th Street
+New York, NY 10037
+(40.813454546, -73.93927287)",40.813454546,-73.93927287
+Bronx,Pharmacy Only,Rx Solutions Pharmacy,East 167 Street,Bronx,NY,10452,"East 167 Street
+Bronx, NY 10452
+(40.835283586, -73.919907173)",40.835283586,-73.919907173
+New York,Pharmacy Only,Duane Reade #14169,E 34th St,New York,NY,10016,"E 34th St
+New York, NY 10016
+(40.747527962, -73.982401443)",40.747527962,-73.982401443
+Queens,Pharmacy Only,Walgreens #4445,Rockaway Blvd,South Ozone Park,NY,11420,"Rockaway Blvd
+South Ozone Park, NY 11420
+(40.675731403, -73.81669264)",40.675731403,-73.81669264
+Kings,Pharmacy Only,Thriftway Pharmacy,Flatbush Av,Brooklyn,NY,11225,"Flatbush Av
+Brooklyn, NY 11225
+(40.664498076, -73.963337847)",40.664498076,-73.963337847
+Kings,Pharmacy Only,Walgreens #10326,Brighton Beach Ave,Brooklyn,NY,11235,"Brighton Beach Ave
+Brooklyn, NY 11235
+(40.57767129, -73.961194181)",40.57767129,-73.961194181
+Kings,Pharmacy Only,Walgreens #18228,Pennsylvania Ave,Brooklyn,NY,11207,"Pennsylvania Ave
+Brooklyn, NY 11207
+(40.664798077, -73.894062001)",40.664798077,-73.894062001
+New York,Pharmacy Only,Duane Reade #14131,Whitehall Street,New York,NY,10004,"Whitehall Street
+New York, NY 10004
+(40.702748606, -74.012905076)",40.702748606,-74.012905076
+New York,Pharmacy Only,Duane Reade #14354,E 2nd St,New York,NY,10009,"E 2nd St
+New York, NY 10009
+(40.722119854, -73.983678357)",40.722119854,-73.983678357
+Kings,Pharmacy Only,Kingsbay Chemists Inc.,Nostrand Ave,Brooklyn,NY,11229,"Nostrand Ave
+Brooklyn, NY 11229
+(40.604809004, -73.942710919)",40.604809004,-73.942710919
+Kings,Pharmacy Only,My Unique Pharmacy Inc,55th St,Brooklyn,NY,11220,"55th St
+Brooklyn, NY 11220
+(40.642280377, -74.013230601)",40.642280377,-74.013230601
+Kings,Pharmacy Only,Navar Pharmacy,Avenue M,Brooklyn,NY,11210,"Avenue M
+Brooklyn, NY 11210
+(40.619299525, -73.948374062)",40.619299525,-73.948374062
+Kings,Pharmacy Only,Boreum Drugs Corp.,Union Ave,Brooklyn,NY,11211,"Union Ave
+Brooklyn, NY 11211
+(40.712954708, -73.951445801)",40.712954708,-73.951445801
+Bronx,Pharmacy Only,Washington Pharmacy,Tremont Avenue,Bronx,NY,10457,"Tremont Avenue
+Bronx, NY 10457
+(40.847177139, -73.898829356)",40.847177139,-73.898829356
+Bronx,Pharmacy Only,Rite-Way Pharmacy Llc,Westchester Avenue,Bronx,NY,10472,"Westchester Avenue
+Bronx, NY 10472
+(40.829950172, -73.873054095)",40.829950172,-73.873054095
+Bronx,Pharmacy Only,Kingsbridge Pharmacy,West 231st Street,Bronx,NY,10463,"West 231st Street
+Bronx, NY 10463
+(40.879528066, -73.90600612)",40.879528066,-73.90600612
+Bronx,Pharmacy Only,Leroy Pharmacy,Metropolitan Avenue,Bronx,NY,10462,"Metropolitan Avenue
+Bronx, NY 10462
+(40.835507081, -73.861019981)",40.835507081,-73.861019981
+New York,Pharmacy Only,Upper Manhattan Pharmacy,Amsterdam Ave,New York,NY,10031,"Amsterdam Ave
+New York, NY 10031
+(40.823937991, -73.948578727)",40.823937991,-73.948578727
+Kings,Pharmacy Only,Rx Warehouse Pharmacy Inc.,New Utrecht Ave,Brooklyn,NY,11214,"New Utrecht Ave
+Brooklyn, NY 11214
+(40.61121479, -74.001246421)",40.61121479,-74.001246421
+New York,Pharmacy Only,Duane Reade #14433,West 37th Street,New York,NY,10018,"West 37th Street
+New York, NY 10018
+(40.754011767, -73.991893768)",40.754011767,-73.991893768
+Kings,Pharmacy Only,Walgreens #12541,Rockaway Pkwy,Brooklyn,NY,11236,"Rockaway Pkwy
+Brooklyn, NY 11236
+(40.64051526, -73.897153295)",40.64051526,-73.897153295
+New York,Pharmacy Only,Duane Reade #14202,Columbus Ave,New York,NY,10025,"Columbus Ave
+New York, NY 10025
+(40.7957297, -73.965451586)",40.7957297,-73.965451586
+New York,Pharmacy Only,Duane Reade #14398,1st Ave,New York,NY,10021,"1st Ave
+New York, NY 10021
+(40.768129082, -73.955758049)",40.768129082,-73.955758049
+New York,Pharmacy Only,Duane Reade #14112,Lexington Avenue,New York,NY,10017,"Lexington Avenue
+New York, NY 10017
+(40.751994998, -73.97564498)",40.751994998,-73.97564498
+Queens,Pharmacy Only,Walgreens #07294,Roosevelt Ave,Corona,NY,11368,"Roosevelt Ave
+Corona, NY 11368
+(40.752270244, -73.85354326)",40.752270244,-73.85354326
+New York,Pharmacy Only,Duane Reade #21315,Park Avenue South,New York,NY,10010,"Park Avenue South
+New York, NY 10010
+(40.740524086, -73.986161191)",40.740524086,-73.986161191
+Bronx,Pharmacy Only,Prayosha Pharmacy Corp,East 183rd Street,Bronx,NY,10453,"East 183rd Street
+Bronx, NY 10453
+(40.85803024, -73.901737783)",40.85803024,-73.901737783
+Bronx,Pharmacy Only,Oval Pharmacy,E. Gun Hill Road,Bronx,NY,10467,"E. Gun Hill Road
+Bronx, NY 10467
+(40.877231993, -73.865986845)",40.877231993,-73.865986845
+New York,Pharmacy Only,St Jesus Pharmacy Corp,Broadway,New York,NY,10033,"Broadway
+New York, NY 10033
+(40.847681539, -73.9379936)",40.847681539,-73.9379936
+Queens,Pharmacy Only,Av Pharmacy,Corona Ave,Elmhurst,NY,11373,"Corona Ave
+Elmhurst, NY 11373
+(40.742052229, -73.874240328)",40.742052229,-73.874240328
+Queens,Pharmacy Only,Allstar Pharmacy Inc.,Kissena Blvd,Flushing,NY,11355,"Kissena Blvd
+Flushing, NY 11355
+(40.755328445, -73.824509811)",40.755328445,-73.824509811
+Kings,Pharmacy Only,Walgreens #15097,Prospect Ave,Brooklyn,NY,11215,"Prospect Ave
+Brooklyn, NY 11215
+(40.661648343, -73.98640407)",40.661648343,-73.98640407
+Kings,Pharmacy Only,Bay Health Pharmacy Inc,Bay Parkway,Brooklyn,NY,11204,"Bay Parkway
+Brooklyn, NY 11204
+(40.613771904, -73.981488075)",40.613771904,-73.981488075
+Queens,Pharmacy Only,Dawn Pharmacy Inc.,Central Avenue,Far Rockaway,NY,11691,"Central Avenue
+Far Rockaway, NY 11691
+(40.607551944, -73.749087771)",40.607551944,-73.749087771
+Bronx,Pharmacy Only,Carepoint Pharmacy Corp,Hunts Point Avenue,Bronx,NY,10474,"Hunts Point Avenue
+Bronx, NY 10474
+(40.814383135, -73.885687709)",40.814383135,-73.885687709
+Queens,Pharmacy Only,Big Apple Pharmacy,103rd Street,Corona,NY,11368,"103rd Street
+Corona, NY 11368
+(40.753665691, -73.86463592)",40.753665691,-73.86463592
+Bronx,Pharmacy Only,St. Barnabas Hospital O. Pharmacy,Third Avenue,Bronx,NY,10457,"Third Avenue
+Bronx, NY 10457
+(40.843780851, -73.897634551)",40.843780851,-73.897634551
+Bronx,Pharmacy Only,Mahesh Drugs,White Plains Road,Bronx,NY,10473,"White Plains Road
+Bronx, NY 10473
+(40.818020148, -73.857317177)",40.818020148,-73.857317177

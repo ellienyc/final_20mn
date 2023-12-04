@@ -1,0 +1,3518 @@
+county,type,facility_name,street_address,city,state,zip,location,lat,long
+Queens,Grocery,Key Food,21st St,Long Island City,NY,11101,"21st St
+Long Island City, NY 11101
+(40.751185675, -73.945148049)",40.751185675,-73.945148049
+Queens,Grocery,C-Town Fresh,Hempstead Avenue,Queens Village,NY,11429,"Hempstead Avenue
+Queens Village, NY 11429
+(40.713820171, -73.737517368)",40.713820171,-73.737517368
+Kings,Grocery,Smiley Mini Market Inc.,Flatlands Ave,Brooklyn,NY,11236,"Flatlands Ave
+Brooklyn, NY 11236
+(40.640211735, -73.90600239)",40.640211735,-73.90600239
+Bronx,Grocery,Western Beef #36,Southern Boulevard,Bronx,NY,10460,"Southern Boulevard
+Bronx, NY 10460
+(40.836247923, -73.888440102)",40.836247923,-73.888440102
+Queens,Grocery,C-Town Supermarkets,Fresh Pond Road,Ridgewood,NY,11385,"Fresh Pond Road
+Ridgewood, NY 11385
+(40.706887204, -73.897125209)",40.706887204,-73.897125209
+Kings,Grocery,Green Corner Fish & Farmers Market,Flushing Ave,Brooklyn,NY,11206,"Flushing Ave
+Brooklyn, NY 11206
+(40.700884, -73.941842)",40.700884,-73.941842
+New York,Grocery,Jh Grocery Corp,Audubon Ave,New York,NY,10033,"Audubon Ave
+New York, NY 10033
+(40.848017477, -73.932866751)",40.848017477,-73.932866751
+Queens,Grocery,Trade Fair,30th Avenue,Woodside,NY,11377,"30th Avenue
+Woodside, NY 11377
+(40.759786662, -73.899775406)",40.759786662,-73.899775406
+Queens,Grocery,Key Food Fresh,63rd Dr,Rego Park,NY,11374,"63rd Dr
+Rego Park, NY 11374
+(40.726346719, -73.864778861)",40.726346719,-73.864778861
+Kings,Grocery,Shun Li Store,Knickerbocker Av,Brooklyn,NY,11237,"Knickerbocker Av
+Brooklyn, NY 11237
+(40.702568662, -73.92497553)",40.702568662,-73.92497553
+Bronx,Grocery,3600 Bronxwood Food Center Corp.,Bronxwood Avenue,Bronx,NY,10469,"Bronxwood Avenue
+Bronx, NY 10469
+(40.866245614, -73.861546207)",40.866245614,-73.861546207
+Kings,Grocery,Emdad Supermarket Inc,Liberty Avenue,Brooklyn,NY,11208,"Liberty Avenue
+Brooklyn, NY 11208
+(40.677596884, -73.874627323)",40.677596884,-73.874627323
+Kings,Grocery,"Power 7 Market, Inc.",7th Avenue,Brooklyn,NY,11220,"7th Avenue
+Brooklyn, NY 11220
+(40.639888085, -74.00857688)",40.639888085,-74.00857688
+Kings,Grocery,Western Beef #039,Empire Blvd,Brooklyn,NY,11225,"Empire Blvd
+Brooklyn, NY 11225
+(40.663796101, -73.952562075)",40.663796101,-73.952562075
+Bronx,Grocery,C-Town Supermarkets,Broadway,Bronx,NY,10463,"Broadway
+Bronx, NY 10463
+(40.881507219, -73.902970873)",40.881507219,-73.902970873
+Queens,Grocery,Abo Sefein Inc,Forest Ave,Ridgewood,NY,11385,"Forest Ave
+Ridgewood, NY 11385
+(40.70519061, -73.902144522)",40.70519061,-73.902144522
+Queens,Grocery,Foodtown,Bell Boulevard,Bayside,NY,11361,"Bell Boulevard
+Bayside, NY 11361
+(40.764554163, -73.771488165)",40.764554163,-73.771488165
+Queens,Grocery,ShopRite Of 20th Avenue,20th Avenue,College Point,NY,11356,"20th Avenue
+College Point, NY 11356
+(40.781705098, -73.843860479)",40.781705098,-73.843860479
+Queens,Grocery,"Metro Mini Market, Inc.",Metropolitan Ave,Ridgewood,NY,11385,"Metropolitan Ave
+Ridgewood, NY 11385
+(40.713301942, -73.912337136)",40.713301942,-73.912337136
+Richmond,Grocery,Key Food,Sand Lane,Staten Island,NY,10305,"Sand Lane
+Staten Island, NY 10305
+(40.593579576, -74.068731064)",40.593579576,-74.068731064
+New York,Grocery,Super Foodtown,West 160th Street,New York,NY,10032,"West 160th Street
+New York, NY 10032
+(40.835572395, -73.942648701)",40.835572395,-73.942648701
+Bronx,Grocery,El Pueblo Mexicano Fruit & Grocery,East 138th Street Store 1,Bronx,NY,10454,"East 138th Street Store 1
+Bronx, NY 10454
+(40.80644159, -73.916583355)",40.80644159,-73.916583355
+Kings,Grocery,Glatt Mart Inc.,Avenue M,Brooklyn,NY,11230,"Avenue M
+Brooklyn, NY 11230
+(40.617677031, -73.963010685)",40.617677031,-73.963010685
+Kings,Grocery,"C&s E-Superette, Inc.",Fort Hamilton Pky,Brooklyn,NY,11209,"Fort Hamilton Pky
+Brooklyn, NY 11209
+(40.617089451, -74.027370531)",40.617089451,-74.027370531
+Kings,Grocery,C-Town Supermarkets,Church Avenue,Brooklyn,NY,11203,"Church Avenue
+Brooklyn, NY 11203
+(40.651604081, -73.933218454)",40.651604081,-73.933218454
+Bronx,Grocery,Sagal Food,Jerome Avenue,Bronx,NY,10467,"Jerome Avenue
+Bronx, NY 10467
+(40.882873847, -73.88112239)",40.882873847,-73.88112239
+Bronx,Grocery,La Potencia Deli-Grocery Store Corp,East 167th Street,Bronx,NY,10456,"East 167th Street
+Bronx, NY 10456
+(40.831001581, -73.911466562)",40.831001581,-73.911466562
+Queens,Grocery,Key Food,Springfield Blvd,Bayside,NY,11364,"Springfield Blvd
+Bayside, NY 11364
+(40.752780079, -73.759948575)",40.752780079,-73.759948575
+Kings,Grocery,Food Universe,Flatbush Ave,Brooklyn,NY,11226,"Flatbush Ave
+Brooklyn, NY 11226
+(40.646602568, -73.958112669)",40.646602568,-73.958112669
+Kings,Grocery,C-Town Supermarkets,Avenue D,Brooklyn,NY,11203,"Avenue D
+Brooklyn, NY 11203
+(40.641962238, -73.932229976)",40.641962238,-73.932229976
+Kings,Grocery,Coconut Kosher Supermarket Corp.,Broadway,Brooklyn,NY,11206,"Broadway
+Brooklyn, NY 11206
+(40.702938337, -73.945766539)",40.702938337,-73.945766539
+Bronx,Grocery,"188 Park Deli Grocery, Corp.",University Avenue,Bronx,NY,10468,"University Avenue
+Bronx, NY 10468
+(40.866469572, -73.902462648)",40.866469572,-73.902462648
+Kings,Grocery,Metropolitan Citymarket,4th Avenue,Brooklyn,NY,11209,"4th Avenue
+Brooklyn, NY 11209
+(40.622721585, -74.02838521)",40.622721585,-74.02838521
+Kings,Grocery,Fulton Bebe Grocery Store Inc,Fulton Street,Brooklyn,NY,11208,"Fulton Street
+Brooklyn, NY 11208
+(40.682521989, -73.876106933)",40.682521989,-73.876106933
+Kings,Grocery,C-Town Supermarkets,E 98th St,Brooklyn,NY,11212,"E 98th St
+Brooklyn, NY 11212
+(40.658176583, -73.915269394)",40.658176583,-73.915269394
+Queens,Grocery,Key Food,Queens Blvd,Forest Hills,NY,11375,"Queens Blvd
+Forest Hills, NY 11375
+(40.718826368, -73.837854521)",40.718826368,-73.837854521
+Bronx,Grocery,Fine Fare,East Tremont Avenue,Bronx,NY,10457,"East Tremont Avenue
+Bronx, NY 10457
+(40.847177139, -73.898829356)",40.847177139,-73.898829356
+New York,Grocery,Foodtown #609,West 145th Street,New York,NY,10039,"West 145th Street
+New York, NY 10039
+(40.821851035, -73.939606819)",40.821851035,-73.939606819
+Bronx,Grocery,J & R Super Deli Grocery Ii Corp,White Plains Rd,Bronx,NY,10467,"White Plains Rd
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Richmond,Grocery,"Cuesta, Inc.",Port Richmond Avenue,Staten Island,NY,10302,"Port Richmond Avenue
+Staten Island, NY 10302
+(40.631909075, -74.138037464)",40.631909075,-74.138037464
+Kings,Grocery,Star Nb Inc,Flatbush Ave,Brooklyn,NY,11226,"Flatbush Ave
+Brooklyn, NY 11226
+(40.646602568, -73.958112669)",40.646602568,-73.958112669
+Bronx,Grocery,Food Universe Marketplace,East Burnside Avenue,Bronx,NY,10453,"East Burnside Avenue
+Bronx, NY 10453
+(40.853109233, -73.905502168)",40.853109233,-73.905502168
+Kings,Grocery,Hannan Deli & Grocery Corp.,Avenue U,Brooklyn,NY,11229,"Avenue U
+Brooklyn, NY 11229
+(40.600339695, -73.942702968)",40.600339695,-73.942702968
+Kings,Grocery,Taqwa Deli Grocery & Halal Meat Mar,Fulton Street,Brooklyn,NY,11216,"Fulton Street
+Brooklyn, NY 11216
+(40.680257406, -73.947077748)",40.680257406,-73.947077748
+Kings,Grocery,Fine Fare,Lincoln Avenue,Brooklyn,NY,11208,"Lincoln Avenue
+Brooklyn, NY 11208
+(40.672654942, -73.866427053)",40.672654942,-73.866427053
+Queens,Grocery,Bally 868 Food Market Corp.,Roosevelt Ave,Flushing,NY,11354,"Roosevelt Ave
+Flushing, NY 11354
+(40.76303365, -73.816888447)",40.76303365,-73.816888447
+Kings,Grocery,"Appel's Superette, Inc.",14th Avenue,Brooklyn,NY,11219,"14th Avenue
+Brooklyn, NY 11219
+(40.630274514, -73.993475503)",40.630274514,-73.993475503
+Bronx,Grocery,Paradise Food Market,Williambridge Road,Bronx,NY,10469,"Williambridge Road
+Bronx, NY 10469
+(40.862814631, -73.857929396)",40.862814631,-73.857929396
+Bronx,Grocery,Sabor Latino Deli Supermarket Corp,Longwood Avenue,Bronx,NY,10459,"Longwood Avenue
+Bronx, NY 10459
+(40.817759534, -73.898594024)",40.817759534,-73.898594024
+Kings,Grocery,Liriano Deli Corp,4th St,Brooklyn,NY,11211,"4th St
+Brooklyn, NY 11211
+(40.708748914, -73.954329937)",40.708748914,-73.954329937
+New York,Grocery,Associated Supermarket,West 100th St,New York,NY,10025,"West 100th St
+New York, NY 10025
+(40.79646344, -73.967943661)",40.79646344,-73.967943661
+Kings,Grocery,Papa Firo Grocery Corp.,3rd Avenue,Brooklyn,NY,11217,"3rd Avenue
+Brooklyn, NY 11217
+(40.682477208, -73.982630309)",40.682477208,-73.982630309
+Bronx,Grocery,Compare Foods,East Tremont Avenue,Bronx,NY,10453,"East Tremont Avenue
+Bronx, NY 10453
+(40.850754049, -73.907470438)",40.850754049,-73.907470438
+New York,Grocery,Foodtown,Third Avenue,New York,NY,10035,"Third Avenue
+New York, NY 10035
+(40.801789522, -73.937215756)",40.801789522,-73.937215756
+Queens,Grocery,Polo Supermarket,Mott Av,Far Rockaway,NY,11691,"Mott Av
+Far Rockaway, NY 11691
+(40.604006098, -73.752473959)",40.604006098,-73.752473959
+Richmond,Grocery,La Quebradita Grocery Corp.,Jersey St,Staten Island,NY,10301,"Jersey St
+Staten Island, NY 10301
+(40.639567483, -74.087293472)",40.639567483,-74.087293472
+Kings,Grocery,Bravo Supermarket,Myrtle Ave,Brooklyn,NY,11205,"Myrtle Ave
+Brooklyn, NY 11205
+(40.693123863, -73.969930633)",40.693123863,-73.969930633
+Kings,Grocery,Shop Fair Supermarket,Fulton Street,Brooklyn,NY,11208,"Fulton Street
+Brooklyn, NY 11208
+(40.682521989, -73.876106933)",40.682521989,-73.876106933
+New York,Grocery,Ideal Food Basket,Lexington Av,New York,NY,10029,"Lexington Av
+New York, NY 10029
+(40.792247918, -73.946281537)",40.792247918,-73.946281537
+Queens,Grocery,Soribel Fruit & Grocery Inc,Cresskill Place,Jamaica,NY,11435,"Cresskill Place
+Jamaica, NY 11435
+(40.695898928, -73.809932951)",40.695898928,-73.809932951
+Kings,Grocery,C-Town Supermarkets,Central Av,Brooklyn,NY,11221,"Central Av
+Brooklyn, NY 11221
+(40.695387071, -73.920398595)",40.695387071,-73.920398595
+Kings,Grocery,Fresh Halal Meat & Grocery,Church Ave,Brooklyn,NY,11226,"Church Ave
+Brooklyn, NY 11226
+(40.647725722, -73.967413861)",40.647725722,-73.967413861
+Bronx,Grocery,Bravo Supermarket,West 170th Street,Bronx,NY,10452,"West 170th Street
+Bronx, NY 10452
+(40.840348765, -73.922068623)",40.840348765,-73.922068623
+Queens,Grocery,Key Food,Main St,Flushing,NY,11367,"Main St
+Flushing, NY 11367
+(40.732119616, -73.824486948)",40.732119616,-73.824486948
+Bronx,Grocery,C-Town Supermarkets,Southern Boulevard,Bronx,NY,10460,"Southern Boulevard
+Bronx, NY 10460
+(40.836247923, -73.888440102)",40.836247923,-73.888440102
+Queens,Grocery,Key Food Supermarket,Queens Boulevard,Jamaica,NY,11435,"Queens Boulevard
+Jamaica, NY 11435
+(40.706698459, -73.817065624)",40.706698459,-73.817065624
+Bronx,Grocery,Hasan Supermarket Inc,Starling Avenue,Bronx,NY,10462,"Starling Avenue
+Bronx, NY 10462
+(40.836251334, -73.853296369)",40.836251334,-73.853296369
+Queens,Grocery,Cherry Valley Market Place,97th Avenue,Ozone Park,NY,11416,"97th Avenue
+Ozone Park, NY 11416
+(40.68502967, -73.850075159)",40.68502967,-73.850075159
+New York,Grocery,Fine Fare,Adam Clayton Powell Jr. Blvd,New York,NY,10030,"Adam Clayton Powell Jr. Blvd
+New York, NY 10030
+(40.817785195, -73.941787961)",40.817785195,-73.941787961
+Bronx,Grocery,Ray's #1 Deli Grocery Llc,Barnes Avenue,Bronx,NY,10466,"Barnes Avenue
+Bronx, NY 10466
+(40.892284545, -73.85461132)",40.892284545,-73.85461132
+Kings,Grocery,L&l Deli Grocery Inc,Avenue U,Brooklyn,NY,11229,"Avenue U
+Brooklyn, NY 11229
+(40.600339695, -73.942702968)",40.600339695,-73.942702968
+Kings,Grocery,Key Food,Church Av,Brooklyn,NY,11212,"Church Av
+Brooklyn, NY 11212
+(40.655478672, -73.91581346)",40.655478672,-73.91581346
+Kings,Grocery,Lucky 4502 Grocery Inc,6th Avenue,Brooklyn,NY,11220,"6th Avenue
+Brooklyn, NY 11220
+(40.639934907, -74.01208343)",40.639934907,-74.01208343
+New York,Grocery,C-Town Supermarkets,St. James Pl,New York,NY,10038,"St. James Pl
+New York, NY 10038
+(40.712977885, -73.998496442)",40.712977885,-73.998496442
+New York,Grocery,Fine Fare,First Ave,New York,NY,10035,"First Ave
+New York, NY 10035
+(40.799828752, -73.93263589)",40.799828752,-73.93263589
+Queens,Grocery,Rachel Grocery Store Inc,Whitney Avenue,Elmhurst,NY,11373,"Whitney Avenue
+Elmhurst, NY 11373
+(40.744295321, -73.876722758)",40.744295321,-73.876722758
+Kings,Grocery,Golden Farms,Crescent Street,Brooklyn,NY,11208,"Crescent Street
+Brooklyn, NY 11208
+(40.668878672, -73.868345151)",40.668878672,-73.868345151
+Bronx,Grocery,Lili's Deli Grocery Corp,Kelly Street,Bronx,NY,10459,"Kelly Street
+Bronx, NY 10459
+(40.823380669, -73.89585404)",40.823380669,-73.89585404
+Bronx,Grocery,Golden Produce Ii Llc,Grand Concourse,Bronx,NY,10457,"Grand Concourse
+Bronx, NY 10457
+(40.848473464, -73.906633977)",40.848473464,-73.906633977
+Bronx,Grocery,Fine Fare Supermarket,Metropolitan Avenue,Bronx,NY,10462,"Metropolitan Avenue
+Bronx, NY 10462
+(40.835507081, -73.861019981)",40.835507081,-73.861019981
+Kings,Grocery,Tasty Deli Supermarket Inc,86th Street,Brooklyn,NY,11214,"86th Street
+Brooklyn, NY 11214
+(40.605296074, -73.999391361)",40.605296074,-73.999391361
+Queens,Grocery,T & C Grocery Inc.,Crocheron Ave,Flushing,NY,11358,"Crocheron Ave
+Flushing, NY 11358
+(40.762814008, -73.795864967)",40.762814008,-73.795864967
+Queens,Grocery,B & B Grocery & Halal Meat Inc.,147th Place,Jamaica,NY,11435,"147th Place
+Jamaica, NY 11435
+(40.697531141, -73.80495272)",40.697531141,-73.80495272
+Kings,Grocery,"Danish Convenience 6, Inc.",3rd Avenue,Brooklyn,NY,11209,"3rd Avenue
+Brooklyn, NY 11209
+(40.624059334, -74.030818893)",40.624059334,-74.030818893
+Queens,Grocery,K C Foodmart Inc,Booth Memorial Ave,Flushing,NY,11355,"Booth Memorial Ave
+Flushing, NY 11355
+(40.745279649, -73.821702075)",40.745279649,-73.821702075
+Kings,Grocery,"Rubin's Grocery, Inc.",15th Avenue,Brooklyn,NY,11219,"15th Avenue
+Brooklyn, NY 11219
+(40.628924223, -73.991258568)",40.628924223,-73.991258568
+Kings,Grocery,Foodtown,Vanderbilt Avenue,Brooklyn,NY,11238,"Vanderbilt Avenue
+Brooklyn, NY 11238
+(40.677720868, -73.968839077)",40.677720868,-73.968839077
+Queens,Grocery,Rosenblums Market,Lefferts Blvd,Kew Gardens,NY,11415,"Lefferts Blvd
+Kew Gardens, NY 11415
+(40.70638687, -73.831816085)",40.70638687,-73.831816085
+Kings,Grocery,Key Food Fresh Supermarket,Marcus Garvey Blvd,Brooklyn,NY,11216,"Marcus Garvey Blvd
+Brooklyn, NY 11216
+(40.681805105, -73.937803689)",40.681805105,-73.937803689
+Kings,Grocery,"Karim 1 Stop Mini-Mart, Inc.",5th Ave,Brooklyn,NY,11209,"5th Ave
+Brooklyn, NY 11209
+(40.624133373, -74.024829246)",40.624133373,-74.024829246
+Queens,Grocery,Ji Li Grocery Inc.,Main St,Flushing,NY,11355,"Main St
+Flushing, NY 11355
+(40.754487704, -73.827950753)",40.754487704,-73.827950753
+Queens,Grocery,Key Food,Liberty Avenue,South Richmond Hil,NY,11419,"Liberty Avenue
+South Richmond Hil, NY 11419
+(40.685869996, -73.825910033)",40.685869996,-73.825910033
+Queens,Grocery,Key Food,37th Avenue,Corona,NY,11368,"37th Avenue
+Corona, NY 11368
+(40.758084995, -73.843264973)",40.758084995,-73.843264973
+Kings,Grocery,"Queen A.A. Grocery, Inc.",18th Avenue,Brooklyn,NY,11204,"18th Avenue
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+New York,Grocery,Associated Fresh Market,Madison Avenue,New York,NY,10029,"Madison Avenue
+New York, NY 10029
+(40.793608276, -73.949511218)",40.793608276,-73.949511218
+Kings,Grocery,El Aguila Mini Market Corp.,Gates Av,Brooklyn,NY,11221,"Gates Av
+Brooklyn, NY 11221
+(40.688881177, -73.927403822)",40.688881177,-73.927403822
+Kings,Grocery,Liberty Supermarket & Halal Meat In,Liberty Avenue,Brooklyn,NY,11208,"Liberty Avenue
+Brooklyn, NY 11208
+(40.677596884, -73.874627323)",40.677596884,-73.874627323
+Queens,Grocery,Food Universe Marketplace,43rd Ave,Sunnyside,NY,11104,"43rd Ave
+Sunnyside, NY 11104
+(40.745174274, -73.920679341)",40.745174274,-73.920679341
+Queens,Grocery,Key Food Supermarket,College Point Bo,College Point,NY,11356,"College Point Bo
+College Point, NY 11356
+(40.787485, -73.84471)",40.787485,-73.84471
+Bronx,Grocery,Associated Supermarket,Richman Plaza,Bronx,NY,10453,"Richman Plaza
+Bronx, NY 10453
+(40.852049985, -73.92237109)",40.852049985,-73.92237109
+New York,Grocery,Foodtown,Frederick Douglas Blvd,New York,NY,10027,"Frederick Douglas Blvd
+New York, NY 10027
+(40.809498493, -73.95166115)",40.809498493,-73.95166115
+Kings,Grocery,Gregory Deli,New Utrecht Avenue,Brooklyn,NY,11219,"New Utrecht Avenue
+Brooklyn, NY 11219
+(40.633295913, -73.995170147)",40.633295913,-73.995170147
+Kings,Grocery,"Kosher Corner Supermarket, Inc.",Mcdonald Avenue,Brooklyn,NY,11223,"Mcdonald Avenue
+Brooklyn, NY 11223
+(40.599466826, -73.972905604)",40.599466826,-73.972905604
+Kings,Grocery,Parkville Food Center Llc,Lawrence Ave,Brooklyn,NY,11230,"Lawrence Ave
+Brooklyn, NY 11230
+(40.629907364, -73.975156469)",40.629907364,-73.975156469
+Bronx,Grocery,1296 Rivera Grocery Inc.,Walton Avenue,Bronx,NY,10452,"Walton Avenue
+Bronx, NY 10452
+(40.836221534, -73.918578211)",40.836221534,-73.918578211
+Kings,Grocery,Moon Convenience & Deli Inc.,New Utrecht Ave,Brooklyn,NY,11204,"New Utrecht Ave
+Brooklyn, NY 11204
+(40.61673601, -73.999676197)",40.61673601,-73.999676197
+Kings,Grocery,Key Food,Avenue U,Brooklyn,NY,11234,"Avenue U
+Brooklyn, NY 11234
+(40.612383336, -73.918590972)",40.612383336,-73.918590972
+Bronx,Grocery,Jjn Corporation,Washington Avenue,Bronx,NY,10457,"Washington Avenue
+Bronx, NY 10457
+(40.846491224, -73.898356534)",40.846491224,-73.898356534
+Queens,Grocery,Farmbria By Food Bazaar,Linden Boulevard,Cambria Heights,NY,11411,"Linden Boulevard
+Cambria Heights, NY 11411
+(40.694255497, -73.737275452)",40.694255497,-73.737275452
+Kings,Grocery,King Hwy Meat Corp.,East 16th St,Brooklyn,NY,11229,"East 16th St
+Brooklyn, NY 11229
+(40.59793854, -73.955287635)",40.59793854,-73.955287635
+Queens,Grocery,Milk Farm Supermarket,Liberty Av,Ozone Park,NY,11417,"Liberty Av
+Ozone Park, NY 11417
+(40.682434374, -73.836058628)",40.682434374,-73.836058628
+Queens,Grocery,C-Town Supermarkets,Jamaica Ave,Woodhaven,NY,11421,"Jamaica Ave
+Woodhaven, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+Kings,Grocery,Food Bazaar,Flatbush Ave,Brooklyn,NY,11226,"Flatbush Ave
+Brooklyn, NY 11226
+(40.646602568, -73.958112669)",40.646602568,-73.958112669
+Kings,Grocery,Food Bazaar,Van Brunt St,Brooklyn,NY,11231,"Van Brunt St
+Brooklyn, NY 11231
+(40.678512856, -74.01151333)",40.678512856,-74.01151333
+Kings,Grocery,Key Food,Kings Highway,Brooklyn,NY,11223,"Kings Highway
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Kings,Grocery,Ideal Food Basket,East New York Avenue,Brooklyn,NY,11203,"East New York Avenue
+Brooklyn, NY 11203
+(40.662398499, -73.937195678)",40.662398499,-73.937195678
+Kings,Grocery,Foodtown #602,Fulton St,Brooklyn,NY,11216,"Fulton St
+Brooklyn, NY 11216
+(40.680257406, -73.947077748)",40.680257406,-73.947077748
+Kings,Grocery,Bravo Supermarket,Fulton St,Brooklyn,NY,11208,"Fulton St
+Brooklyn, NY 11208
+(40.682521989, -73.876106933)",40.682521989,-73.876106933
+Kings,Grocery,Food Universe,Schenectady Ave,Brooklyn,NY,11213,"Schenectady Ave
+Brooklyn, NY 11213
+(40.67154842, -73.933628046)",40.67154842,-73.933628046
+Kings,Grocery,EZ Market Inc.,6th Ave,Brooklyn,NY,11220,"6th Ave
+Brooklyn, NY 11220
+(40.639934907, -74.01208343)",40.639934907,-74.01208343
+Bronx,Grocery,Madina Trading Corp,East 165th Street,Bronx,NY,10456,"East 165th Street
+Bronx, NY 10456
+(40.828543908, -73.914104734)",40.828543908,-73.914104734
+Queens,Grocery,Target Store T-2451,College Point Blvd,Flushing,NY,11354,"College Point Blvd
+Flushing, NY 11354
+(40.765348097, -73.837202043)",40.765348097,-73.837202043
+New York,Grocery,Food Bazaar,East 125th Street,New York,NY,10035,"East 125th Street
+New York, NY 10035
+(40.804089721, -73.936729391)",40.804089721,-73.936729391
+Queens,Grocery,C-Town Supermarkets,28th Ave,Astoria,NY,11103,"28th Ave
+Astoria, NY 11103
+(40.764917668, -73.912505743)",40.764917668,-73.912505743
+Queens,Grocery,Key Food,Baisley Boulevard,Jamaica,NY,11434,"Baisley Boulevard
+Jamaica, NY 11434
+(40.677376299, -73.780914427)",40.677376299,-73.780914427
+Bronx,Grocery,Bravo Supermarket,East Burnside Avenue,Bronx,NY,10457,"East Burnside Avenue
+Bronx, NY 10457
+(40.851333534, -73.902155417)",40.851333534,-73.902155417
+Queens,Grocery,New Candy City Store Inc,"37th Ave Unit, Co-1d",Jackson Heights,NY,11372,"37th Ave Unit, Co-1d
+Jackson Heights, NY 11372
+(40.749864797, -73.883149449)",40.749864797,"-1d
+Jackson Heights, NY 11372
+(40.749864797, -73.883149449"
+New York,Grocery,"El Manantial Grocery Store, Inc.",Audubon Ave,New York,NY,10033,"Audubon Ave
+New York, NY 10033
+(40.848017477, -73.932866751)",40.848017477,-73.932866751
+Queens,Grocery,C-Town Supermarkets,34th Ave,Astoria,NY,11106,"34th Ave
+Astoria, NY 11106
+(40.76158882, -73.931292248)",40.76158882,-73.931292248
+Queens,Grocery,Trade Fair #11,Metropolitan Ave,Richmond Hill,NY,11418,"Metropolitan Ave
+Richmond Hill, NY 11418
+(40.708532049, -73.838893279)",40.708532049,-73.838893279
+Queens,Grocery,Trade Fair,Astoria Blvd.,East Elmhurst,NY,11369,"Astoria Blvd.
+East Elmhurst, NY 11369
+(40.762376675, -73.871186657)",40.762376675,-73.871186657
+Bronx,Grocery,Superfresh,East 149th Street,Bronx,NY,10455,"East 149th Street
+Bronx, NY 10455
+(40.812472163, -73.905399848)",40.812472163,-73.905399848
+Bronx,Grocery,La Antillana Meat Market,East Tremont Avenue,Bronx,NY,10457,"East Tremont Avenue
+Bronx, NY 10457
+(40.847177139, -73.898829356)",40.847177139,-73.898829356
+Bronx,Grocery,C-Town Supermarkets,Southern Boulevard,Bronx,NY,10459,"Southern Boulevard
+Bronx, NY 10459
+(40.82386322, -73.891859421)",40.82386322,-73.891859421
+Kings,Grocery,Latino's Deli Grocery,Fort Hamilton Parkway,Brooklyn,NY,11218,"Fort Hamilton Parkway
+Brooklyn, NY 11218
+(40.642676052, -73.991211188)",40.642676052,-73.991211188
+Kings,Grocery,16th Ave. Food Center,16th Ave,Brooklyn,NY,11204,"16th Ave
+Brooklyn, NY 11204
+(40.6259069, -73.99080976)",40.6259069,-73.99080976
+Queens,Grocery,Cherry Valley Farm,21st Avenue,Astoria,NY,11105,"21st Avenue
+Astoria, NY 11105
+(40.777352955, -73.907595541)",40.777352955,-73.907595541
+Queens,Grocery,"G & G Grocery Store, Inc.",Grand Ave,Elmhurst,NY,11373,"Grand Ave
+Elmhurst, NY 11373
+(40.733842963, -73.883514476)",40.733842963,-73.883514476
+Bronx,Grocery,West Farm Fruit Market Corp,East 167th Street,Bronx,NY,10459,"East 167th Street
+Bronx, NY 10459
+(40.826008787, -73.895672806)",40.826008787,-73.895672806
+Kings,Grocery,Key Food,Mcguinness Boulevard,Brooklyn,NY,11222,"Mcguinness Boulevard
+Brooklyn, NY 11222
+(40.730182396, -73.951255787)",40.730182396,-73.951255787
+Kings,Grocery,Ocean Fruit & Supermarket Inc.,Ocean Avenue,Brooklyn,NY,11230,"Ocean Avenue
+Brooklyn, NY 11230
+(40.626621899, -73.95654992)",40.626621899,-73.95654992
+Richmond,Grocery,Olive Tree Market Place,Clove Road,Staten Island,NY,10301,"Clove Road
+Staten Island, NY 10301
+(40.619882533, -74.108139524)",40.619882533,-74.108139524
+Queens,Grocery,Key Food,Merrick Blvd,Laurelton,NY,11413,"Merrick Blvd
+Laurelton, NY 11413
+(40.677663119, -73.74510356)",40.677663119,-73.74510356
+Kings,Grocery,Cherry Valley Market Place,Pennsylvania Ave,Brooklyn,NY,11207,"Pennsylvania Ave
+Brooklyn, NY 11207
+(40.664798077, -73.894062001)",40.664798077,-73.894062001
+New York,Grocery,Fine Fare Supermarket,Broadway,New York,NY,10034,"Broadway
+New York, NY 10034
+(40.868737696, -73.917929147)",40.868737696,-73.917929147
+Richmond,Grocery,Frutas Y Abarrotes Mexico Ltd.,Victory Blvd,Staten Island,NY,10301,"Victory Blvd
+Staten Island, NY 10301
+(40.625627129, -74.092403522)",40.625627129,-74.092403522
+Kings,Grocery,J & F Mini Market,Fulton Street,Brooklyn,NY,11208,"Fulton Street
+Brooklyn, NY 11208
+(40.682521989, -73.876106933)",40.682521989,-73.876106933
+Kings,Grocery,Schwartz Grocery,Lee Avenue,Brooklyn,NY,11211,"Lee Avenue
+Brooklyn, NY 11211
+(40.704744686, -73.958840853)",40.704744686,-73.958840853
+Kings,Grocery,183 Wyckoff Meat Corp.,Wyckoff Ave,Brooklyn,NY,11237,"Wyckoff Ave
+Brooklyn, NY 11237
+(40.703431233, -73.917829949)",40.703431233,-73.917829949
+Bronx,Grocery,Pioneer Supermarket,Jerome Avenue,Bronx,NY,10453,"Jerome Avenue
+Bronx, NY 10453
+(40.854342642, -73.906918625)",40.854342642,-73.906918625
+Queens,Grocery,Treasure Group Inc,Jamaica Avenue,Richmond Hill,NY,11418,"Jamaica Avenue
+Richmond Hill, NY 11418
+(40.697910308, -73.835528358)",40.697910308,-73.835528358
+Kings,Grocery,Jenny's Food Market Inc.,41st St,Brooklyn,NY,11219,"41st St
+Brooklyn, NY 11219
+(40.643504537, -73.994095862)",40.643504537,-73.994095862
+Kings,Grocery,Mary Grocery Inc,Fort Hamilton Pkwy,Brooklyn,NY,11219,"Fort Hamilton Pkwy
+Brooklyn, NY 11219
+(40.635448124, -74.002042816)",40.635448124,-74.002042816
+Queens,Grocery,Shop Fair Supermarket Market Place,Seneca Av,Ridgewood,NY,11385,"Seneca Av
+Ridgewood, NY 11385
+(40.710655011, -73.920980009)",40.710655011,-73.920980009
+Queens,Grocery,C-Town Supermarkets,Roosevelt Ave,Woodside,NY,11377,"Roosevelt Ave
+Woodside, NY 11377
+(40.745348898, -73.907306009)",40.745348898,-73.907306009
+Kings,Grocery,Ctown Supermarket,Pitkin Avenue,Brooklyn,NY,11207,"Pitkin Avenue
+Brooklyn, NY 11207
+(40.672278824, -73.893402436)",40.672278824,-73.893402436
+Kings,Grocery,Brooklyn Harvest Market,Metropolitan Avenue,Brooklyn,NY,11211,"Metropolitan Avenue
+Brooklyn, NY 11211
+(40.714547412, -73.937480904)",40.714547412,-73.937480904
+Kings,Grocery,The Food Emporium,5th Av,Brooklyn,NY,11209,"5th Av
+Brooklyn, NY 11209
+(40.624133373, -74.024829246)",40.624133373,-74.024829246
+Bronx,Grocery,Nongsa Corp,West 183rd Street,Bronx,NY,10453,"West 183rd Street
+Bronx, NY 10453
+(40.859957526, -73.908448889)",40.859957526,-73.908448889
+Queens,Grocery,Food Bazaar,Junction Blvd,Corona,NY,11368,"Junction Blvd
+Corona, NY 11368
+(40.744939992, -73.86789004)",40.744939992,-73.86789004
+Kings,Grocery,Fine Fare Supermarket,Mother Gaston Blvd,Brooklyn,NY,11212,"Mother Gaston Blvd
+Brooklyn, NY 11212
+(40.66436359, -73.905494313)",40.66436359,-73.905494313
+Kings,Grocery,Aden Supermarket Llc,Flatlands Avenue,Brooklyn,NY,11236,"Flatlands Avenue
+Brooklyn, NY 11236
+(40.640211735, -73.90600239)",40.640211735,-73.90600239
+Kings,Grocery,Fine Fare,Kingston Av,Brooklyn,NY,11213,"Kingston Av
+Brooklyn, NY 11213
+(40.672885122, -73.941867251)",40.672885122,-73.941867251
+Queens,Grocery,Foodtown #590,Hillside Avenue,Hollis,NY,11423,"Hillside Avenue
+Hollis, NY 11423
+(40.715809986, -73.771550038)",40.715809986,-73.771550038
+New York,Grocery,Central Market,Manhattan Ave,New York,NY,10025,"Manhattan Ave
+New York, NY 10025
+(40.797970763, -73.96197675)",40.797970763,-73.96197675
+Bronx,Grocery,Food Universe,Louis Nine Boulevard,Bronx,NY,10459,"Louis Nine Boulevard
+Bronx, NY 10459
+(40.832771119, -73.892851364)",40.832771119,-73.892851364
+Kings,Grocery,Sunny Star Grocery Inc,5th Ave Ground Flr,Brooklyn,NY,11220,"5th Ave Ground Flr
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+Kings,Grocery,Shop Fair Supermarket Supermarkets,Arlington Avenue,Brooklyn,NY,11207,"Arlington Avenue
+Brooklyn, NY 11207
+(40.680020415, -73.890213601)",40.680020415,-73.890213601
+Queens,Grocery,Fresh Fruit & Cafe Organic Inc.,Broadway,Astoria,NY,11106,"Broadway
+Astoria, NY 11106
+(40.763484339, -73.928562832)",40.763484339,-73.928562832
+Kings,Grocery,Bsk Grocery Store Corp.,8th Avenue,Brooklyn,NY,11220,"8th Avenue
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Queens,Grocery,Western Beef #020,Merrick Blvd,Jamaica,NY,11434,"Merrick Blvd
+Jamaica, NY 11434
+(40.683689233, -73.769710209)",40.683689233,-73.769710209
+Bronx,Grocery,Key Food,White Plains Road,Bronx,NY,10466,"White Plains Road
+Bronx, NY 10466
+(40.892130306, -73.858120818)",40.892130306,-73.858120818
+Kings,Grocery,Los Vecinos Deli Corp.,Etna St,Brooklyn,NY,11208,"Etna St
+Brooklyn, NY 11208
+(40.686555352, -73.874694315)",40.686555352,-73.874694315
+Bronx,Grocery,Felu Grocery Corp.,Burke Avenue,Bronx,NY,10469,"Burke Avenue
+Bronx, NY 10469
+(40.871173762, -73.852093824)",40.871173762,-73.852093824
+New York,Grocery,Fine Fare Fresh,Broadway Suite 17,New York,NY,10033,"Broadway Suite 17
+New York, NY 10033
+(40.847681539, -73.9379936)",40.847681539,-73.9379936
+Kings,Grocery,C & Y Grocery Inc,46th St,Brooklyn,NY,11220,"46th St
+Brooklyn, NY 11220
+(40.646667409, -74.006882553)",40.646667409,-74.006882553
+Bronx,Grocery,Key Food,Gerard Avenue,Bronx,NY,10452,"Gerard Avenue
+Bronx, NY 10452
+(40.832901357, -73.921766509)",40.832901357,-73.921766509
+Kings,Grocery,Green Acres Farms Inc.,Utica Ave,Brooklyn,NY,11203,"Utica Ave
+Brooklyn, NY 11203
+(40.650159197, -73.930216953)",40.650159197,-73.930216953
+Kings,Grocery,"Bochner's Grocery, Llc",16th Av,Brooklyn,NY,11204,"16th Av
+Brooklyn, NY 11204
+(40.6259069, -73.99080976)",40.6259069,-73.99080976
+Kings,Grocery,Green Village Supermarket,Tapscott Street,Brooklyn,NY,11212,"Tapscott Street
+Brooklyn, NY 11212
+(40.665094405, -73.920313492)",40.665094405,-73.920313492
+Bronx,Grocery,Key Food,Riverdale Avenue,Bronx,NY,10471,"Riverdale Avenue
+Bronx, NY 10471
+(40.907280857, -73.90401133)",40.907280857,-73.90401133
+Queens,Grocery,Vitelio's Market Place Key Food,Metropolitan Avenue,Jamaica,NY,11418,"Metropolitan Avenue
+Jamaica, NY 11418
+(40.708532049, -73.838893279)",40.708532049,-73.838893279
+Bronx,Grocery,Alanis Deli Grocery Corp,Grand Concourse,Bronx,NY,10468,"Grand Concourse
+Bronx, NY 10468
+(40.868787087, -73.892586083)",40.868787087,-73.892586083
+New York,Grocery,City Fresh Market,East 116th Street,New York,NY,10029,"East 116th Street
+New York, NY 10029
+(40.797530398, -73.939020637)",40.797530398,-73.939020637
+Bronx,Grocery,Baraka African Market Store Corp,Webster Avenue,Bronx,NY,10456,"Webster Avenue
+Bronx, NY 10456
+(40.837165912, -73.906860557)",40.837165912,-73.906860557
+Queens,Grocery,Brooklyn Harvest Market,2nd Street,Astoria,NY,11102,"2nd Street
+Astoria, NY 11102
+(40.776433103, -73.93469869)",40.776433103,-73.93469869
+Queens,Grocery,C-Town Supermarkets,Newtown Ave,Astoria,NY,11102,"Newtown Ave
+Astoria, NY 11102
+(40.769374219, -73.922388147)",40.769374219,-73.922388147
+New York,Grocery,Shop Fair Supermarket,Saint Nicholas Avenue,New York,NY,10033,"Saint Nicholas Avenue
+New York, NY 10033
+(40.848600208, -73.934262238)",40.848600208,-73.934262238
+Bronx,Grocery,Extra Jumbo Market Place,Nelson Avenue,Bronx,NY,10452,"Nelson Avenue
+Bronx, NY 10452
+(40.839381094, -73.924217294)",40.839381094,-73.924217294
+Bronx,Grocery,Price Choice,East 180th Street,Bronx,NY,10460,"East 180th Street
+Bronx, NY 10460
+(40.842224, -73.876117)",40.842224,-73.876117
+Queens,Grocery,Fine Fare,Hollis Avenue,Saint Albans,NY,11412,"Hollis Avenue
+Saint Albans, NY 11412
+(40.706588288, -73.761261199)",40.706588288,-73.761261199
+Bronx,Grocery,Super Fresh,Webster Avenue,Bronx,NY,10456,"Webster Avenue
+Bronx, NY 10456
+(40.837165912, -73.906860557)",40.837165912,-73.906860557
+Queens,Grocery,Trade Fair,30th Ave,Astoria,NY,11102,"30th Ave
+Astoria, NY 11102
+(40.769208275, -73.926348783)",40.769208275,-73.926348783
+Kings,Grocery,Key Food Fresh Supermarket,Cropsey Ave,Brooklyn,NY,11214,"Cropsey Ave
+Brooklyn, NY 11214
+(40.596311752, -73.997517972)",40.596311752,-73.997517972
+Queens,Grocery,New Town 99 Cents Store,Union St,Flushing,NY,11354,"Union St
+Flushing, NY 11354
+(40.767453615, -73.827093734)",40.767453615,-73.827093734
+Queens,Grocery,"H Mart Lic, Llc",Northern Boulevard,Long Island City,NY,11101,"Northern Boulevard
+Long Island City, NY 11101
+(40.753450012, -73.913560013)",40.753450012,-73.913560013
+Bronx,Grocery,Antillana Superfood,Jerome Avenue,Bronx,NY,10452,"Jerome Avenue
+Bronx, NY 10452
+(40.835148, -73.924245)",40.835148,-73.924245
+New York,Grocery,Columbus Foodmarket,West 104th Street,New York,NY,10025,"West 104th Street
+New York, NY 10025
+(40.798884254, -73.966101243)",40.798884254,-73.966101243
+Kings,Grocery,Ideal Food Basket,Rockaway Parkway,Brooklyn,NY,11236,"Rockaway Parkway
+Brooklyn, NY 11236
+(40.64051526, -73.897153295)",40.64051526,-73.897153295
+Queens,Grocery,Key Food Supermarket,30th Ave,Astoria,NY,11103,"30th Ave
+Astoria, NY 11103
+(40.763321739, -73.913796544)",40.763321739,-73.913796544
+Bronx,Grocery,Cacheo Food Corp,Sheridan Avenue,Bronx,NY,10456,"Sheridan Avenue
+Bronx, NY 10456
+(40.834043491, -73.916755823)",40.834043491,-73.916755823
+Kings,Grocery,Food Bazaar,Ridgewood Place,Brooklyn,NY,11237,"Ridgewood Place
+Brooklyn, NY 11237
+(40.69812892, -73.910641107)",40.69812892,-73.910641107
+Queens,Grocery,Five Stars Deli Grocery,Jamaica Av,Richmond Hill,NY,11418,"Jamaica Av
+Richmond Hill, NY 11418
+(40.697910308, -73.835528358)",40.697910308,-73.835528358
+Kings,Grocery,Ctown,Fifth Avenue,Brooklyn,NY,11220,"Fifth Avenue
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+Queens,Grocery,Lovely Bebe Inc,43rd Ave,Elmhurst,NY,11373,"43rd Ave
+Elmhurst, NY 11373
+(40.743715232, -73.873161585)",40.743715232,-73.873161585
+Bronx,Grocery,Real Supermarket,Prospect Avenue,Bronx,NY,10455,"Prospect Avenue
+Bronx, NY 10455
+(40.817540445, -73.902510726)",40.817540445,-73.902510726
+Queens,Grocery,Food Bazaar,Junction Blvd,Jackson Heights,NY,11372,"Junction Blvd
+Jackson Heights, NY 11372
+(40.756780017, -73.873629968)",40.756780017,-73.873629968
+Kings,Grocery,Shop Fair Supermarket,Livonia Ave,Brooklyn,NY,11212,"Livonia Ave
+Brooklyn, NY 11212
+(40.662404257, -73.910023229)",40.662404257,-73.910023229
+Bronx,Grocery,Chang Li Supermarket Inc,Benedict Avenue,Bronx,NY,10462,"Benedict Avenue
+Bronx, NY 10462
+(40.834355238, -73.857592795)",40.834355238,-73.857592795
+Bronx,Grocery,Shakespeare Deli & Grocery Inc,Shakespeare Avenue,Bronx,NY,10452,"Shakespeare Avenue
+Bronx, NY 10452
+(40.84570501, -73.91924001)",40.84570501,-73.91924001
+Richmond,Grocery,Stop & Shop #2513,Amboy Ro,Staten Island,NY,10312,"Amboy Ro
+Staten Island, NY 10312
+(40.531312975, -74.192861367)",40.531312975,-74.192861367
+Bronx,Grocery,Food Dynasty,W Fordham Road,Bronx,NY,10468,"W Fordham Road
+Bronx, NY 10468
+(40.86274183, -73.908768937)",40.86274183,-73.908768937
+Bronx,Grocery,Steven Deli & Grocery Corp.,Cypress Avenue,Bronx,NY,10454,"Cypress Avenue
+Bronx, NY 10454
+(40.806455669, -73.914000942)",40.806455669,-73.914000942
+Kings,Grocery,La Placita De Brooklyn Supermarket,8th Avenue,Brooklyn,NY,11232,"8th Avenue
+Brooklyn, NY 11232
+(40.646048638, -73.998557857)",40.646048638,-73.998557857
+Kings,Grocery,Myrtle Plaza Grocery Inc.,Myrtle Ave,Brooklyn,NY,11205,"Myrtle Ave
+Brooklyn, NY 11205
+(40.693123863, -73.969930633)",40.693123863,-73.969930633
+Queens,Grocery,"Maa Supermarket, Inc.",Parsons Blvd,Jamaica,NY,11432,"Parsons Blvd
+Jamaica, NY 11432
+(40.706999819, -73.802368772)",40.706999819,-73.802368772
+Bronx,Grocery,Amigos Grocery Corp.,East 172nd Street,Bronx,NY,10457,"East 172nd Street
+Bronx, NY 10457
+(40.840251353, -73.910296596)",40.840251353,-73.910296596
+Bronx,Grocery,Fine Fare,East Mount Eden Avenue,Bronx,NY,10452,"East Mount Eden Avenue
+Bronx, NY 10452
+(40.84338868, -73.912623983)",40.84338868,-73.912623983
+Queens,Grocery,Compare Foods,Hollis Av,Queens Village,NY,11429,"Hollis Av
+Queens Village, NY 11429
+(40.709972271, -73.743490056)",40.709972271,-73.743490056
+Bronx,Grocery,Compare Foods,Hunts Point Avenue,Bronx,NY,10474,"Hunts Point Avenue
+Bronx, NY 10474
+(40.814383135, -73.885687709)",40.814383135,-73.885687709
+Kings,Grocery,88 Lucky Grocery Inc,86th St,Brooklyn,NY,11214,"86th St
+Brooklyn, NY 11214
+(40.605296074, -73.999391361)",40.605296074,-73.999391361
+Kings,Grocery,Greenfresh 2 Supermarket,Dekalb Ave,Brooklyn,NY,11205,"Dekalb Ave
+Brooklyn, NY 11205
+(40.690102709, -73.962419723)",40.690102709,-73.962419723
+Richmond,Grocery,Island Kosher Llc,Victory Blvd,Staten Island,NY,10314,"Victory Blvd
+Staten Island, NY 10314
+(40.613192575, -74.121114248)",40.613192575,-74.121114248
+Kings,Grocery,Hua Xing Grocery Inc,Fort Hamilton Pw,Brooklyn,NY,11219,"Fort Hamilton Pw
+Brooklyn, NY 11219
+(40.635448124, -74.002042816)",40.635448124,-74.002042816
+Bronx,Grocery,Piedra Partida Deli Grocery Corp,East Kingsbridge Road,Bronx,NY,10458,"East Kingsbridge Road
+Bronx, NY 10458
+(40.86347868, -73.894260818)",40.86347868,-73.894260818
+Richmond,Grocery,K P Deli Corp.,Hylan Blvd.,Staten Island,NY,10305,"Hylan Blvd.
+Staten Island, NY 10305
+(40.590102107, -74.088919732)",40.590102107,-74.088919732
+Queens,Grocery,Green Valley Of Sunnyside,Greenpoint Ave,Sunnyside,NY,11104,"Greenpoint Ave
+Sunnyside, NY 11104
+(40.740832735, -73.922163948)",40.740832735,-73.922163948
+Kings,Grocery,Posner's Food Center Inc.,15th Av,Brooklyn,NY,11219,"15th Av
+Brooklyn, NY 11219
+(40.628924223, -73.991258568)",40.628924223,-73.991258568
+Bronx,Grocery,965 Castillo Meat & Produce Inc,East 172nd Street,Bronx,NY,10460,"East 172nd Street
+Bronx, NY 10460
+(40.83374478, -73.888814018)",40.83374478,-73.888814018
+Bronx,Grocery,Superfresh,Jerome Avenue,Bronx,NY,10452,"Jerome Avenue
+Bronx, NY 10452
+(40.835148, -73.924245)",40.835148,-73.924245
+Kings,Grocery,Big Banana,Kings Highway,Brooklyn,NY,11229,"Kings Highway
+Brooklyn, NY 11229
+(40.609214454, -73.957258006)",40.609214454,-73.957258006
+Kings,Grocery,Duddy's Corner,14th Ave,Brooklyn,NY,11219,"14th Ave
+Brooklyn, NY 11219
+(40.630274514, -73.993475503)",40.630274514,-73.993475503
+Queens,Grocery,The Food Emporium,153rd Avenue,Howard Beach,NY,11414,"153rd Avenue
+Howard Beach, NY 11414
+(40.666063104, -73.852125657)",40.666063104,-73.852125657
+Kings,Grocery,Landish Ii,Cortelyou Rd,Brooklyn,NY,11218,"Cortelyou Rd
+Brooklyn, NY 11218
+(40.638403914, -73.974139513)",40.638403914,-73.974139513
+Queens,Grocery,Vitelio's Market Place,Yellowstone Blvd,Forest Hills,NY,11375,"Yellowstone Blvd
+Forest Hills, NY 11375
+(40.720292079, -73.855563866)",40.720292079,-73.855563866
+Kings,Grocery,Mountain Fruit,Avenue M,Brooklyn,NY,11230,"Avenue M
+Brooklyn, NY 11230
+(40.617677031, -73.963010685)",40.617677031,-73.963010685
+Kings,Grocery,6216 Jinyuan Trading Corp,11th Ave,Brooklyn,NY,11219,"11th Ave
+Brooklyn, NY 11219
+(40.633070322, -74.00129566)",40.633070322,-74.00129566
+Kings,Grocery,Super 13,13th Ave,Brooklyn,NY,11219,"13th Ave
+Brooklyn, NY 11219
+(40.631580168, -73.995655412)",40.631580168,-73.995655412
+Bronx,Grocery,Felino Grocery Corp,Anthony Ave,Bronx,NY,10457,"Anthony Ave
+Bronx, NY 10457
+(40.843425596, -73.90456119)",40.843425596,-73.90456119
+Kings,Grocery,Empire Kosher Supermarket,Empire Blvd,Brooklyn,NY,11225,"Empire Blvd
+Brooklyn, NY 11225
+(40.663796101, -73.952562075)",40.663796101,-73.952562075
+Queens,Grocery,Fine Fare,102nd St,Corona,NY,11368,"102nd St
+Corona, NY 11368
+(40.753865074, -73.865817898)",40.753865074,-73.865817898
+Bronx,Grocery,Jd Food Market Corp,Quincy Ave,Bronx,NY,10465,"Quincy Ave
+Bronx, NY 10465
+(40.828341059, -73.827697884)",40.828341059,-73.827697884
+Bronx,Grocery,C-Town Supermarkets,East 198th Street,Bronx,NY,10468,"East 198th Street
+Bronx, NY 10468
+(40.870749787, -73.891979629)",40.870749787,-73.891979629
+Queens,Grocery,Met Food,Eliot Ave,Middle Village,NY,11379,"Eliot Ave
+Middle Village, NY 11379
+(40.721298968, -73.887217571)",40.721298968,-73.887217571
+Kings,Grocery,Country Butcher Corp,Avenue L,Brooklyn,NY,11236,"Avenue L
+Brooklyn, NY 11236
+(40.637422959, -73.897223131)",40.637422959,-73.897223131
+Queens,Grocery,Mommy Shop Inc,Myrtle Avenue,Ridgewood,NY,11385,"Myrtle Avenue
+Ridgewood, NY 11385
+(40.702500624, -73.873977684)",40.702500624,-73.873977684
+Bronx,Grocery,Modern Fresh Market,E. Tremont Avenue,Bronx,NY,10457,"E. Tremont Avenue
+Bronx, NY 10457
+(40.847177139, -73.898829356)",40.847177139,-73.898829356
+Kings,Grocery,C-Town Supermarkets,Belmont Av,Brooklyn,NY,11212,"Belmont Av
+Brooklyn, NY 11212
+(40.668971742, -73.906669427)",40.668971742,-73.906669427
+Queens,Grocery,C-Town Supermarkets,Metropolitan Ave,Middle Village,NY,11379,"Metropolitan Ave
+Middle Village, NY 11379
+(40.712459328, -73.891740025)",40.712459328,-73.891740025
+Kings,Grocery,Foodtown,Stillwell Avenue,Brooklyn,NY,11223,"Stillwell Avenue
+Brooklyn, NY 11223
+(40.59554985, -73.98503911)",40.59554985,-73.98503911
+Kings,Grocery,Associated Supermarkets,Flatbush Avenue,Brooklyn,NY,11225,"Flatbush Avenue
+Brooklyn, NY 11225
+(40.664498076, -73.963337847)",40.664498076,-73.963337847
+Bronx,Grocery,Super Foodtown,Bruckner Blvd.,Bronx,NY,10461,"Bruckner Blvd.
+Bronx, NY 10461
+(40.842699018, -73.82622997)",40.842699018,-73.82622997
+New York,Grocery,Fine Fare,Madison Av,New York,NY,10029,"Madison Av
+New York, NY 10029
+(40.793608276, -73.949511218)",40.793608276,-73.949511218
+Bronx,Grocery,Key Food,Walton Avenue,Bronx,NY,10453,"Walton Avenue
+Bronx, NY 10453
+(40.851734538, -73.908047577)",40.851734538,-73.908047577
+Queens,Grocery,Montero's Grocery Corp.,99th Street,Corona,NY,11368,"99th Street
+Corona, NY 11368
+(40.751733313, -73.867890887)",40.751733313,-73.867890887
+Kings,Grocery,You Jia Grocery Inc,20th Av,Brooklyn,NY,11204,"20th Av
+Brooklyn, NY 11204
+(40.618339034, -73.983976114)",40.618339034,-73.983976114
+Kings,Grocery,Brooklyn Harvest Market,Union Avenue,Brooklyn,NY,11211,"Union Avenue
+Brooklyn, NY 11211
+(40.712954708, -73.951445801)",40.712954708,-73.951445801
+Bronx,Grocery,Fine Fare Supermarket,East Tremont Avenue,Bronx,NY,10465,"East Tremont Avenue
+Bronx, NY 10465
+(40.824453, -73.820251387)",40.824453,-73.820251387
+Queens,Grocery,Yamin Food Mart Inc,Woodside Avenue,Elmhurst,NY,11373,"Woodside Avenue
+Elmhurst, NY 11373
+(40.743574867, -73.887819863)",40.743574867,-73.887819863
+Bronx,Grocery,Modern Market,Arthur Avenue,Bronx,NY,10458,"Arthur Avenue
+Bronx, NY 10458
+(40.855802029, -73.887354138)",40.855802029,-73.887354138
+Queens,Grocery,Ideal Food Basket,Hillside Av,Jamaica,NY,11435,"Hillside Av
+Jamaica, NY 11435
+(40.706557435, -73.806823967)",40.706557435,-73.806823967
+Kings,Grocery,Amishapara Bazar Inc.,Church Avenue,Brooklyn,NY,11218,"Church Avenue
+Brooklyn, NY 11218
+(40.645041076, -73.974101779)",40.645041076,-73.974101779
+Kings,Grocery,American International Food Inc,20th Avenue,Brooklyn,NY,11214,"20th Avenue
+Brooklyn, NY 11214
+(40.604480884, -73.998361529)",40.604480884,-73.998361529
+Bronx,Grocery,C-Town Supermarkets,Third Avenue,Bronx,NY,10451,"Third Avenue
+Bronx, NY 10451
+(40.821787595, -73.911971928)",40.821787595,-73.911971928
+Kings,Grocery,Central Market,Division Ave,Brooklyn,NY,11249,"Division Ave
+Brooklyn, NY 11249
+(40.707164455, -73.966399794)",40.707164455,-73.966399794
+New York,Grocery,Hamilton Corner Meat Market Inc,Hamilton Pl,New York,NY,10031,"Hamilton Pl
+New York, NY 10031
+(40.822637601, -73.951320955)",40.822637601,-73.951320955
+Bronx,Grocery,G & A Deli Grocery Corp.,W. Tremont Avenue,Bronx,NY,10453,"W. Tremont Avenue
+Bronx, NY 10453
+(40.850022465, -73.914217416)",40.850022465,-73.914217416
+Bronx,Grocery,Key Food #1515,West 235th Street,Bronx,NY,10463,"West 235th Street
+Bronx, NY 10463
+(40.885653472, -73.909945605)",40.885653472,-73.909945605
+Queens,Grocery,John's Farm Market,Farmers Blvd,Saint Albans,NY,11412,"Farmers Blvd
+Saint Albans, NY 11412
+(40.696330052, -73.761649008)",40.696330052,-73.761649008
+Bronx,Grocery,Met Food,Woodycrest Avenue,Bronx,NY,10452,"Woodycrest Avenue
+Bronx, NY 10452
+(40.834107621, -73.926859211)",40.834107621,-73.926859211
+Queens,Grocery,Fine Fare,41st Avenue,Long Island City,NY,11101,"41st Avenue
+Long Island City, NY 11101
+(40.75376993, -73.941998819)",40.75376993,-73.941998819
+New York,Grocery,Key Food Fresh Supermarket,Frederick Douglass Blvd,New York,NY,10030,"Frederick Douglass Blvd
+New York, NY 10030
+(40.819026038, -73.94470691)",40.819026038,-73.94470691
+Queens,Grocery,Key Food,Lefferts Blvd,South Ozone Park,NY,11420,"Lefferts Blvd
+South Ozone Park, NY 11420
+(40.673157877, -73.820042478)",40.673157877,-73.820042478
+Bronx,Grocery,Bravo Supermarket,Westchester Avenue,Bronx,NY,10455,"Westchester Avenue
+Bronx, NY 10455
+(40.816129033, -73.908523108)",40.816129033,-73.908523108
+Kings,Grocery,West Indian Fresh Inc,Avenue J,Brooklyn,NY,11210,"Avenue J
+Brooklyn, NY 11210
+(40.626999932, -73.94504332)",40.626999932,-73.94504332
+Bronx,Grocery,Pioneer,Ryer Avenue,Bronx,NY,10458,"Ryer Avenue
+Bronx, NY 10458
+(40.858665078, -73.898407446)",40.858665078,-73.898407446
+Kings,Grocery,"Kosher Plaza, Inc.",Kings Highway,Brooklyn,NY,11223,"Kings Highway
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Bronx,Grocery,Ray Deli Food Corp.,White Plains Road,Bronx,NY,10466,"White Plains Road
+Bronx, NY 10466
+(40.892130306, -73.858120818)",40.892130306,-73.858120818
+Bronx,Grocery,Fine Fare Supermarket,Ogden Avenue,Bronx,NY,10452,"Ogden Avenue
+Bronx, NY 10452
+(40.837015744, -73.927069735)",40.837015744,-73.927069735
+Kings,Grocery,Metropolitan Citymarket,Bedford Ave.,Brooklyn,NY,11216,"Bedford Ave.
+Brooklyn, NY 11216
+(40.679201671, -73.953074854)",40.679201671,-73.953074854
+Queens,Grocery,Associated Fresh Marketplace,Parsons Blvd,Fresh Meadows,NY,11365,"Parsons Blvd
+Fresh Meadows, NY 11365
+(40.740584716, -73.810241681)",40.740584716,-73.810241681
+Bronx,Grocery,Ashley & J Food Corp.,East Gun Hill Road,Bronx,NY,10467,"East Gun Hill Road
+Bronx, NY 10467
+(40.877231993, -73.865986845)",40.877231993,-73.865986845
+Bronx,Grocery,C & G Espinosa Food Inc.,Courtlandt Avenue,Bronx,NY,10451,"Courtlandt Avenue
+Bronx, NY 10451
+(40.819403832, -73.918250502)",40.819403832,-73.918250502
+Bronx,Grocery,2300 Deli Corp,Crotona Avenue,Bronx,NY,10458,"Crotona Avenue
+Bronx, NY 10458
+(40.855267297, -73.882949093)",40.855267297,-73.882949093
+Kings,Grocery,Bob And Bettys Food Market,Franklin Ave,Brooklyn,NY,11225,"Franklin Ave
+Brooklyn, NY 11225
+(40.666559949, -73.959448426)",40.666559949,-73.959448426
+Queens,Grocery,Food Bazaar,61st Ave,Douglaston,NY,11362,"61st Ave
+Douglaston, NY 11362
+(40.756972099, -73.729685312)",40.756972099,-73.729685312
+Kings,Grocery,Food Universe,Flatbush Ave,Brooklyn,NY,11234,"Flatbush Ave
+Brooklyn, NY 11234
+(40.618684153, -73.932574171)",40.618684153,-73.932574171
+Queens,Grocery,G A H Inc,Woodward Ave,Ridgewood,NY,11385,"Woodward Ave
+Ridgewood, NY 11385
+(40.708090636, -73.911103639)",40.708090636,-73.911103639
+Kings,Grocery,Bravo Supermarket,East 93rd Street,Brooklyn,NY,11212,"East 93rd Street
+Brooklyn, NY 11212
+(40.658566446, -73.92262151)",40.658566446,-73.92262151
+Bronx,Grocery,Pioneer,Bryant Avenue,Bronx,NY,10460,"Bryant Avenue
+Bronx, NY 10460
+(40.834226843, -73.886460431)",40.834226843,-73.886460431
+Queens,Grocery,Key Food,New Haven Ave,Far Rockaway,NY,11691,"New Haven Ave
+Far Rockaway, NY 11691
+(40.598901921, -73.749022573)",40.598901921,-73.749022573
+Queens,Grocery,Market Fresh Supermarket,Sutphin Bo,Jamaica,NY,11435,"Sutphin Bo
+Jamaica, NY 11435
+(40.695351298, -73.803275523)",40.695351298,-73.803275523
+Bronx,Grocery,Bravo Supermarket,East 170th Street,Bronx,NY,10456,"East 170th Street
+Bronx, NY 10456
+(40.83807904, -73.912224011)",40.83807904,-73.912224011
+Bronx,Grocery,Key Food Supermarket,Metropolitan Avenue,Bronx,NY,10462,"Metropolitan Avenue
+Bronx, NY 10462
+(40.835507081, -73.861019981)",40.835507081,-73.861019981
+Queens,Grocery,Cherry Valley Market Place,Corona Avenue,Elmhurst,NY,11373,"Corona Avenue
+Elmhurst, NY 11373
+(40.742052229, -73.874240328)",40.742052229,-73.874240328
+Kings,Grocery,Green Bazzar & Discount,Church Ave,Brooklyn,NY,11218,"Church Ave
+Brooklyn, NY 11218
+(40.645041076, -73.974101779)",40.645041076,-73.974101779
+Kings,Grocery,Key Food #890,7th Avenue,Brooklyn,NY,11215,"7th Avenue
+Brooklyn, NY 11215
+(40.665803771, -73.982495222)",40.665803771,-73.982495222
+Queens,Grocery,Key Food,64th Road,Forest Hills,NY,11375,"64th Road
+Forest Hills, NY 11375
+(40.732360677, -73.849012799)",40.732360677,-73.849012799
+Queens,Grocery,V.M.D. Deli Grocery Inc.,Queens Blvd,Woodside,NY,11377,"Queens Blvd
+Woodside, NY 11377
+(40.741506267, -73.902842155)",40.741506267,-73.902842155
+New York,Grocery,Mulberry Market Inc.,Mulberry Street,New York,NY,10012,"Mulberry Street
+New York, NY 10012
+(40.722787588, -73.995966095)",40.722787588,-73.995966095
+Kings,Grocery,Karzinka Corp.,Bay Parkway,Brooklyn,NY,11204,"Bay Parkway
+Brooklyn, NY 11204
+(40.613771904, -73.981488075)",40.613771904,-73.981488075
+Kings,Grocery,R & M Grocery Corp.,Neptune Ave,Brooklyn,NY,11235,"Neptune Ave
+Brooklyn, NY 11235
+(40.581615209, -73.961538041)",40.581615209,-73.961538041
+Kings,Grocery,Royal Market,Nostrand Ave,Brooklyn,NY,11216,"Nostrand Ave
+Brooklyn, NY 11216
+(40.679793269, -73.949569789)",40.679793269,-73.949569789
+Kings,Grocery,Fortune Prize Grocery Corp,8th Ave,Brooklyn,NY,11220,"8th Ave
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Bronx,Grocery,Sagal Food,Southern Boulevard,Bronx,NY,10459,"Southern Boulevard
+Bronx, NY 10459
+(40.82386322, -73.891859421)",40.82386322,-73.891859421
+Richmond,Grocery,C-Town Supermarkets,Clove Rd. Ste F And U,Staten Island,NY,10304,"Clove Rd. Ste F And U
+Staten Island, NY 10304
+(40.604568517, -74.084091342)",40.604568517,-74.084091342
+Queens,Grocery,Fresh N Save,Queens Blvd,Sunnyside,NY,11104,"Queens Blvd
+Sunnyside, NY 11104
+(40.743658442, -73.921448264)",40.743658442,-73.921448264
+Kings,Grocery,3rd Avenue Mini Market I Inc.,3rd Av,Brooklyn,NY,11209,"3rd Av
+Brooklyn, NY 11209
+(40.624059334, -74.030818893)",40.624059334,-74.030818893
+Kings,Grocery,Throop Ave. Grocery & Meat Market,Park Avenue,Brooklyn,NY,11206,"Park Avenue
+Brooklyn, NY 11206
+(40.698004966, -73.945776121)",40.698004966,-73.945776121
+Kings,Grocery,Dumbo Market,Smith Street,Brooklyn,NY,11201,"Smith Street
+Brooklyn, NY 11201
+(40.687795797, -73.989738535)",40.687795797,-73.989738535
+Kings,Grocery,City Fresh Market,Stanley Avenue,Brooklyn,NY,11207,"Stanley Avenue
+Brooklyn, NY 11207
+(40.657490593, -73.888232613)",40.657490593,-73.888232613
+Kings,Grocery,Ft. Hamilton Market Corp.,Fort Hamilton Pkwy,Brooklyn,NY,11219,"Fort Hamilton Pkwy
+Brooklyn, NY 11219
+(40.635448124, -74.002042816)",40.635448124,-74.002042816
+Kings,Grocery,S. Kahan Grocery Inc.,Marcy Ave,Brooklyn,NY,11211,"Marcy Ave
+Brooklyn, NY 11211
+(40.70824594, -73.958007931)",40.70824594,-73.958007931
+Kings,Grocery,Bravo Fresh Market,Dekalb Av,Brooklyn,NY,11221,"Dekalb Av
+Brooklyn, NY 11221
+(40.69306893, -73.936585653)",40.69306893,-73.936585653
+Kings,Grocery,C-Town Supermarkets,Bond St,Brooklyn,NY,11217,"Bond St
+Brooklyn, NY 11217
+(40.685367531, -73.985908517)",40.685367531,-73.985908517
+Kings,Grocery,"Gitto & Sons Health Food, Inc.",Brooklyn Terminal Market,Brooklyn,NY,11236,"Brooklyn Terminal Market
+Brooklyn, NY 11236
+(40.643246, -73.915276)",40.643246,-73.915276
+New York,Grocery,C'town Supermarket,West 116th Street,New York,NY,10026,"West 116th Street
+New York, NY 10026
+(40.80312938, -73.952342716)",40.80312938,-73.952342716
+Richmond,Grocery,Market Fresh Supermarket,Tompkins Avenue,Staten Island,NY,10305,"Tompkins Avenue
+Staten Island, NY 10305
+(40.600210005, -74.062369975)",40.600210005,-74.062369975
+Bronx,Grocery,Shop Fair Supermarket Supermarket,White Plains Road,Bronx,NY,10466,"White Plains Road
+Bronx, NY 10466
+(40.892130306, -73.858120818)",40.892130306,-73.858120818
+Kings,Grocery,"Food Land Mini Market, Inc",Cortelyou Road,Brooklyn,NY,11218,"Cortelyou Road
+Brooklyn, NY 11218
+(40.638403914, -73.974139513)",40.638403914,-73.974139513
+Kings,Grocery,C-Town Supermarkets,Taaffe Place,Brooklyn,NY,11205,"Taaffe Place
+Brooklyn, NY 11205
+(40.694385556, -73.960197997)",40.694385556,-73.960197997
+Bronx,Grocery,Food Universe Market Place,Jerome Avenue,Bronx,NY,10452,"Jerome Avenue
+Bronx, NY 10452
+(40.835148, -73.924245)",40.835148,-73.924245
+New York,Grocery,Pioneer,Avenue D,New York,NY,10009,"Avenue D
+New York, NY 10009
+(40.723361889, -73.976272053)",40.723361889,-73.976272053
+Kings,Grocery,Western Beef #46,Myrtle Avenue,Brooklyn,NY,11206,"Myrtle Avenue
+Brooklyn, NY 11206
+(40.696058921, -73.943251594)",40.696058921,-73.943251594
+Kings,Grocery,777 Food Corp,Blake Ave,Brooklyn,NY,11207,"Blake Ave
+Brooklyn, NY 11207
+(40.668194913, -73.892362078)",40.668194913,-73.892362078
+Bronx,Grocery,775 Mena Grocery Corp,Lydig Avenue,Bronx,NY,10462,"Lydig Avenue
+Bronx, NY 10462
+(40.854449029, -73.865234483)",40.854449029,-73.865234483
+New York,Grocery,C-Town Supermarkets,Broadway,New York,NY,10034,"Broadway
+New York, NY 10034
+(40.868737696, -73.917929147)",40.868737696,-73.917929147
+Bronx,Grocery,Food Dynasty Supermarket,Jerome Avenue,Bronx,NY,10468,"Jerome Avenue
+Bronx, NY 10468
+(40.864056372, -73.900080537)",40.864056372,-73.900080537
+New York,Grocery,Food Dynasty,Malcolm X Blvd,New York,NY,10037,"Malcolm X Blvd
+New York, NY 10037
+(40.815716285, -73.939766325)",40.815716285,-73.939766325
+Bronx,Grocery,Western Beef #29,Webster Avenue,Bronx,NY,10457,"Webster Avenue
+Bronx, NY 10457
+(40.846857045, -73.901421686)",40.846857045,-73.901421686
+Bronx,Grocery,Key Food,Melrose Avenue,Bronx,NY,10451,"Melrose Avenue
+Bronx, NY 10451
+(40.823148561, -73.914400708)",40.823148561,-73.914400708
+Kings,Grocery,International Deli Corp.,14th Avenue,Brooklyn,NY,11218,"14th Avenue
+Brooklyn, NY 11218
+(40.640097829, -73.983238156)",40.640097829,-73.983238156
+Bronx,Grocery,Palo Blanco Deli Grocery Corp,Astor Avenue,Bronx,NY,10467,"Astor Avenue
+Bronx, NY 10467
+(40.859601409, -73.864590127)",40.859601409,-73.864590127
+Queens,Grocery,Ng Mini Market Corp.,81st St,East Elmhurst,NY,11370,"81st St
+East Elmhurst, NY 11370
+(40.770121016, -73.888882218)",40.770121016,-73.888882218
+Bronx,Grocery,I & C Deli Mini Market Corp,E 183rd Street,Bronx,NY,10458,"E 183rd Street
+Bronx, NY 10458
+(40.856934687, -73.898535204)",40.856934687,-73.898535204
+Kings,Grocery,Fresh Green Farm Inc,5th Ave,Brooklyn,NY,11220,"5th Ave
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+Kings,Grocery,Flatbush Grocery Store,Flatbush Ave,Brooklyn,NY,11226,"Flatbush Ave
+Brooklyn, NY 11226
+(40.646602568, -73.958112669)",40.646602568,-73.958112669
+Kings,Grocery,Green Village Meat Market,Church Avenue,Brooklyn,NY,11226,"Church Avenue
+Brooklyn, NY 11226
+(40.647725722, -73.967413861)",40.647725722,-73.967413861
+Queens,Grocery,Mini Mart,108th St,Forest Hills,NY,11375,"108th St
+Forest Hills, NY 11375
+(40.729532973, -73.847867781)",40.729532973,-73.847867781
+Queens,Grocery,Food Bazaar Supermarket,57th Ave,Corona,NY,11368,"57th Ave
+Corona, NY 11368
+(40.73773599, -73.862122702)",40.73773599,-73.862122702
+New York,Grocery,Emily Grocery Inc.,Saint Nicholas Ave,New York,NY,10033,"Saint Nicholas Ave
+New York, NY 10033
+(40.848600208, -73.934262238)",40.848600208,-73.934262238
+Kings,Grocery,Associated,Hegeman Avenue,Brooklyn,NY,11212,"Hegeman Avenue
+Brooklyn, NY 11212
+(40.656400783, -73.906426205)",40.656400783,-73.906426205
+Queens,Grocery,Perez Meat Market& Grocery,Sutphin Bo,Jamaica,NY,11435,"Sutphin Bo
+Jamaica, NY 11435
+(40.695351298, -73.803275523)",40.695351298,-73.803275523
+Bronx,Grocery,Tenares Gourmet Deli Grocery Corp.,East 233rd Street,Bronx,NY,10466,"East 233rd Street
+Bronx, NY 10466
+(40.89226407, -73.853810001)",40.89226407,-73.853810001
+Kings,Grocery,Hatzlacha Supermarket Inc.,Flushing Ave,Brooklyn,NY,11205,"Flushing Ave
+Brooklyn, NY 11205
+(40.697716825, -73.967697696)",40.697716825,-73.967697696
+Kings,Grocery,72 St Grocery Inc,13th Ave,Brooklyn,NY,11228,"13th Ave
+Brooklyn, NY 11228
+(40.618881412, -74.00889746)",40.618881412,-74.00889746
+Bronx,Grocery,Julian Grocery Corp.,West Burnside Avenue,Bronx,NY,10453,"West Burnside Avenue
+Bronx, NY 10453
+(40.853962219, -73.914709793)",40.853962219,-73.914709793
+Bronx,Grocery,Taveras Food Center Corp,Broadway,Bronx,NY,10463,"Broadway
+Bronx, NY 10463
+(40.881507219, -73.902970873)",40.881507219,-73.902970873
+Bronx,Grocery,Pruzzo's Supermarket Corp.,Westchester Avenue,Bronx,NY,10461,"Westchester Avenue
+Bronx, NY 10461
+(40.84667827, -73.832720631)",40.84667827,-73.832720631
+Queens,Grocery,Checo's Food Universe,Fresh Pond Rd,Ridgewood,NY,11385,"Fresh Pond Rd
+Ridgewood, NY 11385
+(40.706887204, -73.897125209)",40.706887204,-73.897125209
+Queens,Grocery,Ideal Food Basket,Corona Ave,Corona,NY,11368,"Corona Ave
+Corona, NY 11368
+(40.744334296, -73.862355026)",40.744334296,-73.862355026
+Kings,Grocery,Ideal Food Basket,Bedford Ave,Brooklyn,NY,11226,"Bedford Ave
+Brooklyn, NY 11226
+(40.645101597, -73.954845896)",40.645101597,-73.954845896
+New York,Grocery,Farm Country,1st Ave,New York,NY,10029,"1st Ave
+New York, NY 10029
+(40.789626688, -73.940072323)",40.789626688,-73.940072323
+Bronx,Grocery,Food Fair Fresh Market,East 163 Rd Street,Bronx,NY,10459,"East 163 Rd Street
+Bronx, NY 10459
+(40.822239843, -73.901152912)",40.822239843,-73.901152912
+Bronx,Grocery,Food Universe,White Plains Road,Bronx,NY,10462,"White Plains Road
+Bronx, NY 10462
+(40.853813784, -73.867714112)",40.853813784,-73.867714112
+Kings,Grocery,Q & Y Inc,Avenue S,Brooklyn,NY,11223,"Avenue S
+Brooklyn, NY 11223
+(40.601698303, -73.973243147)",40.601698303,-73.973243147
+Queens,Grocery,Key Food Marketplace,90th Street,Jackson Heights,NY,11372,"90th Street
+Jackson Heights, NY 11372
+(40.752379373, -73.877205398)",40.752379373,-73.877205398
+Queens,Grocery,Key Food,Queens Blvd,Woodside,NY,11377,"Queens Blvd
+Woodside, NY 11377
+(40.741506267, -73.902842155)",40.741506267,-73.902842155
+Queens,Grocery,Romark Universal Food,63rd Road,Rego Park,NY,11374,"63rd Road
+Rego Park, NY 11374
+(40.732180184, -73.858494636)",40.732180184,-73.858494636
+Kings,Grocery,"Goldberger's Grocery, Inc.",Division Ave,Brooklyn,NY,11211,"Division Ave
+Brooklyn, NY 11211
+(40.707368448, -73.959822292)",40.707368448,-73.959822292
+Kings,Grocery,Peace And Love Deli And Grocery Cor,3rd Av,Brooklyn,NY,11220,"3rd Av
+Brooklyn, NY 11220
+(40.645202895, -74.017395955)",40.645202895,-74.017395955
+Kings,Grocery,Green Village Meat Market,Nostrand Avenue,Brooklyn,NY,11226,"Nostrand Avenue
+Brooklyn, NY 11226
+(40.647425165, -73.949209966)",40.647425165,-73.949209966
+Kings,Grocery,Strawberry Field Market,5th Avenue,Brooklyn,NY,11220,"5th Avenue
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+Kings,Grocery,Pathmark,Albany Avenue,Brooklyn,NY,11210,"Albany Avenue
+Brooklyn, NY 11210
+(40.631345111, -73.936909348)",40.631345111,-73.936909348
+Kings,Grocery,Target Store T-1849,Flatbush Avenue,Brooklyn,NY,11217,"Flatbush Avenue
+Brooklyn, NY 11217
+(40.681552627, -73.975632978)",40.681552627,-73.975632978
+Kings,Grocery,Ideal Food Basket,Flatbush Ave,Brooklyn,NY,11234,"Flatbush Ave
+Brooklyn, NY 11234
+(40.618684153, -73.932574171)",40.618684153,-73.932574171
+Kings,Grocery,Sweet Garden Market Inc.,18th Ave,Brooklyn,NY,11204,"18th Ave
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+Kings,Grocery,Foodtown,Broadway,Brooklyn,NY,11221,"Broadway
+Brooklyn, NY 11221
+(40.69447544, -73.93078414)",40.69447544,-73.93078414
+New York,Grocery,Antillana Superfood Marketplace,Broadway,New York,NY,10032,"Broadway
+New York, NY 10032
+(40.837924012, -73.942152848)",40.837924012,-73.942152848
+Queens,Grocery,Key Food Fresh,Linden Boulevard,Jamaica,NY,11434,"Linden Boulevard
+Jamaica, NY 11434
+(40.691226154, -73.780377436)",40.691226154,-73.780377436
+Kings,Grocery,Key Food Foodmarket,Fulton Street,Brooklyn,NY,11238,"Fulton Street
+Brooklyn, NY 11238
+(40.682997879, -73.964629285)",40.682997879,-73.964629285
+Queens,Grocery,Western Beef #001,Metropolitan Avenue,Ridgewood,NY,11385,"Metropolitan Avenue
+Ridgewood, NY 11385
+(40.713301942, -73.912337136)",40.713301942,-73.912337136
+Kings,Grocery,Perez Grocery,4th Ave,Brooklyn,NY,11220,"4th Ave
+Brooklyn, NY 11220
+(40.642446361, -74.016837076)",40.642446361,-74.016837076
+New York,Grocery,Shop Fair Supermarket Supermarket,Avenue C,New York,NY,10009,"Avenue C
+New York, NY 10009
+(40.727801292, -73.976143943)",40.727801292,-73.976143943
+Kings,Grocery,Key Food,Myrtle Av,Brooklyn,NY,11205,"Myrtle Av
+Brooklyn, NY 11205
+(40.693123863, -73.969930633)",40.693123863,-73.969930633
+Bronx,Grocery,Cherry Valley Market Place,East Gun Hill Road,Bronx,NY,10467,"East Gun Hill Road
+Bronx, NY 10467
+(40.877231993, -73.865986845)",40.877231993,-73.865986845
+Bronx,Grocery,Subs Gourmet Deli,Ogden Avenue,Bronx,NY,10452,"Ogden Avenue
+Bronx, NY 10452
+(40.837015744, -73.927069735)",40.837015744,-73.927069735
+Richmond,Grocery,Mexico Supermarket Monte Alban Corp,Port Richmond Av,Staten Island,NY,10302,"Port Richmond Av
+Staten Island, NY 10302
+(40.631909075, -74.138037464)",40.631909075,-74.138037464
+Queens,Grocery,Food World Supermarket Co.,Sutphin Blvd,Jamaica,NY,11434,"Sutphin Blvd
+Jamaica, NY 11434
+(40.679467118, -73.791729837)",40.679467118,-73.791729837
+Kings,Grocery,"Mazel Food Center, Inc.",12th Avenue,Brooklyn,NY,11219,"12th Avenue
+Brooklyn, NY 11219
+(40.627041349, -74.004012152)",40.627041349,-74.004012152
+Kings,Grocery,Freddys Market,Coney Island Avenue,Brooklyn,NY,11235,"Coney Island Avenue
+Brooklyn, NY 11235
+(40.587513615, -73.960366001)",40.587513615,-73.960366001
+New York,Grocery,Shop Fair Supermarket Supermarkets,East 110th St,New York,NY,10029,"East 110th St
+New York, NY 10029
+(40.794238274, -73.943052683)",40.794238274,-73.943052683
+Queens,Grocery,Nordomi #2 Deli Corp.,89th Ave,Jamaica,NY,11435,"89th Ave
+Jamaica, NY 11435
+(40.703612431, -73.809579117)",40.703612431,-73.809579117
+Kings,Grocery,Bravo Supermarket,Fulton St,Brooklyn,NY,11216,"Fulton St
+Brooklyn, NY 11216
+(40.680257406, -73.947077748)",40.680257406,-73.947077748
+Queens,Grocery,Food Universe Marketplace,Steinway St,Long Island City,NY,11101,"Steinway St
+Long Island City, NY 11101
+(40.754549548, -73.922598486)",40.754549548,-73.922598486
+Kings,Grocery,A & J Grocery Inc,86th St,Brooklyn,NY,11214,"86th St
+Brooklyn, NY 11214
+(40.605296074, -73.999391361)",40.605296074,-73.999391361
+Queens,Grocery,Key Food,Grand Avenue,Maspeth,NY,11378,"Grand Avenue
+Maspeth, NY 11378
+(40.721883665, -73.904333203)",40.721883665,-73.904333203
+Queens,Grocery,Mei Kang Inc,Kissena Blvd,Flushing,NY,11355,"Kissena Blvd
+Flushing, NY 11355
+(40.755328445, -73.824509811)",40.755328445,-73.824509811
+Kings,Grocery,The Sandwich Spot Deli Corp.,Flatbush Avenue,Brooklyn,NY,11226,"Flatbush Avenue
+Brooklyn, NY 11226
+(40.646602568, -73.958112669)",40.646602568,-73.958112669
+New York,Grocery,Fine Fare,Lenox Av,New York,NY,10026,"Lenox Av
+New York, NY 10026
+(40.801445169, -73.950204727)",40.801445169,-73.950204727
+Queens,Grocery,C-Town Supermarkets,Roosevelt Ave,Corona,NY,11368,"Roosevelt Ave
+Corona, NY 11368
+(40.752270244, -73.85354326)",40.752270244,-73.85354326
+Bronx,Grocery,S & P Mini Market Corp,East 165th Street,Bronx,NY,10456,"East 165th Street
+Bronx, NY 10456
+(40.828543908, -73.914104734)",40.828543908,-73.914104734
+Kings,Grocery,Moisha's Kosher Discount Supermarke,Avenue M,Brooklyn,NY,11230,"Avenue M
+Brooklyn, NY 11230
+(40.617677031, -73.963010685)",40.617677031,-73.963010685
+Kings,Grocery,City Fresh Market,Kingsland Ave,Brooklyn,NY,11211,"Kingsland Ave
+Brooklyn, NY 11211
+(40.717499066, -73.940282827)",40.717499066,-73.940282827
+Queens,Grocery,Shop Fair Supermarket,Beach 20th Street,Far Rockaway,NY,11691,"Beach 20th Street
+Far Rockaway, NY 11691
+(40.600774069, -73.753744014)",40.600774069,-73.753744014
+Kings,Grocery,5001 Xin Xin Grocery Inc.,6th Avenue,Brooklyn,NY,11220,"6th Avenue
+Brooklyn, NY 11220
+(40.639934907, -74.01208343)",40.639934907,-74.01208343
+Kings,Grocery,Scaturro Supermarkets,11th Ave,Brooklyn,NY,11219,"11th Ave
+Brooklyn, NY 11219
+(40.633070322, -74.00129566)",40.633070322,-74.00129566
+New York,Grocery,Key Food,Columbia St,New York,NY,10002,"Columbia St
+New York, NY 10002
+(40.717154416, -73.980193289)",40.717154416,-73.980193289
+Bronx,Grocery,Food Universe Market Place,West Kingsbridge Road,Bronx,NY,10468,"West Kingsbridge Road
+Bronx, NY 10468
+(40.867635632, -73.898261977)",40.867635632,-73.898261977
+New York,Grocery,Food Universe Marketplace,Nagle Avenue,New York,NY,10040,"Nagle Avenue
+New York, NY 10040
+(40.860390918, -73.928011408)",40.860390918,-73.928011408
+Bronx,Grocery,Visionary Food Corp,White Plains Road,Bronx,NY,10472,"White Plains Road
+Bronx, NY 10472
+(40.82699195, -73.860039944)",40.82699195,-73.860039944
+Queens,Grocery,Fresh N Save,Roosevelt Ave,Woodside,NY,11377,"Roosevelt Ave
+Woodside, NY 11377
+(40.745348898, -73.907306009)",40.745348898,-73.907306009
+Bronx,Grocery,C-Town Supermarkets,Southern Boulervard,Bronx,NY,10455,"Southern Boulervard
+Bronx, NY 10455
+(40.812735878, -73.902011001)",40.812735878,-73.902011001
+Bronx,Grocery,Pou Kou Halal Food Corp,Tinton Avenue,Bronx,NY,10455,"Tinton Avenue
+Bronx, NY 10455
+(40.81397574, -73.905865092)",40.81397574,-73.905865092
+Bronx,Grocery,Ekiti-Kete African & Caribbean Supe,Williamsbridge Road,Bronx,NY,10469,"Williamsbridge Road
+Bronx, NY 10469
+(40.862814631, -73.857929396)",40.862814631,-73.857929396
+Bronx,Grocery,Community Deli Food Market Corp,Carpenter Avenue,Bronx,NY,10467,"Carpenter Avenue
+Bronx, NY 10467
+(40.885544994, -73.865085005)",40.885544994,-73.865085005
+Kings,Grocery,"All Fresh Supermarket, Inc.",Harrison Ave,Brooklyn,NY,11211,"Harrison Ave
+Brooklyn, NY 11211
+(40.705686889, -73.953309091)",40.705686889,-73.953309091
+Kings,Grocery,C-Town Supermarkets,Fulton Street,Brooklyn,NY,11207,"Fulton Street
+Brooklyn, NY 11207
+(40.677880316, -73.892642647)",40.677880316,-73.892642647
+Richmond,Grocery,Bay Street Bazaar Inc.,Bay St,Staten Island,NY,10304,"Bay St
+Staten Island, NY 10304
+(40.623243039, -74.073173016)",40.623243039,-74.073173016
+Kings,Grocery,Ajwa Grocery And Halal Meat Llc,Coney Island Ave,Brooklyn,NY,11230,"Coney Island Ave
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+Bronx,Grocery,Gerardo Grocery,Valentine Avenue,Bronx,NY,10458,"Valentine Avenue
+Bronx, NY 10458
+(40.860727921, -73.896534283)",40.860727921,-73.896534283
+Bronx,Grocery,Mi Compadre Deli Grocery Corp,East 213th Street,Bronx,NY,10467,"East 213th Street
+Bronx, NY 10467
+(40.878740741, -73.863586349)",40.878740741,-73.863586349
+New York,Grocery,Associated,Harlem River Dr,New York,NY,10039,"Harlem River Dr
+New York, NY 10039
+(40.827807445, -73.934655389)",40.827807445,-73.934655389
+New York,Grocery,Key Food #566,Avenue A,New York,NY,10009,"Avenue A
+New York, NY 10009
+(40.726341286, -73.983323098)",40.726341286,-73.983323098
+Kings,Grocery,Mega 53 Supermarkets,13th Ave,Brooklyn,NY,11219,"13th Ave
+Brooklyn, NY 11219
+(40.631580168, -73.995655412)",40.631580168,-73.995655412
+Kings,Grocery,Howard Market Place,Howard Avenue,Brooklyn,NY,11221,"Howard Avenue
+Brooklyn, NY 11221
+(40.687380571, -73.92088013)",40.687380571,-73.92088013
+Kings,Grocery,Windsor Farms Market,Prospect Avenue,Brooklyn,NY,11215,"Prospect Avenue
+Brooklyn, NY 11215
+(40.661648343, -73.98640407)",40.661648343,-73.98640407
+Kings,Grocery,Food Basket,20th Avenue,Brooklyn,NY,11204,"20th Avenue
+Brooklyn, NY 11204
+(40.618339034, -73.983976114)",40.618339034,-73.983976114
+Queens,Grocery,Grace Tree Fruit Corp.,Woodward Avenue,Ridgewood,NY,11385,"Woodward Avenue
+Ridgewood, NY 11385
+(40.708090636, -73.911103639)",40.708090636,-73.911103639
+Bronx,Grocery,Cherry Valley Market Place,East 189 Street,Bronx,NY,10458,"East 189 Street
+Bronx, NY 10458
+(40.858158441, -73.887494035)",40.858158441,-73.887494035
+Queens,Grocery,Maspeth Marketplace By Key Food,Grand Ave,Maspeth,NY,11378,"Grand Ave
+Maspeth, NY 11378
+(40.721883665, -73.904333203)",40.721883665,-73.904333203
+Bronx,Grocery,Food Universe Marketplace,West 183rd Street,Bronx,NY,10453,"West 183rd Street
+Bronx, NY 10453
+(40.859957526, -73.908448889)",40.859957526,-73.908448889
+Kings,Grocery,Bravo Supermarket,4th Av,Brooklyn,NY,11220,"4th Av
+Brooklyn, NY 11220
+(40.642446361, -74.016837076)",40.642446361,-74.016837076
+Bronx,Grocery,Foodtown,Boston Road,Bronx,NY,10469,"Boston Road
+Bronx, NY 10469
+(40.869055167, -73.857998926)",40.869055167,-73.857998926
+Kings,Grocery,Bensonhurst Market,20th Avenue,Brooklyn,NY,11204,"20th Avenue
+Brooklyn, NY 11204
+(40.618339034, -73.983976114)",40.618339034,-73.983976114
+Bronx,Grocery,Omale New York Grocery Corp,Crotona Avenue,Bronx,NY,10457,"Crotona Avenue
+Bronx, NY 10457
+(40.844447825, -73.89194803)",40.844447825,-73.89194803
+Kings,Grocery,Met Fresh,Myrtle Avenue,Brooklyn,NY,11237,"Myrtle Avenue
+Brooklyn, NY 11237
+(40.698997534, -73.916423418)",40.698997534,-73.916423418
+Queens,Grocery,Minimart,Fresh Pond Road,Ridgewood,NY,11385,"Fresh Pond Road
+Ridgewood, NY 11385
+(40.706887204, -73.897125209)",40.706887204,-73.897125209
+Queens,Grocery,Food Universe,111th Avenue,South Ozone Park,NY,11420,"111th Avenue
+South Ozone Park, NY 11420
+(40.681426393, -73.818092971)",40.681426393,-73.818092971
+Queens,Grocery,Green Valley Supermarket,Jamaica Avenue,Woodhaven,NY,11421,"Jamaica Avenue
+Woodhaven, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+Richmond,Grocery,Stop 1 Supermarket,Richmond Terrace,Staten Island,NY,10301,"Richmond Terrace
+Staten Island, NY 10301
+(40.642809177, -74.075580943)",40.642809177,-74.075580943
+Queens,Grocery,"Merrick Meat Farms, Inc.",Merrick Boulevard,Rosedale,NY,11422,"Merrick Boulevard
+Rosedale, NY 11422
+(40.67417225, -73.727518726)",40.67417225,-73.727518726
+Kings,Grocery,Xing Fu Yuan Inc,Fort Hamilton Pkwy,Brooklyn,NY,11219,"Fort Hamilton Pkwy
+Brooklyn, NY 11219
+(40.635448124, -74.002042816)",40.635448124,-74.002042816
+Queens,Grocery,Key Food Market Place,Aguilar Avenue,Flushing,NY,11367,"Aguilar Avenue
+Flushing, NY 11367
+(40.727997393, -73.812396881)",40.727997393,-73.812396881
+Queens,Grocery,Food Bazaar,Northern Blvd,Long Island City,NY,11101,"Northern Blvd
+Long Island City, NY 11101
+(40.753450012, -73.913560013)",40.753450012,-73.913560013
+Kings,Grocery,Pioneer,Fulton St,Brooklyn,NY,11208,"Fulton St
+Brooklyn, NY 11208
+(40.682521989, -73.876106933)",40.682521989,-73.876106933
+Kings,Grocery,Brighton Best 99 Cent Store,Brighton Beach Avenue,Brooklyn,NY,11235,"Brighton Beach Avenue
+Brooklyn, NY 11235
+(40.57767129, -73.961194181)",40.57767129,-73.961194181
+Queens,Grocery,Happy Mart Inc.,Corona Avenue,Corona,NY,11368,"Corona Avenue
+Corona, NY 11368
+(40.744334296, -73.862355026)",40.744334296,-73.862355026
+Queens,Grocery,Food Universe,Jamaica Ave,Queens Village,NY,11428,"Jamaica Ave
+Queens Village, NY 11428
+(40.71698387, -73.74129102)",40.71698387,-73.74129102
+New York,Grocery,Foodtown,Amsterdam Avenue,New York,NY,10027,"Amsterdam Avenue
+New York, NY 10027
+(40.811555532, -73.957596732)",40.811555532,-73.957596732
+Kings,Grocery,Flatlands Farm,Flatlands Avenue,Brooklyn,NY,11236,"Flatlands Avenue
+Brooklyn, NY 11236
+(40.640211735, -73.90600239)",40.640211735,-73.90600239
+Kings,Grocery,Kosher Town,Albany Avenue,Brooklyn,NY,11213,"Albany Avenue
+Brooklyn, NY 11213
+(40.671835295, -73.939187589)",40.671835295,-73.939187589
+Kings,Grocery,Key Food,5th Avenue,Brooklyn,NY,11232,"5th Avenue
+Brooklyn, NY 11232
+(40.654342786, -74.000687237)",40.654342786,-74.000687237
+Kings,Grocery,Food Universe Market Place,New Lots Ave,Brooklyn,NY,11208,"New Lots Ave
+Brooklyn, NY 11208
+(40.667716835, -73.879569492)",40.667716835,-73.879569492
+Bronx,Grocery,Lg Meat Product Corp,Watson Ave,Bronx,NY,10472,"Watson Ave
+Bronx, NY 10472
+(40.827662314, -73.866468109)",40.827662314,-73.866468109
+Kings,Grocery,Wegmans Food Market #111,Flushing Avenue,Brooklyn,NY,11205,"Flushing Avenue
+Brooklyn, NY 11205
+(40.697716825, -73.967697696)",40.697716825,-73.967697696
+Kings,Grocery,Key Food,3rd Avenue,Brooklyn,NY,11209,"3rd Avenue
+Brooklyn, NY 11209
+(40.624059334, -74.030818893)",40.624059334,-74.030818893
+Queens,Grocery,Pioneer,Jamaica Avenue,Jamaica,NY,11421,"Jamaica Avenue
+Jamaica, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+Kings,Grocery,3 J S Food Corp.,Pitkin Avenue,Brooklyn,NY,11207,"Pitkin Avenue
+Brooklyn, NY 11207
+(40.672278824, -73.893402436)",40.672278824,-73.893402436
+Kings,Grocery,"Marcy Grocery, Inc.",Marcy Avenue,Brooklyn,NY,11211,"Marcy Avenue
+Brooklyn, NY 11211
+(40.70824594, -73.958007931)",40.70824594,-73.958007931
+Kings,Grocery,C-Town Supermarkets,18th Avenue,Brooklyn,NY,11204,"18th Avenue
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+New York,Grocery,The Food Emporium,Adam Clayton Powell Jr Bo,New York,NY,10039,"Adam Clayton Powell Jr Bo
+New York, NY 10039
+(40.828039175, -73.934692114)",40.828039175,-73.934692114
+New York,Grocery,Food Universe Marketplace,Broadway,New York,NY,10034,"Broadway
+New York, NY 10034
+(40.868737696, -73.917929147)",40.868737696,-73.917929147
+Kings,Grocery,Food World Supermarket,E 107th Street,Brooklyn,NY,11236,"E 107th Street
+Brooklyn, NY 11236
+(40.64761816, -73.892387921)",40.64761816,-73.892387921
+Queens,Grocery,Key Food,Northern Blvd,Jackson Heights,NY,11372,"Northern Blvd
+Jackson Heights, NY 11372
+(40.755740834, -73.88366366)",40.755740834,-73.88366366
+New York,Grocery,Super Gigante Foods,9th Ave,New York,NY,10034,"9th Ave
+New York, NY 10034
+(40.862129089, -73.918207779)",40.862129089,-73.918207779
+Richmond,Grocery,Key Food,Forest Ave,Staten Island,NY,10301,"Forest Ave
+Staten Island, NY 10301
+(40.631404502, -74.099270611)",40.631404502,-74.099270611
+Kings,Grocery,Sunflower Grocery,Fort Hamilton Pkwy,Brooklyn,NY,11218,"Fort Hamilton Pkwy
+Brooklyn, NY 11218
+(40.642676052, -73.991211188)",40.642676052,-73.991211188
+Queens,Grocery,Food Bazaar,Gates Avenue,Ridgewood,NY,11385,"Gates Avenue
+Ridgewood, NY 11385
+(40.70391908, -73.90775359)",40.70391908,-73.90775359
+Kings,Grocery,"86th Street Grocery & Snacks, Inc.",86th Street,Brooklyn,NY,11214,"86th Street
+Brooklyn, NY 11214
+(40.605296074, -73.999391361)",40.605296074,-73.999391361
+Kings,Grocery,Shop Fair Supermarket,Troy Avenue,Brooklyn,NY,11213,"Troy Avenue
+Brooklyn, NY 11213
+(40.671344749, -73.936443445)",40.671344749,-73.936443445
+Bronx,Grocery,Target Store T-2475,Exterior Street,Bronx,NY,10451,"Exterior Street
+Bronx, NY 10451
+(40.821773929, -73.930830306)",40.821773929,-73.930830306
+Kings,Grocery,Ideal Food Basket,Gates Av,Brooklyn,NY,11221,"Gates Av
+Brooklyn, NY 11221
+(40.688881177, -73.927403822)",40.688881177,-73.927403822
+Kings,Grocery,Einhorns Grocery,16th Ave,Brooklyn,NY,11204,"16th Ave
+Brooklyn, NY 11204
+(40.6259069, -73.99080976)",40.6259069,-73.99080976
+Queens,Grocery,Golden Mango America Inc.,Rockaway Blvd,Ozone Park,NY,11416,"Rockaway Blvd
+Ozone Park, NY 11416
+(40.683122834, -73.854231948)",40.683122834,-73.854231948
+Bronx,Grocery,J.A.S Grocery,Westchester Avenue,Bronx,NY,10472,"Westchester Avenue
+Bronx, NY 10472
+(40.829950172, -73.873054095)",40.829950172,-73.873054095
+Queens,Grocery,Akota Grocery & Halal Meat,73rd Street,Woodside,NY,11377,"73rd Street
+Woodside, NY 11377
+(40.7448753, -73.891957199)",40.7448753,-73.891957199
+Kings,Grocery,Freddys On U Inc.,Avenue U,Brooklyn,NY,11223,"Avenue U
+Brooklyn, NY 11223
+(40.597037326, -73.972620822)",40.597037326,-73.972620822
+Queens,Grocery,Trade Fair #2,21st Avenue,East Elmhurst,NY,11370,"21st Avenue
+East Elmhurst, NY 11370
+(40.770418087, -73.893678309)",40.770418087,-73.893678309
+Queens,Grocery,Key Food,Crossbay Bo,Howard Beach,NY,11414,"Crossbay Bo
+Howard Beach, NY 11414
+(40.6464207, -73.836795229)",40.6464207,-73.836795229
+Kings,Grocery,Key Food,Ralph Avenue,Brooklyn,NY,11236,"Ralph Avenue
+Brooklyn, NY 11236
+(40.642859418, -73.919749924)",40.642859418,-73.919749924
+Richmond,Grocery,ShopRite Of Veteran's Road,Veterans Road West,Staten Island,NY,10309,"Veterans Road West
+Staten Island, NY 10309
+(40.529643716, -74.225891511)",40.529643716,-74.225891511
+New York,Grocery,Food Universe,West 138th St,New York,NY,10031,"West 138th St
+New York, NY 10031
+(40.821849291, -73.953267261)",40.821849291,-73.953267261
+Bronx,Grocery,F & K Food Center Corp.,Grand Concourse,Bronx,NY,10468,"Grand Concourse
+Bronx, NY 10468
+(40.868787087, -73.892586083)",40.868787087,-73.892586083
+Bronx,Grocery,Gonzalez Grocery Store,Valentine Avenue,Bronx,NY,10458,"Valentine Avenue
+Bronx, NY 10458
+(40.860727921, -73.896534283)",40.860727921,-73.896534283
+Bronx,Grocery,Price Choice,East Tremont Avenue,Bronx,NY,10460,"East Tremont Avenue
+Bronx, NY 10460
+(40.841624575, -73.883449118)",40.841624575,-73.883449118
+Bronx,Grocery,Mi Mexico Mini Market & Grocery Inc,Westchester Ave,Bronx,NY,10472,"Westchester Ave
+Bronx, NY 10472
+(40.829950172, -73.873054095)",40.829950172,-73.873054095
+Bronx,Grocery,Golden Mango,Randall Avenue,Bronx,NY,10473,"Randall Avenue
+Bronx, NY 10473
+(40.818259241, -73.853788758)",40.818259241,-73.853788758
+Bronx,Grocery,Food Bazaar,East 170th Street,Bronx,NY,10456,"East 170th Street
+Bronx, NY 10456
+(40.83807904, -73.912224011)",40.83807904,-73.912224011
+Bronx,Grocery,Western Beef #62,Bruckner Boulevard,Bronx,NY,10472,"Bruckner Boulevard
+Bronx, NY 10472
+(40.825729243, -73.863880672)",40.825729243,-73.863880672
+Kings,Grocery,Brighton Gourmet Deli Inc.,Brighton Beach Ave,Brooklyn,NY,11235,"Brighton Beach Ave
+Brooklyn, NY 11235
+(40.57767129, -73.961194181)",40.57767129,-73.961194181
+Kings,Grocery,My Neighborhood Grocery,Chesnut Street,Brooklyn,NY,11207,"Chesnut Street
+Brooklyn, NY 11207
+(40.675529543, -73.873508776)",40.675529543,-73.873508776
+Queens,Grocery,Mango Hills,Beach 14th Street,Far Rockaway,NY,11691,"Beach 14th Street
+Far Rockaway, NY 11691
+(40.596804959, -73.748195097)",40.596804959,-73.748195097
+Kings,Grocery,Food Universe,Atlantic Ave,Brooklyn,NY,11213,"Atlantic Ave
+Brooklyn, NY 11213
+(40.677805453, -73.935824566)",40.677805453,-73.935824566
+Kings,Grocery,America's Food Basket,Rockaway Parkway,Brooklyn,NY,11236,"Rockaway Parkway
+Brooklyn, NY 11236
+(40.64051526, -73.897153295)",40.64051526,-73.897153295
+Bronx,Grocery,Amber Deli Grocery Corp,Prospect Avenue,Bronx,NY,10455,"Prospect Avenue
+Bronx, NY 10455
+(40.817540445, -73.902510726)",40.817540445,-73.902510726
+Bronx,Grocery,Food Universe Marketplace,Van Cortlandt Avenue W,Bronx,NY,10463,"Van Cortlandt Avenue W
+Bronx, NY 10463
+(40.884246481, -73.893495634)",40.884246481,-73.893495634
+Queens,Grocery,"Mi Esquina Market, Corp.",37th Ave,Corona,NY,11368,"37th Ave
+Corona, NY 11368
+(40.758084995, -73.843264973)",40.758084995,-73.843264973
+Kings,Grocery,Key Food,Gerritsen Av,Brooklyn,NY,11229,"Gerritsen Av
+Brooklyn, NY 11229
+(40.593867866, -73.926255363)",40.593867866,-73.926255363
+Bronx,Grocery,Fine Fare Supermarket,Westchester Avenue,Bronx,NY,10459,"Westchester Avenue
+Bronx, NY 10459
+(40.825623809, -73.890052467)",40.825623809,-73.890052467
+Queens,Grocery,Bangla Bazar Fish Market Inc,43rd Ave,Sunnyside,NY,11104,"43rd Ave
+Sunnyside, NY 11104
+(40.745174274, -73.920679341)",40.745174274,-73.920679341
+Bronx,Grocery,Met Food,Jackson Avenue,Bronx,NY,10455,"Jackson Avenue
+Bronx, NY 10455
+(40.813032432, -73.909146432)",40.813032432,-73.909146432
+Kings,Grocery,Sea Town Fish & Meat Market,Linden Street,Brooklyn,NY,11237,"Linden Street
+Brooklyn, NY 11237
+(40.699373294, -73.913539287)",40.699373294,-73.913539287
+New York,Grocery,Shop Fair Supermarket Supermarket,East 116th St,New York,NY,10029,"East 116th St
+New York, NY 10029
+(40.797530398, -73.939020637)",40.797530398,-73.939020637
+Queens,Grocery,Food Universe Market Place,Liberty Ave,Ozone Park,NY,11417,"Liberty Ave
+Ozone Park, NY 11417
+(40.682434374, -73.836058628)",40.682434374,-73.836058628
+Kings,Grocery,Bed-Ross Grocery Llc,Ross St,Brooklyn,NY,11249,"Ross St
+Brooklyn, NY 11249
+(40.703705526, -73.963524735)",40.703705526,-73.963524735
+Kings,Grocery,Food Cart Inc,Coney Island Avenue,Brooklyn,NY,11218,"Coney Island Avenue
+Brooklyn, NY 11218
+(40.642233074, -73.969645416)",40.642233074,-73.969645416
+Queens,Grocery,Rockaway Kosher,Cornaga Avenue,Far Rockaway,NY,11691,"Cornaga Avenue
+Far Rockaway, NY 11691
+(40.603188647, -73.747016676)",40.603188647,-73.747016676
+Kings,Grocery,Malcolm X Shop Smart Corp.,Malcolm X Blvd,Brooklyn,NY,11233,"Malcolm X Blvd
+Brooklyn, NY 11233
+(40.682039276, -73.928893014)",40.682039276,-73.928893014
+Bronx,Grocery,Pascual Mini Market Corp,Ogden Ave,Bronx,NY,10452,"Ogden Ave
+Bronx, NY 10452
+(40.837015744, -73.927069735)",40.837015744,-73.927069735
+Kings,Grocery,The Yellow Basket Llc,Division Avenue,Brooklyn,NY,11249,"Division Avenue
+Brooklyn, NY 11249
+(40.707164455, -73.966399794)",40.707164455,-73.966399794
+Kings,Grocery,"Mb Brooklyn Grocery, Inc.",Empire Blvd,Brooklyn,NY,11225,"Empire Blvd
+Brooklyn, NY 11225
+(40.663796101, -73.952562075)",40.663796101,-73.952562075
+Queens,Grocery,Mis Amigos Inc.,Northern Boulevard,Corona,NY,11368,"Northern Boulevard
+Corona, NY 11368
+(40.758229958, -73.85148632)",40.758229958,-73.85148632
+Queens,Grocery,Food Universe Marketplace,Francis Lewis Blvd,Flushing,NY,11358,"Francis Lewis Blvd
+Flushing, NY 11358
+(40.769559503, -73.792368455)",40.769559503,-73.792368455
+Kings,Grocery,C-Town Supermarkets,Avenue U,Brooklyn,NY,11229,"Avenue U
+Brooklyn, NY 11229
+(40.600339695, -73.942702968)",40.600339695,-73.942702968
+Queens,Grocery,Superfresh,Baxter Avenue,Elmhurst,NY,11373,"Baxter Avenue
+Elmhurst, NY 11373
+(40.745857144, -73.883796016)",40.745857144,-73.883796016
+Kings,Grocery,Fresh Food Mart & Deli,Knickerbocker Ave,Brooklyn,NY,11221,"Knickerbocker Ave
+Brooklyn, NY 11221
+(40.69554624, -73.912613242)",40.69554624,-73.912613242
+Queens,Grocery,Zaara Convenience Deli & Grocery In,101st Avenue,Ozone Park,NY,11416,"101st Avenue
+Ozone Park, NY 11416
+(40.683287264, -73.849429946)",40.683287264,-73.849429946
+Kings,Grocery,Shop Fair Supermarket Foodmarkets,Broadway,Brooklyn,NY,11211,"Broadway
+Brooklyn, NY 11211
+(40.707394123, -73.954927715)",40.707394123,-73.954927715
+Kings,Grocery,Asian Supermarket Nyc Inc,Newkirk Avenue,Brooklyn,NY,11230,"Newkirk Avenue
+Brooklyn, NY 11230
+(40.633239002, -73.968171126)",40.633239002,-73.968171126
+Kings,Grocery,C-Town Supermarkets,Flatlands Ave,Brooklyn,NY,11236,"Flatlands Ave
+Brooklyn, NY 11236
+(40.640211735, -73.90600239)",40.640211735,-73.90600239
+Queens,Grocery,Darbar Deli & Grocery Inc.,Queens Blvd,Jamaica,NY,11435,"Queens Blvd
+Jamaica, NY 11435
+(40.706698459, -73.817065624)",40.706698459,-73.817065624
+Kings,Grocery,Associated,Church Ave,Brooklyn,NY,11226,"Church Ave
+Brooklyn, NY 11226
+(40.647725722, -73.967413861)",40.647725722,-73.967413861
+Kings,Grocery,Rahim Grocery & Halal Meat Corp.,Coney Island Ave,Brooklyn,NY,11230,"Coney Island Ave
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+Kings,Grocery,Kaff's Bakery & Grocery Inc.,16th Avenue,Brooklyn,NY,11204,"16th Avenue
+Brooklyn, NY 11204
+(40.6259069, -73.99080976)",40.6259069,-73.99080976
+Queens,Grocery,Cielo86 Inc,Roosevelt Avenue,Jackson Heights,NY,11372,"Roosevelt Avenue
+Jackson Heights, NY 11372
+(40.747096878, -73.888987581)",40.747096878,-73.888987581
+Kings,Grocery,Gourmet Plaza,East 13th Street,Brooklyn,NY,11229,"East 13th Street
+Brooklyn, NY 11229
+(40.601098138, -73.958722745)",40.601098138,-73.958722745
+Queens,Grocery,Bravo Supermarket,Jamaica Avenue,Richmond Hill,NY,11418,"Jamaica Avenue
+Richmond Hill, NY 11418
+(40.697910308, -73.835528358)",40.697910308,-73.835528358
+Kings,Grocery,Food Universe Marketplace,86th Street,Brooklyn,NY,11214,"86th Street
+Brooklyn, NY 11214
+(40.605296074, -73.999391361)",40.605296074,-73.999391361
+New York,Grocery,C-Town Supermarkets,Saint Nicholas Avenue,New York,NY,10032,"Saint Nicholas Avenue
+New York, NY 10032
+(40.840142377, -73.939726472)",40.840142377,-73.939726472
+Kings,Grocery,Pioneer,5th Avenue,Brooklyn,NY,11220,"5th Avenue
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+Kings,Grocery,Key Food Supermarket,Nostrand Ave,Brooklyn,NY,11210,"Nostrand Ave
+Brooklyn, NY 11210
+(40.628937388, -73.9472581)",40.628937388,-73.9472581
+New York,Grocery,Grand Century Market Inc.,Grand St,New York,NY,10002,"Grand St
+New York, NY 10002
+(40.716411878, -73.988250408)",40.716411878,-73.988250408
+Kings,Grocery,The Pantry Kosher Market,Ross Street,Brooklyn,NY,11211,"Ross Street
+Brooklyn, NY 11211
+(40.705829424, -73.960201115)",40.705829424,-73.960201115
+Richmond,Grocery,Ideal Fresh,Rossville Avenue,Staten Island,NY,10309,"Rossville Avenue
+Staten Island, NY 10309
+(40.548690538, -74.210739335)",40.548690538,-74.210739335
+Queens,Grocery,Key Food,108th St,Corona,NY,11368,"108th St
+Corona, NY 11368
+(40.747498977, -73.857106152)",40.747498977,-73.857106152
+Richmond,Grocery,P-Y Deli Corp,Vreeland Street,Staten Island,NY,10302,"Vreeland Street
+Staten Island, NY 10302
+(40.636561385, -74.131243982)",40.636561385,-74.131243982
+Richmond,Grocery,"Mi Pueblo Meat Market, Inc.",Port Richmond Ave,Staten Island,NY,10302,"Port Richmond Ave
+Staten Island, NY 10302
+(40.631909075, -74.138037464)",40.631909075,-74.138037464
+Queens,Grocery,Foodtown,Queens Blvd,Forest Hills,NY,11375,"Queens Blvd
+Forest Hills, NY 11375
+(40.718826368, -73.837854521)",40.718826368,-73.837854521
+Kings,Grocery,Super Star Bebe Mini Market Corp,Fulton St #2,Brooklyn,NY,11207,"Fulton St #2
+Brooklyn, NY 11207
+(40.677880316, -73.892642647)",40.677880316,-73.892642647
+Bronx,Grocery,La Oaxaquena Produce-Mex,Jerome Ave,Bronx,NY,10453,"Jerome Ave
+Bronx, NY 10453
+(40.854342642, -73.906918625)",40.854342642,-73.906918625
+New York,Grocery,Food Universe Marketplace,Lexington Ave,New York,NY,10128,"Lexington Ave
+New York, NY 10128
+(40.783020473, -73.95301138)",40.783020473,-73.95301138
+Bronx,Grocery,Ricardito & Anthony Deli Grocery In,Vyse Ave,Bronx,NY,10460,"Vyse Ave
+Bronx, NY 10460
+(40.835470669, -73.886733378)",40.835470669,-73.886733378
+Bronx,Grocery,University Fresh Market,University Avenue,Bronx,NY,10453,"University Avenue
+Bronx, NY 10453
+(40.850085818, -73.916160642)",40.850085818,-73.916160642
+New York,Grocery,Key Food,West 125th Street,New York,NY,10027,"West 125th Street
+New York, NY 10027
+(40.81695014, -73.959426152)",40.81695014,-73.959426152
+Queens,Grocery,Key Food,101st Avenue,Ozone Park,NY,11416,"101st Avenue
+Ozone Park, NY 11416
+(40.683287264, -73.849429946)",40.683287264,-73.849429946
+Bronx,Grocery,C-Town Supermarkets,Crescent Avenue,Bronx,NY,10458,"Crescent Avenue
+Bronx, NY 10458
+(40.853850187, -73.88724922)",40.853850187,-73.88724922
+Kings,Grocery,Foodtown #603,Ralph Ave,Brooklyn,NY,11234,"Ralph Ave
+Brooklyn, NY 11234
+(40.625225037, -73.917869494)",40.625225037,-73.917869494
+Kings,Grocery,Met Food,Driggs Ave,Brooklyn,NY,11222,"Driggs Ave
+Brooklyn, NY 11222
+(40.722862314, -73.946259911)",40.722862314,-73.946259911
+Bronx,Grocery,Super Pioneer Supermarket,Melrose Avenue,Bronx,NY,10455,"Melrose Avenue
+Bronx, NY 10455
+(40.81846686, -73.916697033)",40.81846686,-73.916697033
+Bronx,Grocery,Key Food,Westchester Ave.,Bronx,NY,10461,"Westchester Ave.
+Bronx, NY 10461
+(40.84667827, -73.832720631)",40.84667827,-73.832720631
+Queens,Grocery,Ideal Food Basket,137th Avenue,Jamaica,NY,11434,"137th Avenue
+Jamaica, NY 11434
+(40.672203859, -73.773337697)",40.672203859,-73.773337697
+Bronx,Grocery,Food Universe,Bartow Ave,Bronx,NY,10475,"Bartow Ave
+Bronx, NY 10475
+(40.869620005, -73.827368075)",40.869620005,-73.827368075
+Bronx,Grocery,City Fresh Market,Valentine Avenue,Bronx,NY,10458,"Valentine Avenue
+Bronx, NY 10458
+(40.860727921, -73.896534283)",40.860727921,-73.896534283
+Bronx,Grocery,Mk Halal Food Market,3rd Avenue,Bronx,NY,10454,"3rd Avenue
+Bronx, NY 10454
+(40.808766294, -73.930028096)",40.808766294,-73.930028096
+Kings,Grocery,Cortelyou Market By Key Food,Cortelyou Road,Brooklyn,NY,11226,"Cortelyou Road
+Brooklyn, NY 11226
+(40.644292785, -73.951952827)",40.644292785,-73.951952827
+Richmond,Grocery,Stop & Shop #2512,Richmond Av,Staten Island,NY,10314,"Richmond Av
+Staten Island, NY 10314
+(40.598887445, -74.162748744)",40.598887445,-74.162748744
+Kings,Grocery,Happy Family Grocery Store Inc,8th Ave,Brooklyn,NY,11220,"8th Ave
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Kings,Grocery,Ideal Food Basket,Lafayette Ave,Brooklyn,NY,11221,"Lafayette Ave
+Brooklyn, NY 11221
+(40.691576772, -73.936426585)",40.691576772,-73.936426585
+Kings,Grocery,Key Food,Crescent St,Brooklyn,NY,11208,"Crescent St
+Brooklyn, NY 11208
+(40.668878672, -73.868345151)",40.668878672,-73.868345151
+Kings,Grocery,"Busy Corner Grocery, Inc.",Kings Highway,Brooklyn,NY,11223,"Kings Highway
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Bronx,Grocery,Food Universe,Morris Avenue,Bronx,NY,10451,"Morris Avenue
+Bronx, NY 10451
+(40.818761164, -73.922180973)",40.818761164,-73.922180973
+Kings,Grocery,Evelyn Grocery Corp.,E 92nd St,Brooklyn,NY,11236,"E 92nd St
+Brooklyn, NY 11236
+(40.644296243, -73.908359727)",40.644296243,-73.908359727
+Bronx,Grocery,Bonoful Grocery Inc,East 182nd Street,Bronx,NY,10453,"East 182nd Street
+Bronx, NY 10453
+(40.856720678, -73.902752591)",40.856720678,-73.902752591
+Queens,Grocery,Foodtown,63rd Road,Rego Park,NY,11374,"63rd Road
+Rego Park, NY 11374
+(40.732180184, -73.858494636)",40.732180184,-73.858494636
+Kings,Grocery,"46 St. Food Center, Inc.",46th Street,Brooklyn,NY,11219,"46th Street
+Brooklyn, NY 11219
+(40.637361202, -73.991463688)",40.637361202,-73.991463688
+Queens,Grocery,Key Food #564,Newtown Avenue,Astoria,NY,11102,"Newtown Avenue
+Astoria, NY 11102
+(40.769374219, -73.922388147)",40.769374219,-73.922388147
+Bronx,Grocery,C-Town Supermarkets,Boston Post Road,Bronx,NY,10475,"Boston Post Road
+Bronx, NY 10475
+(40.894525894, -73.809504378)",40.894525894,-73.809504378
+Queens,Grocery,Roosevelt Fruits & Vegetables,Roosevelt Avenue,Corona,NY,11368,"Roosevelt Avenue
+Corona, NY 11368
+(40.752270244, -73.85354326)",40.752270244,-73.85354326
+Kings,Grocery,C-Town Supermarkets,Havemeyer St,Brooklyn,NY,11211,"Havemeyer St
+Brooklyn, NY 11211
+(40.715321009, -73.954003242)",40.715321009,-73.954003242
+New York,Grocery,Associated,Adam Clayton Powell Jr Blvd,New York,NY,10027,"Adam Clayton Powell Jr Blvd
+New York, NY 10027
+(40.809936826, -73.947737395)",40.809936826,-73.947737395
+Kings,Grocery,Landau's Supermarket,18th Avenue,Brooklyn,NY,11204,"18th Avenue
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+Kings,Grocery,Pioneer,Parkside Av,Brooklyn,NY,11226,"Parkside Av
+Brooklyn, NY 11226
+(40.653888039, -73.964364936)",40.653888039,-73.964364936
+Kings,Grocery,J & J Grocery,Coney Island Av,Brooklyn,NY,11230,"Coney Island Av
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+Kings,Grocery,Spitzer's Bakery Inc.,Bedford Avenue,Brooklyn,NY,11211,"Bedford Avenue
+Brooklyn, NY 11211
+(40.718166054, -73.957350358)",40.718166054,-73.957350358
+Bronx,Grocery,Food Universe,West 231st Street,Bronx,NY,10463,"West 231st Street
+Bronx, NY 10463
+(40.879528066, -73.90600612)",40.879528066,-73.90600612
+New York,Grocery,Fine Fare,Frederick Douglas Blvd,New York,NY,10039,"Frederick Douglas Blvd
+New York, NY 10039
+(40.827301241, -73.9386696)",40.827301241,-73.9386696
+Kings,Grocery,Fine Fare,Myrtle Avenue,Brooklyn,NY,11221,"Myrtle Avenue
+Brooklyn, NY 11221
+(40.697747139, -73.928393396)",40.697747139,-73.928393396
+Bronx,Grocery,Fine Fare,Grand Concourse,Bronx,NY,10468,"Grand Concourse
+Bronx, NY 10468
+(40.868787087, -73.892586083)",40.868787087,-73.892586083
+Bronx,Grocery,Dhaka Discount & Grocery Inc,East 204th Street,Bronx,NY,10467,"East 204th Street
+Bronx, NY 10467
+(40.872131927, -73.877772155)",40.872131927,-73.877772155
+Queens,Grocery,A.A.A. Grocery Corp.,Beach Channel Dr,Arverne,NY,11692,"Beach Channel Dr
+Arverne, NY 11692
+(40.589827743, -73.804805186)",40.589827743,-73.804805186
+New York,Grocery,The Food Emporium,Avenue D,New York,NY,10009,"Avenue D
+New York, NY 10009
+(40.723361889, -73.976272053)",40.723361889,-73.976272053
+Kings,Grocery,Associated Fresh,Livonia Avenue,Brooklyn,NY,11207,"Livonia Avenue
+Brooklyn, NY 11207
+(40.665151469, -73.891436217)",40.665151469,-73.891436217
+Bronx,Grocery,La Parada Latina Food Corp,Third Avenue,Bronx,NY,10457,"Third Avenue
+Bronx, NY 10457
+(40.843780851, -73.897634551)",40.843780851,-73.897634551
+Bronx,Grocery,Antillana Supermarket,West Fordham Road,Bronx,NY,10468,"West Fordham Road
+Bronx, NY 10468
+(40.86274183, -73.908768937)",40.86274183,-73.908768937
+Kings,Grocery,Bukhari Grocery & Halal Meat,Coney Island Ave,Brooklyn,NY,11218,"Coney Island Ave
+Brooklyn, NY 11218
+(40.642233074, -73.969645416)",40.642233074,-73.969645416
+New York,Grocery,C-Town Supermarkets,Broadway,New York,NY,10031,"Broadway
+New York, NY 10031
+(40.825168807, -73.951470904)",40.825168807,-73.951470904
+Bronx,Grocery,Antillana Superfood Marketplace,Jerome Avenue,Bronx,NY,10453,"Jerome Avenue
+Bronx, NY 10453
+(40.854342642, -73.906918625)",40.854342642,-73.906918625
+Queens,Grocery,Key Food,Jamaica Avenue,Jamaica,NY,11435,"Jamaica Avenue
+Jamaica, NY 11435
+(40.702182737, -73.810894609)",40.702182737,-73.810894609
+Bronx,Grocery,Foodtown,Broadway,Bronx,NY,10463,"Broadway
+Bronx, NY 10463
+(40.881507219, -73.902970873)",40.881507219,-73.902970873
+Kings,Grocery,Sweet Chelsea Grocery Inc,7th Avenue,Brooklyn,NY,11220,"7th Avenue
+Brooklyn, NY 11220
+(40.639888085, -74.00857688)",40.639888085,-74.00857688
+New York,Grocery,Morton Williams Supermarket,E 23 St,New York,NY,10010,"E 23 St
+New York, NY 10010
+(40.738567032, -73.982537645)",40.738567032,-73.982537645
+Queens,Grocery,C & C International Deli Grocery Co,41st Ave,Corona,NY,11368,"41st Ave
+Corona, NY 11368
+(40.750494914, -73.856792409)",40.750494914,-73.856792409
+Kings,Grocery,Foodtown,North 3rd Street,Brooklyn,NY,11211,"North 3rd Street
+Brooklyn, NY 11211
+(40.715714561, -73.960358055)",40.715714561,-73.960358055
+Bronx,Grocery,A & G Deli Grocery Ii Corp,Prospect Avenue,Bronx,NY,10459,"Prospect Avenue
+Bronx, NY 10459
+(40.826027843, -73.898990656)",40.826027843,-73.898990656
+Bronx,Grocery,Foodtown #523,West Ave,Bronx,NY,10462,"West Ave
+Bronx, NY 10462
+(40.837077597, -73.861386192)",40.837077597,-73.861386192
+Queens,Grocery,Farm Country,31st Avenue,Astoria,NY,11103,"31st Avenue
+Astoria, NY 11103
+(40.76000857, -73.914281185)",40.76000857,-73.914281185
+Queens,Grocery,City Fresh Market,20th Av,College Point,NY,11356,"20th Av
+College Point, NY 11356
+(40.781705098, -73.843860479)",40.781705098,-73.843860479
+Bronx,Grocery,C-Town Supermarkets,East Tremont Avenue,Bronx,NY,10457,"East Tremont Avenue
+Bronx, NY 10457
+(40.847177139, -73.898829356)",40.847177139,-73.898829356
+Richmond,Grocery,Western Beef #68,Bay Street,Staten Island,NY,10304,"Bay Street
+Staten Island, NY 10304
+(40.623243039, -74.073173016)",40.623243039,-74.073173016
+Kings,Grocery,Express Deli,Neptune Avenue,Brooklyn,NY,11235,"Neptune Avenue
+Brooklyn, NY 11235
+(40.581615209, -73.961538041)",40.581615209,-73.961538041
+Bronx,Grocery,Food Universe,E 170 Street,Bronx,NY,10452,"E 170 Street
+Bronx, NY 10452
+(40.83943706, -73.915630401)",40.83943706,-73.915630401
+Kings,Grocery,Associated Supermarket,Fulton Street,Brooklyn,NY,11233,"Fulton Street
+Brooklyn, NY 11233
+(40.678636971, -73.917315078)",40.678636971,-73.917315078
+New York,Grocery,Food Emporium,Broadway,New York,NY,10033,"Broadway
+New York, NY 10033
+(40.847681539, -73.9379936)",40.847681539,-73.9379936
+Kings,Grocery,Food Universe Marketplace,Flatbush Avenue,Brooklyn,NY,11238,"Flatbush Avenue
+Brooklyn, NY 11238
+(40.67424038, -73.969693496)",40.67424038,-73.969693496
+Queens,Grocery,Dl Deli Grocery Corp.,31st Ave,East Elmhurst,NY,11369,"31st Ave
+East Elmhurst, NY 11369
+(40.760414741, -73.874794374)",40.760414741,-73.874794374
+Bronx,Grocery,C-Town Supermarkets,3rd Avenue,Bronx,NY,10451,"3rd Avenue
+Bronx, NY 10451
+(40.821787595, -73.911971928)",40.821787595,-73.911971928
+Queens,Grocery,Vitelio's Market Place,Madison St,Ridgewood,NY,11385,"Madison St
+Ridgewood, NY 11385
+(40.702177999, -73.905956575)",40.702177999,-73.905956575
+Bronx,Grocery,Salcedo Supermarket Corp,Lafayette Avenue,Bronx,NY,10474,"Lafayette Avenue
+Bronx, NY 10474
+(40.816579992, -73.889066103)",40.816579992,-73.889066103
+Queens,Grocery,Stop & Shop #2570,Rockaway Blvd,Rosedale,NY,11422,"Rockaway Blvd
+Rosedale, NY 11422
+(40.63643567, -73.740425405)",40.63643567,-73.740425405
+Bronx,Grocery,Your Choice Deli Grocery Corp,Valentine Avenue,Bronx,NY,10458,"Valentine Avenue
+Bronx, NY 10458
+(40.860727921, -73.896534283)",40.860727921,-73.896534283
+Queens,Grocery,Trade Fair,Broadway,Long Island City,NY,11106,"Broadway
+Long Island City, NY 11106
+(40.763484339, -73.928562832)",40.763484339,-73.928562832
+Kings,Grocery,El Buen Gusto Grocery Corp.,4th Avenue,Brooklyn,NY,11220,"4th Avenue
+Brooklyn, NY 11220
+(40.642446361, -74.016837076)",40.642446361,-74.016837076
+Kings,Grocery,Food Bazaar,Junius St,Brooklyn,NY,11212,"Junius St
+Brooklyn, NY 11212
+(40.666248997, -73.902103271)",40.666248997,-73.902103271
+Bronx,Grocery,Food Universe,Einstein Loop,Bronx,NY,10475,"Einstein Loop
+Bronx, NY 10475
+(40.865681466, -73.823400364)",40.865681466,-73.823400364
+Kings,Grocery,Ideal Food Basket,Church Avenue,Brooklyn,NY,11203,"Church Avenue
+Brooklyn, NY 11203
+(40.651604081, -73.933218454)",40.651604081,-73.933218454
+Kings,Grocery,Caribbean Supermarket,Utica Avenue,Brooklyn,NY,11203,"Utica Avenue
+Brooklyn, NY 11203
+(40.650159197, -73.930216953)",40.650159197,-73.930216953
+New York,Grocery,Superduro Supermarket,Saint Nicholas Avenue,New York,NY,10033,"Saint Nicholas Avenue
+New York, NY 10033
+(40.848600208, -73.934262238)",40.848600208,-73.934262238
+Kings,Grocery,Met Fresh Supermarket,Tompkins Ave,Brooklyn,NY,11216,"Tompkins Ave
+Brooklyn, NY 11216
+(40.686024917, -73.944462194)",40.686024917,-73.944462194
+Bronx,Grocery,De Luxe Deli Corp,Baychester Avenue,Bronx,NY,10469,"Baychester Avenue
+Bronx, NY 10469
+(40.877519366, -73.836591264)",40.877519366,-73.836591264
+Bronx,Grocery,Fine Fare,East 233rd Street,Bronx,NY,10466,"East 233rd Street
+Bronx, NY 10466
+(40.89226407, -73.853810001)",40.89226407,-73.853810001
+Bronx,Grocery,Dia Deli Grocery Corp,East Tremont Avenue,Bronx,NY,10460,"East Tremont Avenue
+Bronx, NY 10460
+(40.841624575, -73.883449118)",40.841624575,-73.883449118
+New York,Grocery,Fine Fare,3rd Ave,New York,NY,10029,"3rd Ave
+New York, NY 10029
+(40.791573804, -73.944667283)",40.791573804,-73.944667283
+Kings,Grocery,Foodtown Of Crown Heights,Franklin Ave,Brooklyn,NY,11225,"Franklin Ave
+Brooklyn, NY 11225
+(40.666559949, -73.959448426)",40.666559949,-73.959448426
+Kings,Grocery,Kunpeng Grocery Inc.,11th Ave,Brooklyn,NY,11219,"11th Ave
+Brooklyn, NY 11219
+(40.633070322, -74.00129566)",40.633070322,-74.00129566
+Queens,Grocery,Wasserman Supermarket,Main St,Flushing,NY,11367,"Main St
+Flushing, NY 11367
+(40.732119616, -73.824486948)",40.732119616,-73.824486948
+Kings,Grocery,"Produce On ""p""",Avenue P,Brooklyn,NY,11223,"Avenue P
+Brooklyn, NY 11223
+(40.609949766, -73.962629973)",40.609949766,-73.962629973
+Queens,Grocery,Hengtong Grocery Inc,149th Street,Flushing,NY,11354,"149th Street
+Flushing, NY 11354
+(40.769151391, -73.817358924)",40.769151391,-73.817358924
+Kings,Grocery,Bravo Supermarket,New Lots Avenue,Brooklyn,NY,11207,"New Lots Avenue
+Brooklyn, NY 11207
+(40.662689499, -73.891159485)",40.662689499,-73.891159485
+Bronx,Grocery,Rafael Jr Food Center Corp,Decatur Avenue,Bronx,NY,10458,"Decatur Avenue
+Bronx, NY 10458
+(40.866129735, -73.887342014)",40.866129735,-73.887342014
+Kings,Grocery,"Flatbush Kosher, Inc.",Coney Island Av,Brooklyn,NY,11230,"Coney Island Av
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+Bronx,Grocery,Foodtown,Allerton Avenue,Bronx,NY,10469,"Allerton Avenue
+Bronx, NY 10469
+(40.865430017, -73.855045845)",40.865430017,-73.855045845
+Bronx,Grocery,Vivi Deli Food Mart Corp,East 187th Street,Bronx,NY,10458,"East 187th Street
+Bronx, NY 10458
+(40.85579327, -73.88801136)",40.85579327,-73.88801136
+Queens,Grocery,Key Food Supermarket,101st Avenue,South Richmond Hil,NY,11419,"101st Avenue
+South Richmond Hil, NY 11419
+(40.69060498, -73.823684799)",40.69060498,-73.823684799
+Bronx,Grocery,Adum African Market,East 167th Street,Bronx,NY,10456,"East 167th Street
+Bronx, NY 10456
+(40.831001581, -73.911466562)",40.831001581,-73.911466562
+Queens,Grocery,"Premier Farmers Market, Llc",108st,Corona,NY,11368,"108st
+Corona, NY 11368
+(40.747498977, -73.857106152)",40.747498977,-73.857106152
+Queens,Grocery,Bravo Supermarket,Roosevelt Ave,Jackson Heights,NY,11372,"Roosevelt Ave
+Jackson Heights, NY 11372
+(40.747096878, -73.888987581)",40.747096878,-73.888987581
+Kings,Grocery,C-Town Supermarkets,Ninth Street,Brooklyn,NY,11215,"Ninth Street
+Brooklyn, NY 11215
+(40.66932146, -73.986560033)",40.66932146,-73.986560033
+Kings,Grocery,Canaan Deli Corp,York Street,Brooklyn,NY,11201,"York Street
+Brooklyn, NY 11201
+(40.701510566, -73.986471996)",40.701510566,-73.986471996
+New York,Grocery,Shop Fair Supermarket Supermarket,Adam Clayton Powell Jr. Blvd.,New York,NY,10027,"Adam Clayton Powell Jr. Blvd.
+New York, NY 10027
+(40.809936826, -73.947737395)",40.809936826,-73.947737395
+Kings,Grocery,"Bowen & Darren Deli & Grocery, Corp",7th Av,Brooklyn,NY,11220,"7th Av
+Brooklyn, NY 11220
+(40.639888085, -74.00857688)",40.639888085,-74.00857688
+Bronx,Grocery,Western Beef #10,Morris Avenue,Bronx,NY,10451,"Morris Avenue
+Bronx, NY 10451
+(40.818761164, -73.922180973)",40.818761164,-73.922180973
+New York,Grocery,Cherry Valley Market Place,East 115th St,New York,NY,10029,"East 115th St
+New York, NY 10029
+(40.79717979, -73.940302841)",40.79717979,-73.940302841
+Kings,Grocery,C-Town Supermarkets,Nostrand Ave,Brooklyn,NY,11226,"Nostrand Ave
+Brooklyn, NY 11226
+(40.647425165, -73.949209966)",40.647425165,-73.949209966
+Kings,Grocery,Foodtown #589,Mcdonald Ave,Brooklyn,NY,11218,"Mcdonald Ave
+Brooklyn, NY 11218
+(40.633021153, -73.977584968)",40.633021153,-73.977584968
+Queens,Grocery,Happy 88 Grocery Store Inc.,Corona Ave,Elmhurst,NY,11373,"Corona Ave
+Elmhurst, NY 11373
+(40.742052229, -73.874240328)",40.742052229,-73.874240328
+Bronx,Grocery,1679 Monroe Deli Grocery Inc,Monroe Avenue,Bronx,NY,10457,"Monroe Avenue
+Bronx, NY 10457
+(40.846027588, -73.906546306)",40.846027588,-73.906546306
+Richmond,Grocery,Met Food,Victory Boulevard,Staten Island,NY,10314,"Victory Boulevard
+Staten Island, NY 10314
+(40.613192575, -74.121114248)",40.613192575,-74.121114248
+Kings,Grocery,Fresh Fruit & Food Center Inc.,Penn Street,Brooklyn,NY,11211,"Penn Street
+Brooklyn, NY 11211
+(40.70415997, -73.955301086)",40.70415997,-73.955301086
+Kings,Grocery,Randy Meat Supermarket Corp.,Pitkin Av,Brooklyn,NY,11208,"Pitkin Av
+Brooklyn, NY 11208
+(40.675242314, -73.872989428)",40.675242314,-73.872989428
+Queens,Grocery,New York Deli & Grocery Inc.,Roosevelt Ave,Jackson Heights,NY,11372,"Roosevelt Ave
+Jackson Heights, NY 11372
+(40.747096878, -73.888987581)",40.747096878,-73.888987581
+Richmond,Grocery,Met Food,Hylan Blvd,Staten Island,NY,10305,"Hylan Blvd
+Staten Island, NY 10305
+(40.590102107, -74.088919732)",40.590102107,-74.088919732
+New York,Grocery,C-Town Supermarkets,Broadway,New York,NY,10031,"Broadway
+New York, NY 10031
+(40.825168807, -73.951470904)",40.825168807,-73.951470904
+Bronx,Grocery,C-Town Supermarkets,East 169th Street,Bronx,NY,10456,"East 169th Street
+Bronx, NY 10456
+(40.833377653, -73.907082014)",40.833377653,-73.907082014
+Bronx,Grocery,J & R Super Deli Grocery Corp,Washington Avenue,Bronx,NY,10456,"Washington Avenue
+Bronx, NY 10456
+(40.831148271, -73.906975685)",40.831148271,-73.906975685
+Kings,Grocery,Lee Heyward Groceries Inc.,Lee Ave,Brooklyn,NY,11206,"Lee Ave
+Brooklyn, NY 11206
+(40.700748854, -73.954386662)",40.700748854,-73.954386662
+Bronx,Grocery,Fine Fare,White Plains Road,Bronx,NY,10470,"White Plains Road
+Bronx, NY 10470
+(40.903429022, -73.850371164)",40.903429022,-73.850371164
+Queens,Grocery,Melody Market Inc,Junction Boulevard,East Elmhurst,NY,11369,"Junction Boulevard
+East Elmhurst, NY 11369
+(40.75739001, -73.873970021)",40.75739001,-73.873970021
+Kings,Grocery,U. S. Army Commissary Fort Hamilton,White Avenue,Brooklyn,NY,11252,"White Avenue
+Brooklyn, NY 11252
+(40.610254792, -74.029133606)",40.610254792,-74.029133606
+Bronx,Grocery,C-Market Foods Corp.,White Plains Road,Bronx,NY,10467,"White Plains Road
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Kings,Grocery,Western Beef #54,Jamaica Avenue,Brooklyn,NY,11208,"Jamaica Avenue
+Brooklyn, NY 11208
+(40.687666269, -73.877537961)",40.687666269,-73.877537961
+Bronx,Grocery,Los Castillos Mini Market Corp,University Avenue,Bronx,NY,10453,"University Avenue
+Bronx, NY 10453
+(40.850085818, -73.916160642)",40.850085818,-73.916160642
+Bronx,Grocery,Shop Fair Supermarket Supermarket,East 170th Street,Bronx,NY,10456,"East 170th Street
+Bronx, NY 10456
+(40.83807904, -73.912224011)",40.83807904,-73.912224011
+Queens,Grocery,City Acres Market,Queens Plaza South,Long Island City,NY,11101,"Queens Plaza South
+Long Island City, NY 11101
+(40.751693957, -73.943278631)",40.751693957,-73.943278631
+Queens,Grocery,Ideal Food Basket,Myrtle Ave,Glendale,NY,11385,"Myrtle Ave
+Glendale, NY 11385
+(40.702565345, -73.873209171)",40.702565345,-73.873209171
+Queens,Grocery,Fine Fare,Merrick Boulevard,Jamaica,NY,11433,"Merrick Boulevard
+Jamaica, NY 11433
+(40.698350894, -73.786913557)",40.698350894,-73.786913557
+Kings,Grocery,Fine Fare Supermarket,Flatbush Avenue,Brooklyn,NY,11210,"Flatbush Avenue
+Brooklyn, NY 11210
+(40.627100179, -73.941595472)",40.627100179,-73.941595472
+Queens,Grocery,Bebe Mini Market Inc,18th Avenue,College Point,NY,11356,"18th Avenue
+College Point, NY 11356
+(40.783220018, -73.844457733)",40.783220018,-73.844457733
+Kings,Grocery,La Bodega Deli & Grocery,Mcdonald Avenue,Brooklyn,NY,11230,"Mcdonald Avenue
+Brooklyn, NY 11230
+(40.619242962, -73.975014383)",40.619242962,-73.975014383
+Bronx,Grocery,Antillana Fresh Meat Market,Westchester Avenue,Bronx,NY,10459,"Westchester Avenue
+Bronx, NY 10459
+(40.825623809, -73.890052467)",40.825623809,-73.890052467
+Queens,Grocery,Foodtown,Jamaica Ave,Jamaica,NY,11432,"Jamaica Ave
+Jamaica, NY 11432
+(40.706413026, -73.792487356)",40.706413026,-73.792487356
+Kings,Grocery,Fresh Foods Meat Market,Irving Avenue,Brooklyn,NY,11237,"Irving Avenue
+Brooklyn, NY 11237
+(40.698860161, -73.914121059)",40.698860161,-73.914121059
+Kings,Grocery,Urban Market,Waverly Ave,Brooklyn,NY,11238,"Waverly Ave
+Brooklyn, NY 11238
+(40.68475067, -73.966168741)",40.68475067,-73.966168741
+Bronx,Grocery,Regina Meat & Deli Grocery Inc,Westchester Avenue,Bronx,NY,10472,"Westchester Avenue
+Bronx, NY 10472
+(40.829950172, -73.873054095)",40.829950172,-73.873054095
+Kings,Grocery,Blessing Food Corp.,Rockaway Ave,Brooklyn,NY,11212,"Rockaway Ave
+Brooklyn, NY 11212
+(40.663342102, -73.909133026)",40.663342102,-73.909133026
+Queens,Grocery,R Stop 1 Supermarket Inc,43rd Avenue,Corona,NY,11368,"43rd Avenue
+Corona, NY 11368
+(40.7480639, -73.859811933)",40.7480639,-73.859811933
+Kings,Grocery,City Fresh Market,6th Ave,Brooklyn,NY,11220,"6th Ave
+Brooklyn, NY 11220
+(40.639934907, -74.01208343)",40.639934907,-74.01208343
+Bronx,Grocery,Western Beef #48,Prospect Avenue,Bronx,NY,10459,"Prospect Avenue
+Bronx, NY 10459
+(40.826027843, -73.898990656)",40.826027843,-73.898990656
+Queens,Grocery,Rego Fresh Market,Woodhaven Blvd,Rego Park,NY,11374,"Woodhaven Blvd
+Rego Park, NY 11374
+(40.721210386, -73.866220774)",40.721210386,-73.866220774
+Bronx,Grocery,Antillana Superfood Marketplace,White Plains Road,Bronx,NY,10462,"White Plains Road
+Bronx, NY 10462
+(40.853813784, -73.867714112)",40.853813784,-73.867714112
+Queens,Grocery,Freshmart,Union Street,Flushing,NY,11354,"Union Street
+Flushing, NY 11354
+(40.767453615, -73.827093734)",40.767453615,-73.827093734
+Richmond,Grocery,"Legacy Africana Market, Inc.",Bay St,Staten Island,NY,10304,"Bay St
+Staten Island, NY 10304
+(40.623243039, -74.073173016)",40.623243039,-74.073173016
+Richmond,Grocery,Target Store T-2006,Veterans Road West,Staten Island,NY,10309,"Veterans Road West
+Staten Island, NY 10309
+(40.529643716, -74.225891511)",40.529643716,-74.225891511
+Bronx,Grocery,C-Town Supermarkets,Laconia Avenue,Bronx,NY,10466,"Laconia Avenue
+Bronx, NY 10466
+(40.884053328, -73.849406663)",40.884053328,-73.849406663
+Kings,Grocery,Keyfood,Nostrand Av,Brooklyn,NY,11226,"Nostrand Av
+Brooklyn, NY 11226
+(40.647425165, -73.949209966)",40.647425165,-73.949209966
+Queens,Grocery,Foodtown,Parsons Blvd,Jamaica,NY,11432,"Parsons Blvd
+Jamaica, NY 11432
+(40.706999819, -73.802368772)",40.706999819,-73.802368772
+Bronx,Grocery,A & G Deli Grocery Corp,Fox Street,Bronx,NY,10459,"Fox Street
+Bronx, NY 10459
+(40.820868473, -73.893868971)",40.820868473,-73.893868971
+Kings,Grocery,Jiahe Grocery Inc,8th Avenue,Brooklyn,NY,11220,"8th Avenue
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Kings,Grocery,Mehadrin Supermarket,12th Ave,Brooklyn,NY,11219,"12th Ave
+Brooklyn, NY 11219
+(40.627041349, -74.004012152)",40.627041349,-74.004012152
+Bronx,Grocery,Associated Supermarket,Westchester Ave,Bronx,NY,10472,"Westchester Ave
+Bronx, NY 10472
+(40.829950172, -73.873054095)",40.829950172,-73.873054095
+Kings,Grocery,Lee Gardens Supermarket Inc.,Flushing Ave,Brooklyn,NY,11205,"Flushing Ave
+Brooklyn, NY 11205
+(40.697716825, -73.967697696)",40.697716825,-73.967697696
+Bronx,Grocery,Fine Fare,Boston Road,Bronx,NY,10467,"Boston Road
+Bronx, NY 10467
+(40.861766057, -73.866651958)",40.861766057,-73.866651958
+Bronx,Grocery,C-Town Supermarkets,East 204th Street,Bronx,NY,10458,"East 204th Street
+Bronx, NY 10458
+(40.874278519, -73.884790231)",40.874278519,-73.884790231
+Kings,Grocery,Brooklyn Bodega,Roebling St,Brooklyn,NY,11211,"Roebling St
+Brooklyn, NY 11211
+(40.716389491, -73.955022084)",40.716389491,-73.955022084
+Kings,Grocery,4 Season Deli & Grocery,Coney Island Avenue,Brooklyn,NY,11230,"Coney Island Avenue
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+Kings,Grocery,Met Fresh Supermarket,3rd Ave,Brooklyn,NY,11209,"3rd Ave
+Brooklyn, NY 11209
+(40.624059334, -74.030818893)",40.624059334,-74.030818893
+Kings,Grocery,Key Food,Atlantic Ave,Brooklyn,NY,11201,"Atlantic Ave
+Brooklyn, NY 11201
+(40.689207813, -73.990914542)",40.689207813,-73.990914542
+New York,Grocery,Rey's Grocery Deli Corp.,Audubon Ave,New York,NY,10033,"Audubon Ave
+New York, NY 10033
+(40.848017477, -73.932866751)",40.848017477,-73.932866751
+Kings,Grocery,Ideal Food Basket,Brooklyn Ave,Brooklyn,NY,11203,"Brooklyn Ave
+Brooklyn, NY 11203
+(40.658930737, -73.945253274)",40.658930737,-73.945253274
+Richmond,Grocery,Associated Marketplace,Broad Street,Staten Island,NY,10304,"Broad Street
+Staten Island, NY 10304
+(40.62359872, -74.082752239)",40.62359872,-74.082752239
+Kings,Grocery,J W W Mini Store Inc.,7th Av,Brooklyn,NY,11220,"7th Av
+Brooklyn, NY 11220
+(40.639888085, -74.00857688)",40.639888085,-74.00857688
+Kings,Grocery,Stanley Deli & Grocery Inc.,Stanley Avenue,Brooklyn,NY,11208,"Stanley Avenue
+Brooklyn, NY 11208
+(40.665723024, -73.865811863)",40.665723024,-73.865811863
+Richmond,Grocery,ShopRite Of Forest & Richmond,Richmond Avenue,Staten Island,NY,10314,"Richmond Avenue
+Staten Island, NY 10314
+(40.598887445, -74.162748744)",40.598887445,-74.162748744
+Richmond,Grocery,Angie's Unique Variety Store Inc.,Cary Avenue,Staten Island,NY,10310,"Cary Avenue
+Staten Island, NY 10310
+(40.63254468, -74.117899528)",40.63254468,-74.117899528
+Bronx,Grocery,Bravo Supermarket,West Burnside Avenue,Bronx,NY,10453,"West Burnside Avenue
+Bronx, NY 10453
+(40.853962219, -73.914709793)",40.853962219,-73.914709793
+Bronx,Grocery,Target Store T-1798,West 225th Street,Bronx,NY,10463,"West 225th Street
+Bronx, NY 10463
+(40.874854152, -73.911692936)",40.874854152,-73.911692936
+Kings,Grocery,Berry Goods Supermarket Corp,Avenue J,Brooklyn,NY,11230,"Avenue J
+Brooklyn, NY 11230
+(40.624626054, -73.966611167)",40.624626054,-73.966611167
+Bronx,Grocery,1798 Los Primos Grocery Corp.,Crotona Ave,Bronx,NY,10457,"Crotona Ave
+Bronx, NY 10457
+(40.844447825, -73.89194803)",40.844447825,-73.89194803
+Kings,Grocery,Target Store T-1401,Gateway Dr,Brooklyn,NY,11239,"Gateway Dr
+Brooklyn, NY 11239
+(40.651878398, -73.871201067)",40.651878398,-73.871201067
+Kings,Grocery,Nyc Fresh Market,Myrtle Avenue,Brooklyn,NY,11201,"Myrtle Avenue
+Brooklyn, NY 11201
+(40.693532779, -73.980718885)",40.693532779,-73.980718885
+Queens,Grocery,Stop & Shop #539,Union Turnpike,Glendale,NY,11385,"Union Turnpike
+Glendale, NY 11385
+(40.705151262, -73.859386198)",40.705151262,-73.859386198
+Kings,Grocery,The Food Pyramid Corp.,Marcy Avenue,Brooklyn,NY,11206,"Marcy Avenue
+Brooklyn, NY 11206
+(40.697925572, -73.949723056)",40.697925572,-73.949723056
+Kings,Grocery,Fruits-A-Plenty,Kings Highway,Brooklyn,NY,11229,"Kings Highway
+Brooklyn, NY 11229
+(40.609214454, -73.957258006)",40.609214454,-73.957258006
+Kings,Grocery,Ideal Freshmarket,Church Avenue,Brooklyn,NY,11226,"Church Avenue
+Brooklyn, NY 11226
+(40.647725722, -73.967413861)",40.647725722,-73.967413861
+Kings,Grocery,H & D Grocery Store Inc,11th Ave,Brooklyn,NY,11219,"11th Ave
+Brooklyn, NY 11219
+(40.633070322, -74.00129566)",40.633070322,-74.00129566
+Bronx,Grocery,Food Bazaar,Bruckner Boulevard,Bronx,NY,10473,"Bruckner Boulevard
+Bronx, NY 10473
+(40.825271368, -73.862872932)",40.825271368,-73.862872932
+Bronx,Grocery,Fresh Market Deli Inc,Gleason Avenue,Bronx,NY,10472,"Gleason Avenue
+Bronx, NY 10472
+(40.830212801, -73.863827943)",40.830212801,-73.863827943
+Queens,Grocery,Li Li Grocery Inc,Grand Avenue,Elmhurst,NY,11373,"Grand Avenue
+Elmhurst, NY 11373
+(40.733842963, -73.883514476)",40.733842963,-73.883514476
+Kings,Grocery,Food Universe,Avenue U,Brooklyn,NY,11223,"Avenue U
+Brooklyn, NY 11223
+(40.597037326, -73.972620822)",40.597037326,-73.972620822
+Kings,Grocery,Tov Meod,14th Ave,Brooklyn,NY,11219,"14th Ave
+Brooklyn, NY 11219
+(40.630274514, -73.993475503)",40.630274514,-73.993475503
+Kings,Grocery,Ideal Food Basket,Pitkin Ave,Brooklyn,NY,11212,"Pitkin Ave
+Brooklyn, NY 11212
+(40.669612908, -73.911296046)",40.669612908,-73.911296046
+Queens,Grocery,Broadway Cafe,Broadway,Astoria,NY,11103,"Broadway
+Astoria, NY 11103
+(40.757655401, -73.916208555)",40.757655401,-73.916208555
+Kings,Grocery,Green Way Markets,Dekalb Avenue,Brooklyn,NY,11221,"Dekalb Avenue
+Brooklyn, NY 11221
+(40.69306893, -73.936585653)",40.69306893,-73.936585653
+Kings,Grocery,Halsey Traders Market,Malcolm X Blvd,Brooklyn,NY,11233,"Malcolm X Blvd
+Brooklyn, NY 11233
+(40.682039276, -73.928893014)",40.682039276,-73.928893014
+Bronx,Grocery,Food Universe,Featherbed Lane,Bronx,NY,10452,"Featherbed Lane
+Bronx, NY 10452
+(40.846106096, -73.919125747)",40.846106096,-73.919125747
+New York,Grocery,Ideal Marketplace,9th Avenue,New York,NY,10001,"9th Avenue
+New York, NY 10001
+(40.750960223, -73.998106924)",40.750960223,-73.998106924
+Kings,Grocery,Food Dynasty,86th St,Brooklyn,NY,11228,"86th St
+Brooklyn, NY 11228
+(40.615406696, -74.016107932)",40.615406696,-74.016107932
+Queens,Grocery,T & T Deli & Grill,101st Avenue,South Richmond Hil,NY,11419,"101st Avenue
+South Richmond Hil, NY 11419
+(40.69060498, -73.823684799)",40.69060498,-73.823684799
+Kings,Grocery,One Stop Kosher,Rutledge St,Brooklyn,NY,11211,"Rutledge St
+Brooklyn, NY 11211
+(40.703663571, -73.954580392)",40.703663571,-73.954580392
+New York,Grocery,Extra Jumbo Marketplace,Audubon Avenue,New York,NY,10033,"Audubon Avenue
+New York, NY 10033
+(40.848017477, -73.932866751)",40.848017477,-73.932866751
+Kings,Grocery,"Asmax Food, Inc.",Flatlands Ave,Brooklyn,NY,11236,"Flatlands Ave
+Brooklyn, NY 11236
+(40.640211735, -73.90600239)",40.640211735,-73.90600239
+Queens,Grocery,Stop & Shop #2579,Beach Channel Dr,Belle Harbor,NY,11694,"Beach Channel Dr
+Belle Harbor, NY 11694
+(40.581688886, -73.840126751)",40.581688886,-73.840126751
+Kings,Grocery,Tony's Shop And Save Supermarket,Sutter Avenue,Brooklyn,NY,11208,"Sutter Avenue
+Brooklyn, NY 11208
+(40.672700177, -73.872384276)",40.672700177,-73.872384276
+Bronx,Grocery,Spice Up Supermarket,Castle Hill Ave,Bronx,NY,10472,"Castle Hill Ave
+Bronx, NY 10472
+(40.828708307, -73.850294417)",40.828708307,-73.850294417
+Bronx,Grocery,Karina Enterprises Inc,Grand Concourse,Bronx,NY,10453,"Grand Concourse
+Bronx, NY 10453
+(40.85073624, -73.905170701)",40.85073624,-73.905170701
+Richmond,Grocery,Frutas Y Abarrotes Mexico Ii Inc.,Victory Blvd.,Staten Island,NY,10301,"Victory Blvd.
+Staten Island, NY 10301
+(40.625627129, -74.092403522)",40.625627129,-74.092403522
+Bronx,Grocery,Met Food,East 198th Street,Bronx,NY,10458,"East 198th Street
+Bronx, NY 10458
+(40.868292404, -73.888022416)",40.868292404,-73.888022416
+Kings,Grocery,Bravo Supermarket,Grand St,Brooklyn,NY,11211,"Grand St
+Brooklyn, NY 11211
+(40.711790838, -73.942107374)",40.711790838,-73.942107374
+Richmond,Grocery,Mexico Azteca Grocery & Deli,Broad St,Staten Island,NY,10304,"Broad St
+Staten Island, NY 10304
+(40.62359872, -74.082752239)",40.62359872,-74.082752239
+Kings,Grocery,C-Town Supermarkets,Nostrand Av,Brooklyn,NY,11226,"Nostrand Av
+Brooklyn, NY 11226
+(40.647425165, -73.949209966)",40.647425165,-73.949209966
+Queens,Grocery,Jrd Grocery Corp.,43rd Av,Corona,NY,11368,"43rd Av
+Corona, NY 11368
+(40.7480639, -73.859811933)",40.7480639,-73.859811933
+Queens,Grocery,Te Quiero Bebe And 99c Up Store Inc,Broadway,Astoria,NY,11103,"Broadway
+Astoria, NY 11103
+(40.757655401, -73.916208555)",40.757655401,-73.916208555
+Bronx,Grocery,Fine Fare,East 167th Street,Bronx,NY,10452,"East 167th Street
+Bronx, NY 10452
+(40.835283586, -73.919907173)",40.835283586,-73.919907173
+New York,Grocery,Fine Fare,Grand Street,New York,NY,10002,"Grand Street
+New York, NY 10002
+(40.716411878, -73.988250408)",40.716411878,-73.988250408
+Bronx,Grocery,Met Food Markets Deli Meats Produce,White Plains Road,Bronx,NY,10473,"White Plains Road
+Bronx, NY 10473
+(40.818020148, -73.857317177)",40.818020148,-73.857317177
+Kings,Grocery,Food Universe Market Place,Avenue O,Brooklyn,NY,11204,"Avenue O
+Brooklyn, NY 11204
+(40.610538045, -73.981100501)",40.610538045,-73.981100501
+Queens,Grocery,Ram Union Glatt Supermarket,Union Turnpike,Fresh Meadows,NY,11366,"Union Turnpike
+Fresh Meadows, NY 11366
+(40.727162334, -73.787572988)",40.727162334,-73.787572988
+Bronx,Grocery,Key Food,Westchester Avenue,Bronx,NY,10459,"Westchester Avenue
+Bronx, NY 10459
+(40.825623809, -73.890052467)",40.825623809,-73.890052467
+Kings,Grocery,Key Food,Avenue Z,Brooklyn,NY,11223,"Avenue Z
+Brooklyn, NY 11223
+(40.586185931, -73.970389209)",40.586185931,-73.970389209
+Bronx,Grocery,Lisbeth Food Corp,Watson Avenue,Bronx,NY,10472,"Watson Avenue
+Bronx, NY 10472
+(40.827662314, -73.866468109)",40.827662314,-73.866468109
+Queens,Grocery,20/20 Pioneer Super Market,Beach Channel Drive,Arverne,NY,11692,"Beach Channel Drive
+Arverne, NY 11692
+(40.589827743, -73.804805186)",40.589827743,-73.804805186
+Queens,Grocery,Key Food,36th Av,Astoria,NY,11106,"36th Av
+Astoria, NY 11106
+(40.758355958, -73.933581062)",40.758355958,-73.933581062
+Queens,Grocery,Pioneer Supermarket,Northern Blvd,Corona,NY,11368,"Northern Blvd
+Corona, NY 11368
+(40.758229958, -73.85148632)",40.758229958,-73.85148632
+Kings,Grocery,Fischmans Food Center,16th Ave,Brooklyn,NY,11204,"16th Ave
+Brooklyn, NY 11204
+(40.6259069, -73.99080976)",40.6259069,-73.99080976
+Queens,Grocery,Key Food,69th Ave,Flushing,NY,11365,"69th Ave
+Flushing, NY 11365
+(40.737082312, -73.777428718)",40.737082312,-73.777428718
+Kings,Grocery,88 Market Inc,8th Av,Brooklyn,NY,11220,"8th Av
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Queens,Grocery,Famosa Grocery Corp.,177th St,Jamaica,NY,11433,"177th St
+Jamaica, NY 11433
+(40.696799673, -73.776379668)",40.696799673,-73.776379668
+Queens,Grocery,C-Town Supermarkets,Crossbay Blvd,Ozone Park,NY,11417,"Crossbay Blvd
+Ozone Park, NY 11417
+(40.67469391, -73.843121763)",40.67469391,-73.843121763
+Kings,Grocery,Eghe African Market,Pitkin Avenue,Brooklyn,NY,11212,"Pitkin Avenue
+Brooklyn, NY 11212
+(40.669612908, -73.911296046)",40.669612908,-73.911296046
+Queens,Grocery,Myrtle Grocery Inc.,Myrtle Avenue,Ridgewood,NY,11385,"Myrtle Avenue
+Ridgewood, NY 11385
+(40.702500624, -73.873977684)",40.702500624,-73.873977684
+Kings,Grocery,Bismillah Super Grocery & Halal Mea,Coney Island Avenue,Brooklyn,NY,11230,"Coney Island Avenue
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+Bronx,Grocery,Food Universe Market Place,Randall Avenue,Bronx,NY,10473,"Randall Avenue
+Bronx, NY 10473
+(40.818259241, -73.853788758)",40.818259241,-73.853788758
+Kings,Grocery,Target Store T-2212,Flatbush Ave,Brooklyn,NY,11210,"Flatbush Ave
+Brooklyn, NY 11210
+(40.627100179, -73.941595472)",40.627100179,-73.941595472
+Kings,Grocery,Fine Food,York St,Brooklyn,NY,11201,"York St
+Brooklyn, NY 11201
+(40.701510566, -73.986471996)",40.701510566,-73.986471996
+Richmond,Grocery,Key Food,Arden Avenue,Staten Island,NY,10312,"Arden Avenue
+Staten Island, NY 10312
+(40.544511882, -74.17652155)",40.544511882,-74.17652155
+Queens,Grocery,C-Town Supermarkets,37th Avenue,Jackson Heights,NY,11372,"37th Avenue
+Jackson Heights, NY 11372
+(40.749864797, -73.883149449)",40.749864797,-73.883149449
+Kings,Grocery,Super Market Of Ave N Inc,Flatlands Avenue,Brooklyn,NY,11234,"Flatlands Avenue
+Brooklyn, NY 11234
+(40.624763187, -73.929896474)",40.624763187,-73.929896474
+Queens,Grocery,Fine Fare,163rd St,Jamaica,NY,11432,"163rd St
+Jamaica, NY 11432
+(40.706691486, -73.798050933)",40.706691486,-73.798050933
+Bronx,Grocery,Met Food,White Plains Road,Bronx,NY,10460,"White Plains Road
+Bronx, NY 10460
+(40.853813784, -73.867714112)",40.853813784,-73.867714112
+Bronx,Grocery,C-Town Supermarkets,Third Avenue,Bronx,NY,10456,"Third Avenue
+Bronx, NY 10456
+(40.830808951, -73.905946751)",40.830808951,-73.905946751
+Queens,Grocery,Seasons,Main Street,Flushing,NY,11367,"Main Street
+Flushing, NY 11367
+(40.732119616, -73.824486948)",40.732119616,-73.824486948
+Kings,Grocery,Leonardo Mini-Market Corp.,Ridgewood Avenue,Brooklyn,NY,11208,"Ridgewood Avenue
+Brooklyn, NY 11208
+(40.684440385, -73.876572567)",40.684440385,-73.876572567
+Bronx,Grocery,2690 Grocery Corp,3rd Avenue,Bronx,NY,10454,"3rd Avenue
+Bronx, NY 10454
+(40.808766294, -73.930028096)",40.808766294,-73.930028096
+Bronx,Grocery,Big Deal Supermarket,Morris Park Avenue,Bronx,NY,10462,"Morris Park Avenue
+Bronx, NY 10462
+(40.846183265, -73.861500931)",40.846183265,-73.861500931
+Kings,Grocery,Key Food,Flatbush Ave,Brooklyn,NY,11226,"Flatbush Ave
+Brooklyn, NY 11226
+(40.646602568, -73.958112669)",40.646602568,-73.958112669
+New York,Grocery,Fine Fare,Lenox Ave,New York,NY,10026,"Lenox Ave
+New York, NY 10026
+(40.801445169, -73.950204727)",40.801445169,-73.950204727
+Kings,Grocery,Food Bazaar,Flatlands Avenue,Brooklyn,NY,11207,"Flatlands Avenue
+Brooklyn, NY 11207
+(40.654075093, -73.883343644)",40.654075093,-73.883343644
+Queens,Grocery,Compare Food Market,Jamaica Ave,Woodhaven,NY,11421,"Jamaica Ave
+Woodhaven, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+Queens,Grocery,K Town Supermarket,Liberty Avenue,South Richmond Hil,NY,11419,"Liberty Avenue
+South Richmond Hil, NY 11419
+(40.685869996, -73.825910033)",40.685869996,-73.825910033
+Kings,Grocery,City Plaza Meat Ii Corp.,Sutter Ave,Brooklyn,NY,11207,"Sutter Ave
+Brooklyn, NY 11207
+(40.669741311, -73.892734464)",40.669741311,-73.892734464
+Bronx,Grocery,Food Fair Fresh Market,Jerome Avenue,Bronx,NY,10468,"Jerome Avenue
+Bronx, NY 10468
+(40.864056372, -73.900080537)",40.864056372,-73.900080537
+Bronx,Grocery,J & C Grocery & Deli Of Ny Inc.,East 188th Street,Bronx,NY,10458,"East 188th Street
+Bronx, NY 10458
+(40.856818253, -73.887596506)",40.856818253,-73.887596506
+Kings,Grocery,C-Town Supermarkets,Utica Av,Brooklyn,NY,11213,"Utica Av
+Brooklyn, NY 11213
+(40.670525438, -73.930955163)",40.670525438,-73.930955163
+Richmond,Grocery,Railroad Quickstop,North Railroad Ave,Staten Island,NY,10304,"North Railroad Ave
+Staten Island, NY 10304
+(40.591162581, -74.093261641)",40.591162581,-74.093261641
+Queens,Grocery,Malik Grocery & Halal Meat,Queens Blvd,Sunnyside,NY,11104,"Queens Blvd
+Sunnyside, NY 11104
+(40.743658442, -73.921448264)",40.743658442,-73.921448264
+Bronx,Grocery,D & F Meat Market Corp.,East 184th Street,Bronx,NY,10468,"East 184th Street
+Bronx, NY 10468
+(40.859914552, -73.900621046)",40.859914552,-73.900621046
+Kings,Grocery,Southside Food Plaza Inc.,Bedford Ave,Brooklyn,NY,11249,"Bedford Ave
+Brooklyn, NY 11249
+(40.716387165, -73.959279469)",40.716387165,-73.959279469
+Kings,Grocery,Quality Fresh Market,Driggs Ave,Brooklyn,NY,11211,"Driggs Ave
+Brooklyn, NY 11211
+(40.714611865, -73.959047593)",40.714611865,-73.959047593
+Kings,Grocery,Bravo Supermarket,4th Ave,Brooklyn,NY,11220,"4th Ave
+Brooklyn, NY 11220
+(40.642446361, -74.016837076)",40.642446361,-74.016837076
+Kings,Grocery,City Fresh Market,Knickerbocker Ave,Brooklyn,NY,11237,"Knickerbocker Ave
+Brooklyn, NY 11237
+(40.702568662, -73.92497553)",40.702568662,-73.92497553
+New York,Grocery,City Fresh Market,East 106th St,New York,NY,10029,"East 106th St
+New York, NY 10029
+(40.791493512, -73.944487775)",40.791493512,-73.944487775
+Bronx,Grocery,Food Universe Market Place,Third Avenue,Bronx,NY,10456,"Third Avenue
+Bronx, NY 10456
+(40.830808951, -73.905946751)",40.830808951,-73.905946751
+Bronx,Grocery,Friends Halal Meat Supermarket Inc,Starling Avenue,Bronx,NY,10462,"Starling Avenue
+Bronx, NY 10462
+(40.836251334, -73.853296369)",40.836251334,-73.853296369
+Kings,Grocery,Shop Fair Supermarket,Pennsylvania Ave,Brooklyn,NY,11207,"Pennsylvania Ave
+Brooklyn, NY 11207
+(40.664798077, -73.894062001)",40.664798077,-73.894062001
+New York,Grocery,Key Food,2nd Av,New York,NY,10128,"2nd Av
+New York, NY 10128
+(40.781399421, -73.949172138)",40.781399421,-73.949172138
+Kings,Grocery,Marketplace Of Bushwick,Broadway,Brooklyn,NY,11207,"Broadway
+Brooklyn, NY 11207
+(40.683079269, -73.910795599)",40.683079269,-73.910795599
+Bronx,Grocery,Key Food,Lydig Avenue,Bronx,NY,10462,"Lydig Avenue
+Bronx, NY 10462
+(40.854449029, -73.865234483)",40.854449029,-73.865234483
+Kings,Grocery,Center Fresh Inc,13th Avenue,Brooklyn,NY,11219,"13th Avenue
+Brooklyn, NY 11219
+(40.631580168, -73.995655412)",40.631580168,-73.995655412
+Kings,Grocery,"Flatlands Mini Market, Inc.",Flatlands Avenue,Brooklyn,NY,11236,"Flatlands Avenue
+Brooklyn, NY 11236
+(40.640211735, -73.90600239)",40.640211735,-73.90600239
+New York,Grocery,Key Food Fresh,St Nicholas Ave,New York,NY,10032,"St Nicholas Ave
+New York, NY 10032
+(40.842941445, -73.93838924)",40.842941445,-73.93838924
+Bronx,Grocery,Food Universe Marketplace,East 174th Street,Bronx,NY,10457,"East 174th Street
+Bronx, NY 10457
+(40.84272148, -73.899498545)",40.84272148,-73.899498545
+Queens,Grocery,City Fresh Market,103rd St,Corona,NY,11368,"103rd St
+Corona, NY 11368
+(40.753665691, -73.86463592)",40.753665691,-73.86463592
+Kings,Grocery,"Rnj Kings Food, Inc.",Kings Highway,Brooklyn,NY,11229,"Kings Highway
+Brooklyn, NY 11229
+(40.609214454, -73.957258006)",40.609214454,-73.957258006
+Kings,Grocery,"Shlomi Glat Kosher Meat, Inc.",Coney Island Avenue,Brooklyn,NY,11223,"Coney Island Avenue
+Brooklyn, NY 11223
+(40.6007957, -73.961383742)",40.6007957,-73.961383742
+Kings,Grocery,Key Food,Rockaway Parkway,Brooklyn,NY,11236,"Rockaway Parkway
+Brooklyn, NY 11236
+(40.64051526, -73.897153295)",40.64051526,-73.897153295
+Bronx,Grocery,Mard Deli Grocery Corp,Webster Avenue,Bronx,NY,10457,"Webster Avenue
+Bronx, NY 10457
+(40.846857045, -73.901421686)",40.846857045,-73.901421686
+Kings,Grocery,Aaa Happy Inc,Myrtle Ave,Brooklyn,NY,11237,"Myrtle Ave
+Brooklyn, NY 11237
+(40.698997534, -73.916423418)",40.698997534,-73.916423418
+Kings,Grocery,Good Food For Less,East 83rd Street,Brooklyn,NY,11236,"East 83rd Street
+Brooklyn, NY 11236
+(40.636758856, -73.910892146)",40.636758856,-73.910892146
+Bronx,Grocery,Compare Supermarket,Boston Road,Bronx,NY,10456,"Boston Road
+Bronx, NY 10456
+(40.829322231, -73.902525344)",40.829322231,-73.902525344
+Queens,Grocery,Food Dynasty,37th Av,Jackson Heights,NY,11372,"37th Av
+Jackson Heights, NY 11372
+(40.749864797, -73.883149449)",40.749864797,-73.883149449
+Kings,Grocery,Key Food,Nostrand Avenue,Brooklyn,NY,11216,"Nostrand Avenue
+Brooklyn, NY 11216
+(40.679793269, -73.949569789)",40.679793269,-73.949569789
+Queens,Grocery,Joy Fruit,Metropolitan Ave,Jamaica,NY,11418,"Metropolitan Ave
+Jamaica, NY 11418
+(40.708532049, -73.838893279)",40.708532049,-73.838893279
+Kings,Grocery,Kol Tuv Food Market,40th Street,Brooklyn,NY,11218,"40th Street
+Brooklyn, NY 11218
+(40.639029418, -73.98516707)",40.639029418,-73.98516707
+Bronx,Grocery,Associated,East 161st Street,Bronx,NY,10456,"East 161st Street
+Bronx, NY 10456
+(40.822430016, -73.909429998)",40.822430016,-73.909429998
+New York,Grocery,Dan's Supermarket,West 185th St,New York,NY,10033,"West 185th St
+New York, NY 10033
+(40.851616356, -73.931820552)",40.851616356,-73.931820552
+Queens,Grocery,Mi Tierra Supermarket,Northern Blvd,Jackson Heights,NY,11372,"Northern Blvd
+Jackson Heights, NY 11372
+(40.755740834, -73.88366366)",40.755740834,-73.88366366
+Bronx,Grocery,Mg Deli Grocery Corp,Sheridan Avenue,Bronx,NY,10451,"Sheridan Avenue
+Bronx, NY 10451
+(40.82462457, -73.922551)",40.82462457,-73.922551
+New York,Grocery,Big Apple Meat Market,Ninth Avenue,New York,NY,10036,"Ninth Avenue
+New York, NY 10036
+(40.759713152, -73.991702626)",40.759713152,-73.991702626
+Queens,Grocery,C-Town Supermarkets,Farmers Blvd,Saint Albans,NY,11412,"Farmers Blvd
+Saint Albans, NY 11412
+(40.696330052, -73.761649008)",40.696330052,-73.761649008
+Kings,Grocery,Fruit King & Deli Grocery Corp.,Mcdonald Ave,Brooklyn,NY,11218,"Mcdonald Ave
+Brooklyn, NY 11218
+(40.633021153, -73.977584968)",40.633021153,-73.977584968
+Kings,Grocery,C-Town Supermarkets,East 16th St,Brooklyn,NY,11226,"East 16th St
+Brooklyn, NY 11226
+(40.648635175, -73.964894072)",40.648635175,-73.964894072
+Queens,Grocery,"Carniceria Stop 1, Corp.",Jamaica Avenue,Woodhaven,NY,11421,"Jamaica Avenue
+Woodhaven, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+New York,Grocery,Associated Supermarket,7th Avenue,New York,NY,10030,"7th Avenue
+New York, NY 10030
+(40.817785195, -73.941787961)",40.817785195,-73.941787961
+Bronx,Grocery,Maria Food Market Corp,Prospect Avenue,Bronx,NY,10459,"Prospect Avenue
+Bronx, NY 10459
+(40.826027843, -73.898990656)",40.826027843,-73.898990656
+Bronx,Grocery,Antillana Superfood Marketplace,Grand Concourse,Bronx,NY,10453,"Grand Concourse
+Bronx, NY 10453
+(40.85073624, -73.905170701)",40.85073624,-73.905170701
+Kings,Grocery,Market Place By Key Food,5th Avenue,Brooklyn,NY,11215,"5th Avenue
+Brooklyn, NY 11215
+(40.668128602, -73.987165162)",40.668128602,-73.987165162
+Bronx,Grocery,C-Town Supermarkets,Hugh J Grant Circle,Bronx,NY,10472,"Hugh J Grant Circle
+Bronx, NY 10472
+(40.832723383, -73.860701594)",40.832723383,-73.860701594
+New York,Grocery,Key Food,Broadway,New York,NY,10033,"Broadway
+New York, NY 10033
+(40.847681539, -73.9379936)",40.847681539,-73.9379936
+Bronx,Grocery,C-Town Supermarkets,Sherman Avenue,Bronx,NY,10456,"Sherman Avenue
+Bronx, NY 10456
+(40.831563767, -73.91718526)",40.831563767,-73.91718526
+Bronx,Grocery,Food Universe,East 194th Street,Bronx,NY,10458,"East 194th Street
+Bronx, NY 10458
+(40.864228305, -73.891468085)",40.864228305,-73.891468085
+Queens,Grocery,W & K Grocery Inc,Roosevelt Av,Jackson Heights,NY,11372,"Roosevelt Av
+Jackson Heights, NY 11372
+(40.747096878, -73.888987581)",40.747096878,-73.888987581
+Queens,Grocery,"Kelvin Grocery & Deli, Inc.",Cornaga Avenue,Far Rockaway,NY,11691,"Cornaga Avenue
+Far Rockaway, NY 11691
+(40.603188647, -73.747016676)",40.603188647,-73.747016676
+Queens,Grocery,M & T Grocery Inc.,Dongan Avenue,Elmhurst,NY,11373,"Dongan Avenue
+Elmhurst, NY 11373
+(40.739289115, -73.880968795)",40.739289115,-73.880968795
+New York,Grocery,Adam 31 Grocery Inc.,Catherine Street,New York,NY,10038,"Catherine Street
+New York, NY 10038
+(40.711995451, -73.996940001)",40.711995451,-73.996940001
+Bronx,Grocery,Fine Fare,White Plains Rd,Bronx,NY,10467,"White Plains Rd
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Kings,Grocery,Cherry Valley Market Place,Crescent Street,Brooklyn,NY,11208,"Crescent Street
+Brooklyn, NY 11208
+(40.668878672, -73.868345151)",40.668878672,-73.868345151
+Bronx,Grocery,Food Universe,Dreiser Loop,Bronx,NY,10475,"Dreiser Loop
+Bronx, NY 10475
+(40.875880009, -73.829126229)",40.875880009,-73.829126229
+Bronx,Grocery,Pioneer Supermarket,Castle Hill Avenue,Bronx,NY,10462,"Castle Hill Avenue
+Bronx, NY 10462
+(40.837641204, -73.852458225)",40.837641204,-73.852458225
+Kings,Grocery,Freddys On M Inc,Elm Avenue,Brooklyn,NY,11230,"Elm Avenue
+Brooklyn, NY 11230
+(40.617251535, -73.961564354)",40.617251535,-73.961564354
+Kings,Grocery,Key Food,New Utrecht Avenue,Brooklyn,NY,11228,"New Utrecht Avenue
+Brooklyn, NY 11228
+(40.619090618, -73.99899884)",40.619090618,-73.99899884
+Kings,Grocery,Key Food,Avenue N,Brooklyn,NY,11234,"Avenue N
+Brooklyn, NY 11234
+(40.617478163, -73.942726551)",40.617478163,-73.942726551
+Bronx,Grocery,Los Cuatro Hermanos Grocery Inc,East 149th Street,Bronx,NY,10455,"East 149th Street
+Bronx, NY 10455
+(40.812472163, -73.905399848)",40.812472163,-73.905399848
+Kings,Grocery,Goldberg's Grocery,18th Ave,Brooklyn,NY,11204,"18th Ave
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+Queens,Grocery,Scaturro Supermarkets,Jamaica Ave,Woodhaven,NY,11421,"Jamaica Ave
+Woodhaven, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+Kings,Grocery,Bingo Wholesale,61st,Brooklyn,NY,11219,"61st
+Brooklyn, NY 11219
+(40.629592136, -74.001317142)",40.629592136,-74.001317142
+Richmond,Grocery,Victory Deli Food Corp.,Victory Boulevard,Staten Island,NY,10301,"Victory Boulevard
+Staten Island, NY 10301
+(40.625627129, -74.092403522)",40.625627129,-74.092403522
+Bronx,Grocery,Matanza Deli Grocery Corp,Laconia Avenue,Bronx,NY,10466,"Laconia Avenue
+Bronx, NY 10466
+(40.884053328, -73.849406663)",40.884053328,-73.849406663
+Queens,Grocery,Urban Market,2nd Street,Long Island City,NY,11101,"2nd Street
+Long Island City, NY 11101
+(40.740758976, -73.959343433)",40.740758976,-73.959343433
+Queens,Grocery,C-Town Supermarkets,Liberty Avenue,South Richmond Hil,NY,11419,"Liberty Avenue
+South Richmond Hil, NY 11419
+(40.685869996, -73.825910033)",40.685869996,-73.825910033
+Bronx,Grocery,Food Universe Marketplace,University Avenue,Bronx,NY,10468,"University Avenue
+Bronx, NY 10468
+(40.866469572, -73.902462648)",40.866469572,-73.902462648
+Queens,Grocery,Trade Fair #9,37th Avenue,Jackson Heights,NY,11372,"37th Avenue
+Jackson Heights, NY 11372
+(40.749864797, -73.883149449)",40.749864797,-73.883149449
+New York,Grocery,Pioneer Supermarket,Lenox Ave,New York,NY,10027,"Lenox Ave
+New York, NY 10027
+(40.807735307, -73.945430873)",40.807735307,-73.945430873
+Kings,Grocery,Fine Fare Supermarket,Livonia Ave,Brooklyn,NY,11207,"Livonia Ave
+Brooklyn, NY 11207
+(40.665151469, -73.891436217)",40.665151469,-73.891436217
+Queens,Grocery,Sea Town Fish & Farmers Market,104th St,Corona,NY,11368,"104th St
+Corona, NY 11368
+(40.749146133, -73.861318059)",40.749146133,-73.861318059
+Bronx,Grocery,Town Market Corp,Morris Park Ave,Bronx,NY,10462,"Morris Park Ave
+Bronx, NY 10462
+(40.846183265, -73.861500931)",40.846183265,-73.861500931
+Kings,Grocery,Foodtown,5th Avenue,Brooklyn,NY,11215,"5th Avenue
+Brooklyn, NY 11215
+(40.668128602, -73.987165162)",40.668128602,-73.987165162
+Kings,Grocery,Associated Market Place,Hart Street,Brooklyn,NY,11221,"Hart Street
+Brooklyn, NY 11221
+(40.697489383, -73.928324201)",40.697489383,-73.928324201
+Kings,Grocery,Laith Lite Deli Corp,New Lots Ave,Brooklyn,NY,11207,"New Lots Ave
+Brooklyn, NY 11207
+(40.662689499, -73.891159485)",40.662689499,-73.891159485
+Kings,Grocery,C-Town Supermarkets,86th Street,Brooklyn,NY,11223,"86th Street
+Brooklyn, NY 11223
+(40.593433558, -73.979746241)",40.593433558,-73.979746241
+Queens,Grocery,Mi Tierra Supermarket,Northern Blvd,Corona,NY,11368,"Northern Blvd
+Corona, NY 11368
+(40.758229958, -73.85148632)",40.758229958,-73.85148632
+Richmond,Grocery,Stop & Shop #512,Richmond Av,Staten Island,NY,10314,"Richmond Av
+Staten Island, NY 10314
+(40.598887445, -74.162748744)",40.598887445,-74.162748744
+Queens,Grocery,Farm Boy Country Market,Rockaway Blvd,South Ozone Park,NY,11420,"Rockaway Blvd
+South Ozone Park, NY 11420
+(40.675731403, -73.81669264)",40.675731403,-73.81669264
+Kings,Grocery,America's Food Basket,Atlantic Ave,Brooklyn,NY,11233,"Atlantic Ave
+Brooklyn, NY 11233
+(40.677061326, -73.922295575)",40.677061326,-73.922295575
+New York,Grocery,55 Fulton Market By Key Food,Fulton St,New York,NY,10038,"Fulton St
+New York, NY 10038
+(40.709057015, -74.005434302)",40.709057015,-74.005434302
+Bronx,Grocery,Shop Fair Supermarket,Brook Avenue,Bronx,NY,10454,"Brook Avenue
+Bronx, NY 10454
+(40.807899745, -73.9190213)",40.807899745,-73.9190213
+Queens,Grocery,Trade Fair,36th Avenue,Long Island City,NY,11106,"36th Avenue
+Long Island City, NY 11106
+(40.762267495, -73.94353094)",40.762267495,-73.94353094
+Queens,Grocery,Key Food,Queens Blvd.,Forest Hills,NY,11375,"Queens Blvd.
+Forest Hills, NY 11375
+(40.718826368, -73.837854521)",40.718826368,-73.837854521
+Kings,Grocery,Ideal Food Basket,St Johns Place,Brooklyn,NY,11213,"St Johns Place
+Brooklyn, NY 11213
+(40.670881081, -73.936499853)",40.670881081,-73.936499853
+Kings,Grocery,Feng Tai Market Inc.,8th Avenue,Brooklyn,NY,11220,"8th Avenue
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+New York,Grocery,J & F Meat Market Corp.,Amsterdam Ave,New York,NY,10032,"Amsterdam Ave
+New York, NY 10032
+(40.83660589, -73.939302751)",40.83660589,-73.939302751
+Queens,Grocery,Valentino Food Market,Fresh Pond Road,Ridgewood,NY,11385,"Fresh Pond Road
+Ridgewood, NY 11385
+(40.706887204, -73.897125209)",40.706887204,-73.897125209
+Kings,Grocery,Brooklyn Harvest Market,3rd Avenue,Brooklyn,NY,11209,"3rd Avenue
+Brooklyn, NY 11209
+(40.624059334, -74.030818893)",40.624059334,-74.030818893
+Bronx,Grocery,C-Town Supermarkets,Unionport Road,Bronx,NY,10462,"Unionport Road
+Bronx, NY 10462
+(40.836193777, -73.856142073)",40.836193777,-73.856142073
+Richmond,Grocery,Superfresh,Manor Road,Staten Island,NY,10314,"Manor Road
+Staten Island, NY 10314
+(40.61120088, -74.121807871)",40.61120088,-74.121807871
+Queens,Grocery,J & P Guyana & West Indian Fish & G,Liberty Avenue,South Richmond Hil,NY,11419,"Liberty Avenue
+South Richmond Hil, NY 11419
+(40.685869996, -73.825910033)",40.685869996,-73.825910033
+Queens,Grocery,Three Brothers Meat Market,Central Ave,Far Rockaway,NY,11691,"Central Ave
+Far Rockaway, NY 11691
+(40.607551944, -73.749087771)",40.607551944,-73.749087771
+Kings,Grocery,R & I Grocery Inc.,8th Avenue,Brooklyn,NY,11232,"8th Avenue
+Brooklyn, NY 11232
+(40.646048638, -73.998557857)",40.646048638,-73.998557857
+New York,Grocery,Fine Fare,St Nicholas Ave,New York,NY,10040,"St Nicholas Ave
+New York, NY 10040
+(40.855092118, -73.929508329)",40.855092118,-73.929508329
+Kings,Grocery,Melissa Meat Market Corp.,Sutter Ave,Brooklyn,NY,11207,"Sutter Ave
+Brooklyn, NY 11207
+(40.669741311, -73.892734464)",40.669741311,-73.892734464
+New York,Grocery,Key Food Supermarket,Broadway,New York,NY,10031,"Broadway
+New York, NY 10031
+(40.825168807, -73.951470904)",40.825168807,-73.951470904
+Bronx,Grocery,Western Beef #35,Rosedale Avenue,Bronx,NY,10473,"Rosedale Avenue
+Bronx, NY 10473
+(40.819628776, -73.866407647)",40.819628776,-73.866407647
+Bronx,Grocery,Nunez Cousins Grocery Corp,Watson Avenue,Bronx,NY,10472,"Watson Avenue
+Bronx, NY 10472
+(40.827662314, -73.866468109)",40.827662314,-73.866468109
+Bronx,Grocery,Pioneer Supermarkets,White Plains Road,Bronx,NY,10467,"White Plains Road
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Kings,Grocery,Asian Super Market And Halal Meat I,Pitkin Av,Brooklyn,NY,11208,"Pitkin Av
+Brooklyn, NY 11208
+(40.675242314, -73.872989428)",40.675242314,-73.872989428
+Queens,Grocery,Gnm Deli & Grocery Inc.,147th Av,Springfield Garden,NY,11413,"147th Av
+Springfield Garden, NY 11413
+(40.658418506, -73.754734596)",40.658418506,-73.754734596
+Bronx,Grocery,Bronx Market Place,W. 183rd Street,Bronx,NY,10453,"W. 183rd Street
+Bronx, NY 10453
+(40.859957526, -73.908448889)",40.859957526,-73.908448889
+Bronx,Grocery,Mango Grocery & Meat Market Corp.,East 196th Street,Bronx,NY,10468,"East 196th Street
+Bronx, NY 10468
+(40.86788998, -73.893019992)",40.86788998,-73.893019992
+Bronx,Grocery,Stop & Shop #503,Broadway,Bronx,NY,10463,"Broadway
+Bronx, NY 10463
+(40.881507219, -73.902970873)",40.881507219,-73.902970873
+Richmond,Grocery,Keyfood Fresh,Port Richmond Ave,Staten Island,NY,10302,"Port Richmond Ave
+Staten Island, NY 10302
+(40.631909075, -74.138037464)",40.631909075,-74.138037464
+Kings,Grocery,New Tayeeba's Grocery Corp.,Avenue J,Brooklyn,NY,11230,"Avenue J
+Brooklyn, NY 11230
+(40.624626054, -73.966611167)",40.624626054,-73.966611167
+Kings,Grocery,City Fresh Market,Pennsylvania Ave,Brooklyn,NY,11239,"Pennsylvania Ave
+Brooklyn, NY 11239
+(40.64753334, -73.881531078)",40.64753334,-73.881531078
+Kings,Grocery,Ideal Food Basket,4th Avenue,Brooklyn,NY,11232,"4th Avenue
+Brooklyn, NY 11232
+(40.657140347, -74.001578992)",40.657140347,-74.001578992
+Kings,Grocery,Pioneer Fresh Market,Stanley Ave,Brooklyn,NY,11207,"Stanley Ave
+Brooklyn, NY 11207
+(40.657490593, -73.888232613)",40.657490593,-73.888232613
+Queens,Grocery,Yailin Food Corp.,Jamaica Avenue,Jamaica,NY,11423,"Jamaica Avenue
+Jamaica, NY 11423
+(40.70940933, -73.775043208)",40.70940933,-73.775043208
+Kings,Grocery,Buy-Best Grocery Inc.,8th Ave,Brooklyn,NY,11220,"8th Ave
+Brooklyn, NY 11220
+(40.637397818, -74.007554402)",40.637397818,-74.007554402
+Queens,Grocery,Baylor Grocery Inc.,Northern Blvd,Flushing,NY,11354,"Northern Blvd
+Flushing, NY 11354
+(40.764797432, -73.822335749)",40.764797432,-73.822335749
+Bronx,Grocery,"2363 Rosewood Grocery, Inc.",White Plains Road,Bronx,NY,10467,"White Plains Road
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Bronx,Grocery,Sedgwick Marketplace,Sedgwick Avenue,Bronx,NY,10468,"Sedgwick Avenue
+Bronx, NY 10468
+(40.869493449, -73.904187065)",40.869493449,-73.904187065
+Queens,Grocery,Mi Tierra Supermarket,Roosevelt Ave,Jackson Heights,NY,11372,"Roosevelt Ave
+Jackson Heights, NY 11372
+(40.747096878, -73.888987581)",40.747096878,-73.888987581
+New York,Grocery,Key Food Fresh,Amsterdam Ave,New York,NY,10025,"Amsterdam Ave
+New York, NY 10025
+(40.79884961, -73.966882739)",40.79884961,-73.966882739
+Queens,Grocery,Al-Yemeni Market,Woodward Avenue,Ridgewood,NY,11385,"Woodward Avenue
+Ridgewood, NY 11385
+(40.708090636, -73.911103639)",40.708090636,-73.911103639
+Queens,Grocery,Key Food,Rockaway Beach Blvd,Rockaway Beach,NY,11693,"Rockaway Beach Blvd
+Rockaway Beach, NY 11693
+(40.587456972, -73.811926691)",40.587456972,-73.811926691
+Bronx,Grocery,Pioneer Supermarket,St. Anns Avenue,Bronx,NY,10454,"St. Anns Avenue
+Bronx, NY 10454
+(40.807277919, -73.917174712)",40.807277919,-73.917174712
+Kings,Grocery,Shop Fair Supermarket Supermarket,Myrtle Avenue,Brooklyn,NY,11206,"Myrtle Avenue
+Brooklyn, NY 11206
+(40.696058921, -73.943251594)",40.696058921,-73.943251594
+Queens,Grocery,Bravo,Guy R Brewer Blvd,Jamaica,NY,11433,"Guy R Brewer Blvd
+Jamaica, NY 11433
+(40.702463213, -73.795506941)",40.702463213,-73.795506941
+Bronx,Grocery,Al-Amin Halal Fish Meat And Groceri,E Burnside Avenue,Bronx,NY,10457,"E Burnside Avenue
+Bronx, NY 10457
+(40.851333534, -73.902155417)",40.851333534,-73.902155417
+Kings,Grocery,Pioneer,Broadway,Brooklyn,NY,11207,"Broadway
+Brooklyn, NY 11207
+(40.683079269, -73.910795599)",40.683079269,-73.910795599
+New York,Grocery,Family Fruit & Meat Market Corp.,Saint Nicholas Ave,New York,NY,10033,"Saint Nicholas Ave
+New York, NY 10033
+(40.848600208, -73.934262238)",40.848600208,-73.934262238
+Bronx,Grocery,Key Food,Boston Road,Bronx,NY,10460,"Boston Road
+Bronx, NY 10460
+(40.836017827, -73.890129214)",40.836017827,-73.890129214
+Queens,Grocery,"69-21 Mini Market, Inc.",Myrtle Ave,Glendale,NY,11385,"Myrtle Ave
+Glendale, NY 11385
+(40.702565345, -73.873209171)",40.702565345,-73.873209171
+Bronx,Grocery,Foodtown #528,Third Avenue,Bronx,NY,10451,"Third Avenue
+Bronx, NY 10451
+(40.821787595, -73.911971928)",40.821787595,-73.911971928
+Queens,Grocery,Shop Fair Supermarket,Cornaga Avenue,Far Rockaway,NY,11691,"Cornaga Avenue
+Far Rockaway, NY 11691
+(40.603188647, -73.747016676)",40.603188647,-73.747016676
+Queens,Grocery,Food Plus Supermarket,Kissena Blvd,Flushing,NY,11355,"Kissena Blvd
+Flushing, NY 11355
+(40.755328445, -73.824509811)",40.755328445,-73.824509811
+Kings,Grocery,Brooklyn Harvest Market,North 5th St,Brooklyn,NY,11249,"North 5th St
+Brooklyn, NY 11249
+(40.718347074, -73.961542995)",40.718347074,-73.961542995
+Kings,Grocery,Food Bazaar,Saint Johns Pl,Brooklyn,NY,11233,"Saint Johns Pl
+Brooklyn, NY 11233
+(40.670116889, -73.922219733)",40.670116889,-73.922219733
+New York,Grocery,C-Town Supermarkets,Avenue C,New York,NY,10009,"Avenue C
+New York, NY 10009
+(40.727801292, -73.976143943)",40.727801292,-73.976143943
+Queens,Grocery,Farm Country Supermarket,31st Ave,East Elmhurst,NY,11370,"31st Ave
+East Elmhurst, NY 11370
+(40.758789552, -73.89021913)",40.758789552,-73.89021913
+New York,Grocery,City Fresh Market,Third Ave,New York,NY,10035,"Third Ave
+New York, NY 10035
+(40.801789522, -73.937215756)",40.801789522,-73.937215756
+Kings,Grocery,Ideal Food Basket,Coney Island Ave,Brooklyn,NY,11218,"Coney Island Ave
+Brooklyn, NY 11218
+(40.642233074, -73.969645416)",40.642233074,-73.969645416
+Kings,Grocery,Dwip Bangla Grocery Inc,Beverley Road,Brooklyn,NY,11218,"Beverley Road
+Brooklyn, NY 11218
+(40.64360558, -73.971319196)",40.64360558,-73.971319196
+Kings,Grocery,Luna Grocery Store Corp.,Hegeman Ave,Brooklyn,NY,11208,"Hegeman Ave
+Brooklyn, NY 11208
+(40.666245497, -73.876926788)",40.666245497,-73.876926788
+Bronx,Grocery,C-Town Supermarkets,Katonah Avenue,Bronx,NY,10470,"Katonah Avenue
+Bronx, NY 10470
+(40.899231505, -73.86750074)",40.899231505,-73.86750074
+Kings,Grocery,Food Way,Ralph Avenue,Brooklyn,NY,11234,"Ralph Avenue
+Brooklyn, NY 11234
+(40.625225037, -73.917869494)",40.625225037,-73.917869494
+Bronx,Grocery,Cherry Valley Market Place,Webster Avenue,Bronx,NY,10458,"Webster Avenue
+Bronx, NY 10458
+(40.861257292, -73.8918215)",40.861257292,-73.8918215
+Queens,Grocery,Market Place Supermarket,Liberty Avenue,Ozone Park,NY,11417,"Liberty Avenue
+Ozone Park, NY 11417
+(40.682434374, -73.836058628)",40.682434374,-73.836058628
+Kings,Grocery,Health Plus Pharmacy,Fulton Street,Brooklyn,NY,11216,"Fulton Street
+Brooklyn, NY 11216
+(40.680257406, -73.947077748)",40.680257406,-73.947077748
+Queens,Grocery,Lee Stop 1 Market Corp,103rd Street,Corona,NY,11368,"103rd Street
+Corona, NY 11368
+(40.753665691, -73.86463592)",40.753665691,-73.86463592
+Kings,Grocery,Super 77 Market Inc,New Utrecht Av,Brooklyn,NY,11214,"New Utrecht Av
+Brooklyn, NY 11214
+(40.61121479, -74.001246421)",40.61121479,-74.001246421
+New York,Grocery,Metro Acres Market,Clinton Street,New York,NY,10002,"Clinton Street
+New York, NY 10002
+(40.714099894, -73.987154243)",40.714099894,-73.987154243
+Bronx,Grocery,Jeffrey Deli Grocery Inc,Valentine Avenue,Bronx,NY,10457,"Valentine Avenue
+Bronx, NY 10457
+(40.852492267, -73.900018525)",40.852492267,-73.900018525
+Kings,Grocery,One Stop Farm Corp.,Caton Av,Brooklyn,NY,11218,"Caton Av
+Brooklyn, NY 11218
+(40.647760452, -73.974673375)",40.647760452,-73.974673375
+Queens,Grocery,Key Food Supermarket,Lefferts Blvd,Richmond Hill,NY,11418,"Lefferts Blvd
+Richmond Hill, NY 11418
+(40.697767785, -73.829822998)",40.697767785,-73.829822998
+Kings,Grocery,Fine Fare,Mermaid Ave,Brooklyn,NY,11224,"Mermaid Ave
+Brooklyn, NY 11224
+(40.575824174, -73.992160428)",40.575824174,-73.992160428
+Queens,Grocery,Ideal Food Basket,Sutphin Blvd,Jamaica,NY,11435,"Sutphin Blvd
+Jamaica, NY 11435
+(40.695351298, -73.803275523)",40.695351298,-73.803275523
+New York,Grocery,Brooklyn Fare,West End Avenue,New York,NY,10023,"West End Avenue
+New York, NY 10023
+(40.777116797, -73.986439895)",40.777116797,-73.986439895
+Kings,Grocery,Nafaya Food Service Corp,Bedford Avenue,Brooklyn,NY,11225,"Bedford Avenue
+Brooklyn, NY 11225
+(40.662962045, -73.957150735)",40.662962045,-73.957150735
+Kings,Grocery,Utica Meat Warehouse,Utica Av,Brooklyn,NY,11203,"Utica Av
+Brooklyn, NY 11203
+(40.650159197, -73.930216953)",40.650159197,-73.930216953
+Kings,Grocery,Bravo Supermarket,Humboldt Street,Brooklyn,NY,11206,"Humboldt Street
+Brooklyn, NY 11206
+(40.706432251, -73.941342124)",40.706432251,-73.941342124
+Queens,Grocery,Bowne Grocery Inc,Bowne St,Flushing,NY,11355,"Bowne St
+Flushing, NY 11355
+(40.752938492, -73.817401283)",40.752938492,-73.817401283
+Richmond,Grocery,Stop 1 & Targee Supermarket,Targee St,Staten Island,NY,10304,"Targee St
+Staten Island, NY 10304
+(40.612570939, -74.085067271)",40.612570939,-74.085067271
+Bronx,Grocery,Boston Rd Meat Market Produce Corp,Boston Road,Bronx,NY,10460,"Boston Road
+Bronx, NY 10460
+(40.836017827, -73.890129214)",40.836017827,-73.890129214
+Kings,Grocery,"Abdo Stop One Deli, Inc.",5th Ave,Brooklyn,NY,11220,"5th Ave
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+Queens,Grocery,Key Food,Hillside Ave,Queens Village,NY,11427,"Hillside Ave
+Queens Village, NY 11427
+(40.727006489, -73.749622415)",40.727006489,-73.749622415
+Kings,Grocery,C-Town Supermarkets,Graham Ave,Brooklyn,NY,11211,"Graham Ave
+Brooklyn, NY 11211
+(40.715190052, -73.944494836)",40.715190052,-73.944494836
+New York,Grocery,Wai Wah Market Inc.,Catherine Street,New York,NY,10038,"Catherine Street
+New York, NY 10038
+(40.711995451, -73.996940001)",40.711995451,-73.996940001
+Richmond,Grocery,Brighton Express Mart Corp,Westervelt Ave,Staten Island,NY,10301,"Westervelt Ave
+Staten Island, NY 10301
+(40.642354126, -74.083337079)",40.642354126,-74.083337079
+Richmond,Grocery,ShopRite Of Hylan Blvd,Hylan Blvd,Staten Island,NY,10306,"Hylan Blvd
+Staten Island, NY 10306
+(40.562493009, -74.117891604)",40.562493009,-74.117891604
+Queens,Grocery,Key Food #4,Cross Island Pkwy,Whitestone,NY,11357,"Cross Island Pkwy
+Whitestone, NY 11357
+(40.785557405, -73.799029662)",40.785557405,-73.799029662
+Bronx,Grocery,Met Fresh,Morris Park Avenue,Bronx,NY,10462,"Morris Park Avenue
+Bronx, NY 10462
+(40.846183265, -73.861500931)",40.846183265,-73.861500931
+New York,Grocery,Xcellente Supermarket,St. Nicholas Av,New York,NY,10040,"St. Nicholas Av
+New York, NY 10040
+(40.855092118, -73.929508329)",40.855092118,-73.929508329
+Kings,Grocery,Ocean Mini Mart,18th Av,Brooklyn,NY,11218,"18th Av
+Brooklyn, NY 11218
+(40.633000466, -73.972396437)",40.633000466,-73.972396437
+Bronx,Grocery,Westchester Deli Grocery Inc,Westchester Avenue,Bronx,NY,10461,"Westchester Avenue
+Bronx, NY 10461
+(40.84667827, -73.832720631)",40.84667827,-73.832720631
+Bronx,Grocery,Agramonte Grocery Store Corp,Stratford Avenue,Bronx,NY,10472,"Stratford Avenue
+Bronx, NY 10472
+(40.829100992, -73.875467652)",40.829100992,-73.875467652
+Bronx,Grocery,Key Food,White Plains Road,Bronx,NY,10467,"White Plains Road
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Queens,Grocery,Woodside Mini Market Corp.,47th St,Woodside,NY,11377,"47th St
+Woodside, NY 11377
+(40.737592364, -73.918864243)",40.737592364,-73.918864243
+Bronx,Grocery,Keyfood Fresh,Castle Hill Avenue,Bronx,NY,10473,"Castle Hill Avenue
+Bronx, NY 10473
+(40.81923468, -73.848082644)",40.81923468,-73.848082644
+Queens,Grocery,Ideal Food Basket,Hillside Ave,Jamaica,NY,11432,"Hillside Ave
+Jamaica, NY 11432
+(40.711010006, -73.792219979)",40.711010006,-73.792219979
+Bronx,Grocery,Banesa Deli Grocery#2,Anthony Avenue,Bronx,NY,10457,"Anthony Avenue
+Bronx, NY 10457
+(40.843425596, -73.90456119)",40.843425596,-73.90456119
+Bronx,Grocery,Watson Market,Watson Avenue,Bronx,NY,10472,"Watson Avenue
+Bronx, NY 10472
+(40.827662314, -73.866468109)",40.827662314,-73.866468109
+Bronx,Grocery,La Gran Famosa Food Market Corp.,Grand Avenue,Bronx,NY,10453,"Grand Avenue
+Bronx, NY 10453
+(40.855393941, -73.908128878)",40.855393941,-73.908128878
+Bronx,Grocery,20/20 Deli,Southern Boulevard,Bronx,NY,10459,"Southern Boulevard
+Bronx, NY 10459
+(40.82386322, -73.891859421)",40.82386322,-73.891859421
+Kings,Grocery,Key Food Fresh,Saint Marks Avenue,Brooklyn,NY,11238,"Saint Marks Avenue
+Brooklyn, NY 11238
+(40.677573653, -73.963884399)",40.677573653,-73.963884399
+New York,Grocery,Western Beef Retail Inc. #016,West 16th Street,New York,NY,10011,"West 16th Street
+New York, NY 10011
+(40.740680399, -74.000612585)",40.740680399,-74.000612585
+Kings,Grocery,Key Food,18th Avenue,Brooklyn,NY,11214,"18th Avenue
+Brooklyn, NY 11214
+(40.607133296, -74.002764234)",40.607133296,-74.002764234
+Kings,Grocery,Hadera Inc.,Kings Highway,Brooklyn,NY,11223,"Kings Highway
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Kings,Grocery,New Punjab Grocery Corp.,Coney Island Ave,Brooklyn,NY,11230,"Coney Island Ave
+Brooklyn, NY 11230
+(40.625636612, -73.965312159)",40.625636612,-73.965312159
+New York,Grocery,Washington Height Grocery Inc,Amsterdam Ave,New York,NY,10032,"Amsterdam Ave
+New York, NY 10032
+(40.83660589, -73.939302751)",40.83660589,-73.939302751
+Richmond,Grocery,Key Food,Bay St,Staten Island,NY,10301,"Bay St
+Staten Island, NY 10301
+(40.638908452, -74.075705355)",40.638908452,-74.075705355
+Queens,Grocery,Target Store T-1344,Queens Blvd,Elmhurst,NY,11373,"Queens Blvd
+Elmhurst, NY 11373
+(40.737049444, -73.878460326)",40.737049444,-73.878460326
+Bronx,Grocery,Fine Fare Supermarket,White Plains Road,Bronx,NY,10467,"White Plains Road
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Kings,Grocery,Lucky Sunshine Grocery Inc,14th Ave,Brooklyn,NY,11219,"14th Ave
+Brooklyn, NY 11219
+(40.630274514, -73.993475503)",40.630274514,-73.993475503
+Queens,Grocery,Golden Farms,77th St,Ozone Park,NY,11416,"77th St
+Ozone Park, NY 11416
+(40.682158811, -73.861536384)",40.682158811,-73.861536384
+Bronx,Grocery,S & W Supermarket Inc,East Tremont Avenue,Bronx,NY,10465,"East Tremont Avenue
+Bronx, NY 10465
+(40.824453, -73.820251387)",40.824453,-73.820251387
+Bronx,Grocery,Foodtown,White Plains Road,Bronx,NY,10466,"White Plains Road
+Bronx, NY 10466
+(40.892130306, -73.858120818)",40.892130306,-73.858120818
+Kings,Grocery,Super Fresh,Bay Ridge Ave,Brooklyn,NY,11220,"Bay Ridge Ave
+Brooklyn, NY 11220
+(40.630025309, -74.014379686)",40.630025309,-74.014379686
+Bronx,Grocery,"J & W Food Center,corp",Leggett Avenue,Bronx,NY,10455,"Leggett Avenue
+Bronx, NY 10455
+(40.814740128, -73.89994788)",40.814740128,-73.89994788
+Bronx,Grocery,Los Hijos De Chorro Deli Grocery Ii,Grand Concourse,Bronx,NY,10456,"Grand Concourse
+Bronx, NY 10456
+(40.835330509, -73.916674182)",40.835330509,-73.916674182
+Bronx,Grocery,"Fruit Market Of Kings, Llc",Perry Avenue,Bronx,NY,10467,"Perry Avenue
+Bronx, NY 10467
+(40.875637156, -73.876396537)",40.875637156,-73.876396537
+Bronx,Grocery,Tony Fruits & Grocery Corp,East 174th Street,Bronx,NY,10460,"East 174th Street
+Bronx, NY 10460
+(40.836372162, -73.884819878)",40.836372162,-73.884819878
+Kings,Grocery,Fine Fare Supermarket,Saratoga Ave,Brooklyn,NY,11212,"Saratoga Ave
+Brooklyn, NY 11212
+(40.663429178, -73.915960868)",40.663429178,-73.915960868
+Queens,Grocery,Friendly 88 Grocery Inc,92nd Street,Jackson Heights,NY,11372,"92nd Street
+Jackson Heights, NY 11372
+(40.752568416, -73.87535508)",40.752568416,-73.87535508
+Queens,Grocery,Happy Bebe Corp.,103rd Street,Corona,NY,11368,"103rd Street
+Corona, NY 11368
+(40.753665691, -73.86463592)",40.753665691,-73.86463592
+Kings,Grocery,Adam's Deli On Kings Highway Corp,Kings Highway,Brooklyn,NY,11223,"Kings Highway
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Queens,Grocery,C Town Fresh,24th Avenue,Astoria,NY,11102,"24th Avenue
+Astoria, NY 11102
+(40.774472502, -73.918482377)",40.774472502,-73.918482377
+Queens,Grocery,Bravo Mini Market Inc,Woodside Ave,Woodside,NY,11377,"Woodside Ave
+Woodside, NY 11377
+(40.745062465, -73.904276369)",40.745062465,-73.904276369
+Kings,Grocery,The Food Emporium,Lafayette Ave,Brooklyn,NY,11238,"Lafayette Ave
+Brooklyn, NY 11238
+(40.688293674, -73.964985513)",40.688293674,-73.964985513
+Kings,Grocery,Sam's Grocery,Rockaway Pkwy,Brooklyn,NY,11236,"Rockaway Pkwy
+Brooklyn, NY 11236
+(40.64051526, -73.897153295)",40.64051526,-73.897153295
+Bronx,Grocery,Faso African Market,Westchester Avenue,Bronx,NY,10459,"Westchester Avenue
+Bronx, NY 10459
+(40.825623809, -73.890052467)",40.825623809,-73.890052467
+New York,Grocery,Liberty Bagel Deli & Grocery,Ninth Ave,New York,NY,10019,"Ninth Ave
+New York, NY 10019
+(40.765727994, -73.987315104)",40.765727994,-73.987315104
+Kings,Grocery,18th Avenue Smoke Shop Discount Ltd,18th Av,Brooklyn,NY,11214,"18th Av
+Brooklyn, NY 11214
+(40.607133296, -74.002764234)",40.607133296,-74.002764234
+Queens,Grocery,C-Town Supermarkets,Jamaica Avenue,Jamaica,NY,11423,"Jamaica Avenue
+Jamaica, NY 11423
+(40.70940933, -73.775043208)",40.70940933,-73.775043208
+Queens,Grocery,Billy's Marketplace,Cypress Ave,Ridgewood,NY,11385,"Cypress Ave
+Ridgewood, NY 11385
+(40.702572816, -73.910351227)",40.702572816,-73.910351227
+Kings,Grocery,Ozzie's Freshmarket,Grand St,Brooklyn,NY,11211,"Grand St
+Brooklyn, NY 11211
+(40.711790838, -73.942107374)",40.711790838,-73.942107374
+Bronx,Grocery,El Corral Meat Market Corp,Morrison Avenue,Bronx,NY,10472,"Morrison Avenue
+Bronx, NY 10472
+(40.829198493, -73.874491711)",40.829198493,-73.874491711
+Queens,Grocery,Maliki Grocery Inc,Liberty Avenue,South Richmond Hil,NY,11419,"Liberty Avenue
+South Richmond Hil, NY 11419
+(40.685869996, -73.825910033)",40.685869996,-73.825910033
+Queens,Grocery,Shop Fair Supermarket,89th Ave,Jamaica,NY,11432,"89th Ave
+Jamaica, NY 11432
+(40.707177087, -73.797818183)",40.707177087,-73.797818183
+Bronx,Grocery,Food Dynasty,W Burnside Avenue,Bronx,NY,10453,"W Burnside Avenue
+Bronx, NY 10453
+(40.853962219, -73.914709793)",40.853962219,-73.914709793
+Kings,Grocery,Almadinah Halal Market Corp,Avenue Z,Brooklyn,NY,11235,"Avenue Z
+Brooklyn, NY 11235
+(40.588359807, -73.950761974)",40.588359807,-73.950761974
+Bronx,Grocery,Food Choice Market,White Plains Road,Bronx,NY,10467,"White Plains Road
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Kings,Grocery,"Ms. Convenience, Inc.",4th Ave,Brooklyn,NY,11209,"4th Ave
+Brooklyn, NY 11209
+(40.622721585, -74.02838521)",40.622721585,-74.02838521
+Kings,Grocery,Associated Supermarket,Pitkin Av,Brooklyn,NY,11208,"Pitkin Av
+Brooklyn, NY 11208
+(40.675242314, -73.872989428)",40.675242314,-73.872989428
+Bronx,Grocery,Fine Fare,Webster Avenue,Bronx,NY,10458,"Webster Avenue
+Bronx, NY 10458
+(40.861257292, -73.8918215)",40.861257292,-73.8918215
+Kings,Grocery,Super Fresh,13th Ave,Brooklyn,NY,11228,"13th Ave
+Brooklyn, NY 11228
+(40.618881412, -74.00889746)",40.618881412,-74.00889746
+Queens,Grocery,Fresh N Save,Myrtle Ave,Ridgewood,NY,11385,"Myrtle Ave
+Ridgewood, NY 11385
+(40.702500624, -73.873977684)",40.702500624,-73.873977684
+Queens,Grocery,Mp Mini Market Corp.,90th Ave,Jamaica,NY,11435,"90th Ave
+Jamaica, NY 11435
+(40.703330784, -73.80679717)",40.703330784,-73.80679717
+Queens,Grocery,Shop Fair Supermarket Supermarket,Beach Channel Drive,Far Rockaway,NY,11691,"Beach Channel Drive
+Far Rockaway, NY 11691
+(40.602069524, -73.759445958)",40.602069524,-73.759445958
+Richmond,Grocery,Don Panchito Meat Market Inc.,Victory Blvd,Staten Island,NY,10301,"Victory Blvd
+Staten Island, NY 10301
+(40.625627129, -74.092403522)",40.625627129,-74.092403522
+Kings,Grocery,Associated Supermarket,Lorraine Street,Brooklyn,NY,11231,"Lorraine Street
+Brooklyn, NY 11231
+(40.673695636, -74.004461023)",40.673695636,-74.004461023
+Bronx,Grocery,Cofaci Foods Inc,Brook Ave,Bronx,NY,10454,"Brook Ave
+Bronx, NY 10454
+(40.807899745, -73.9190213)",40.807899745,-73.9190213
+Richmond,Grocery,Top Tomato,Bay Street,Staten Island,NY,10305,"Bay Street
+Staten Island, NY 10305
+(40.61342864, -74.06564596)",40.61342864,-74.06564596
+New York,Grocery,C-Town Supermarkets,Frederick Douglass Blvd,New York,NY,10027,"Frederick Douglass Blvd
+New York, NY 10027
+(40.809498493, -73.95166115)",40.809498493,-73.95166115
+Queens,Grocery,Hillside Halal Meat & Grocery Inc,Hillside Ave,Jamaica,NY,11435,"Hillside Ave
+Jamaica, NY 11435
+(40.706557435, -73.806823967)",40.706557435,-73.806823967
+Kings,Grocery,Key Food,Wyckoff Ave,Brooklyn,NY,11237,"Wyckoff Ave
+Brooklyn, NY 11237
+(40.703431233, -73.917829949)",40.703431233,-73.917829949
+Queens,Grocery,Associated,Seneca Av,Ridgewood,NY,11385,"Seneca Av
+Ridgewood, NY 11385
+(40.710655011, -73.920980009)",40.710655011,-73.920980009
+Richmond,Grocery,New King Food,Broadway,Staten Island,NY,10310,"Broadway
+Staten Island, NY 10310
+(40.630610962, -74.116485844)",40.630610962,-74.116485844
+Kings,Grocery,Key Food,Neptune Ave,Brooklyn,NY,11224,"Neptune Ave
+Brooklyn, NY 11224
+(40.578996142, -73.984752702)",40.578996142,-73.984752702
+Kings,Grocery,Adam's Deli On The Corner Corp,Kings Highway,Brooklyn,NY,11223,"Kings Highway
+Brooklyn, NY 11223
+(40.60513316, -73.979811784)",40.60513316,-73.979811784
+Bronx,Grocery,Angelos Deli-Grocery No. 2 Corp.,East Mount Eden Avenue,Bronx,NY,10452,"East Mount Eden Avenue
+Bronx, NY 10452
+(40.84338868, -73.912623983)",40.84338868,-73.912623983
+Kings,Grocery,"The Kosher Food Depot, Inc.",42nd St,Brooklyn,NY,11219,"42nd St
+Brooklyn, NY 11219
+(40.639603763, -73.989121127)",40.639603763,-73.989121127
+Bronx,Grocery,Food Bazaar,East 163rd Street,Bronx,NY,10451,"East 163rd Street
+Bronx, NY 10451
+(40.827426721, -73.918076241)",40.827426721,-73.918076241
+Bronx,Grocery,Deli Mini Market Corp.,Inwood Ave,Bronx,NY,10452,"Inwood Ave
+Bronx, NY 10452
+(40.845675003, -73.915224994)",40.845675003,-73.915224994
+New York,Grocery,Shop Fair Supermarket,Broadway,New York,NY,10032,"Broadway
+New York, NY 10032
+(40.837924012, -73.942152848)",40.837924012,-73.942152848
+Bronx,Grocery,Morton Williams Supermarket,E Kingsbridge Road,Bronx,NY,10468,"E Kingsbridge Road
+Bronx, NY 10468
+(40.866779937, -73.895772201)",40.866779937,-73.895772201
+Kings,Grocery,Key Food,Broadway,Brooklyn,NY,11221,"Broadway
+Brooklyn, NY 11221
+(40.69447544, -73.93078414)",40.69447544,-73.93078414
+Queens,Grocery,Fresh N Save,Skillman Ave,Woodside,NY,11377,"Skillman Ave
+Woodside, NY 11377
+(40.745747437, -73.91092113)",40.745747437,-73.91092113
+Bronx,Grocery,Food Dynasty,Westchester Avenue,Bronx,NY,10472,"Westchester Avenue
+Bronx, NY 10472
+(40.829950172, -73.873054095)",40.829950172,-73.873054095
+Queens,Grocery,Target Store T-1150,20th Ave,College Point,NY,11356,"20th Ave
+College Point, NY 11356
+(40.781705098, -73.843860479)",40.781705098,-73.843860479
+Queens,Grocery,Ideal Food Basket,Foch Blvd,Jamaica,NY,11436,"Foch Blvd
+Jamaica, NY 11436
+(40.679178189, -73.797919481)",40.679178189,-73.797919481
+New York,Grocery,Key Food,Lenox Ave,New York,NY,10037,"Lenox Ave
+New York, NY 10037
+(40.815716285, -73.939766325)",40.815716285,-73.939766325
+Bronx,Grocery,Foodtown #582,East 204th Street,Bronx,NY,10467,"East 204th Street
+Bronx, NY 10467
+(40.872131927, -73.877772155)",40.872131927,-73.877772155
+Kings,Grocery,Dumbo Market,Front Street,Brooklyn,NY,11201,"Front Street
+Brooklyn, NY 11201
+(40.702433512, -73.987246761)",40.702433512,-73.987246761
+Queens,Grocery,Los Latinos Mini Market Corp,Redfern Ave,Far Rockaway,NY,11691,"Redfern Ave
+Far Rockaway, NY 11691
+(40.608924912, -73.75151423)",40.608924912,-73.75151423
+Bronx,Grocery,D & A Deli Grocery Corp.,Valentine Avenue,Bronx,NY,10458,"Valentine Avenue
+Bronx, NY 10458
+(40.860727921, -73.896534283)",40.860727921,-73.896534283
+Kings,Grocery,Bravo Supermarket,Bedford Ave,Brooklyn,NY,11205,"Bedford Ave
+Brooklyn, NY 11205
+(40.693843002, -73.955978848)",40.693843002,-73.955978848
+Bronx,Grocery,Molina Mini Market Corp,Grand Concourse,Bronx,NY,10456,"Grand Concourse
+Bronx, NY 10456
+(40.835330509, -73.916674182)",40.835330509,-73.916674182
+Kings,Grocery,Foodtown #587,3rd Ave,Brooklyn,NY,11209,"3rd Ave
+Brooklyn, NY 11209
+(40.624059334, -74.030818893)",40.624059334,-74.030818893
+Bronx,Grocery,Food Universe Marketplace,White Plains Road,Bronx,NY,10466,"White Plains Road
+Bronx, NY 10466
+(40.892130306, -73.858120818)",40.892130306,-73.858120818
+Bronx,Grocery,Western Beef #65,White Plains Road,Bronx,NY,10467,"White Plains Road
+Bronx, NY 10467
+(40.857975225, -73.867579994)",40.857975225,-73.867579994
+Bronx,Grocery,Stop & Shop #2594,Eastchester Road,Bronx,NY,10461,"Eastchester Road
+Bronx, NY 10461
+(40.852030159, -73.843790557)",40.852030159,-73.843790557
+Bronx,Grocery,Target Store T-2811,East Hutchinson River Pkwy,Bronx,NY,10465,"East Hutchinson River Pkwy
+Bronx, NY 10465
+(40.842881867, -73.836907382)",40.842881867,-73.836907382
+Bronx,Grocery,Pioneer Supermarket,Willis Avenue,Bronx,NY,10454,"Willis Avenue
+Bronx, NY 10454
+(40.809464021, -73.922627212)",40.809464021,-73.922627212
+Queens,Grocery,Super Fresh,Greenpoint Avenue,Sunnyside,NY,11104,"Greenpoint Avenue
+Sunnyside, NY 11104
+(40.740832735, -73.922163948)",40.740832735,-73.922163948
+Kings,Grocery,Food Universe,Rutland Road,Brooklyn,NY,11212,"Rutland Road
+Brooklyn, NY 11212
+(40.662947959, -73.925956907)",40.662947959,-73.925956907
+Kings,Grocery,"Weber's Fruit Store, Inc.",13th Avenue,Brooklyn,NY,11219,"13th Avenue
+Brooklyn, NY 11219
+(40.631580168, -73.995655412)",40.631580168,-73.995655412
+Queens,Grocery,City Fresh Market,Junction Blvd,Corona,NY,11368,"Junction Blvd
+Corona, NY 11368
+(40.744939992, -73.86789004)",40.744939992,-73.86789004
+Bronx,Grocery,1029 Food Plaza Inc,East 181st Street,Bronx,NY,10453,"East 181st Street
+Bronx, NY 10453
+(40.854602357, -73.901977643)",40.854602357,-73.901977643
+Bronx,Grocery,Emerald Food Store,Briggs Ave,Bronx,NY,10458,"Briggs Ave
+Bronx, NY 10458
+(40.868642982, -73.889531051)",40.868642982,-73.889531051
+New York,Grocery,C-Town Supermarkets,W 125th St,New York,NY,10027,"W 125th St
+New York, NY 10027
+(40.81695014, -73.959426152)",40.81695014,-73.959426152
+Queens,Grocery,C-Town Supermarkets,Sutphin Blvd,Jamaica,NY,11434,"Sutphin Blvd
+Jamaica, NY 11434
+(40.679467118, -73.791729837)",40.679467118,-73.791729837
+Bronx,Grocery,International Food Market,Watson Avenue,Bronx,NY,10472,"Watson Avenue
+Bronx, NY 10472
+(40.827662314, -73.866468109)",40.827662314,-73.866468109
+Bronx,Grocery,El Rancho Market Corp,East Kingsbridge Road,Bronx,NY,10468,"East Kingsbridge Road
+Bronx, NY 10468
+(40.866779937, -73.895772201)",40.866779937,-73.895772201
+Kings,Grocery,Food Bazaar,Manhattan Ave,Brooklyn,NY,11206,"Manhattan Ave
+Brooklyn, NY 11206
+(40.706829253, -73.944844196)",40.706829253,-73.944844196
+Bronx,Grocery,Josmar Mini Market Corp,East 149th Street,Bronx,NY,10455,"East 149th Street
+Bronx, NY 10455
+(40.812472163, -73.905399848)",40.812472163,-73.905399848
+Queens,Grocery,Lantigua Deli Corp.,14th St,Astoria,NY,11102,"14th St
+Astoria, NY 11102
+(40.77218045, -73.928925003)",40.77218045,-73.928925003
+Kings,Grocery,Pangpang Grocery Inc.,7th Avenue,Brooklyn,NY,11220,"7th Avenue
+Brooklyn, NY 11220
+(40.639888085, -74.00857688)",40.639888085,-74.00857688
+Kings,Grocery,Key Food,Sutter Avenue,Brooklyn,NY,11208,"Sutter Avenue
+Brooklyn, NY 11208
+(40.672700177, -73.872384276)",40.672700177,-73.872384276
+Kings,Grocery,"Lee Ave. Supermarket, Inc.",Lee Ave,Brooklyn,NY,11211,"Lee Ave
+Brooklyn, NY 11211
+(40.704744686, -73.958840853)",40.704744686,-73.958840853
+Kings,Grocery,Food Universe Marketplace,3rd Av,Brooklyn,NY,11232,"3rd Av
+Brooklyn, NY 11232
+(40.65852035, -74.003079823)",40.65852035,-74.003079823
+Kings,Grocery,Silver Star Farms,Nostrand Ave,Brooklyn,NY,11235,"Nostrand Ave
+Brooklyn, NY 11235
+(40.588820883, -73.939646793)",40.588820883,-73.939646793
+Bronx,Grocery,Compare Fresh,W Kingsbridge Road,Bronx,NY,10468,"W Kingsbridge Road
+Bronx, NY 10468
+(40.867635632, -73.898261977)",40.867635632,-73.898261977
+Kings,Grocery,Xin Rong Grocery Inc,18th Avenue,Brooklyn,NY,11204,"18th Avenue
+Brooklyn, NY 11204
+(40.628494225, -73.980802461)",40.628494225,-73.980802461
+Queens,Grocery,Bravo Supermarket,34th Avenue,Long Island City,NY,11106,"34th Avenue
+Long Island City, NY 11106
+(40.76158882, -73.931292248)",40.76158882,-73.931292248
+Queens,Grocery,Food Universe Marketplace,Beach Channel Drive,Far Rockaway,NY,11691,"Beach Channel Drive
+Far Rockaway, NY 11691
+(40.602069524, -73.759445958)",40.602069524,-73.759445958
+Kings,Grocery,Food Expo,Heyward St,Brooklyn,NY,11206,"Heyward St
+Brooklyn, NY 11206
+(40.703151334, -73.953839411)",40.703151334,-73.953839411
+Kings,Grocery,Shop Fair Supermarket,Fulton Street,Brooklyn,NY,11238,"Fulton Street
+Brooklyn, NY 11238
+(40.682997879, -73.964629285)",40.682997879,-73.964629285
+Queens,Grocery,Bangla Bazar Grocery And Halal Meat,35th Avenue,Jackson Heights,NY,11372,"35th Avenue
+Jackson Heights, NY 11372
+(40.751886822, -73.883778751)",40.751886822,-73.883778751
+Kings,Grocery,Kahans Superette Inc.,Kingston Avenue,Brooklyn,NY,11213,"Kingston Avenue
+Brooklyn, NY 11213
+(40.672885122, -73.941867251)",40.672885122,-73.941867251
+Kings,Grocery,"Colonial Deli, Inc.",Bay Ridge Ave,Brooklyn,NY,11220,"Bay Ridge Ave
+Brooklyn, NY 11220
+(40.630025309, -74.014379686)",40.630025309,-74.014379686
+Kings,Grocery,C-Town Supermarkets,Mill St,Brooklyn,NY,11231,"Mill St
+Brooklyn, NY 11231
+(40.675672164, -74.003702393)",40.675672164,-74.003702393
+Queens,Grocery,Mi Tierra Supermarket,37th Av,Corona,NY,11368,"37th Av
+Corona, NY 11368
+(40.758084995, -73.843264973)",40.758084995,-73.843264973
+Queens,Grocery,Stop & Shop #2580,26th Avenue,Bayside,NY,11360,"26th Avenue
+Bayside, NY 11360
+(40.77712619, -73.781291562)",40.77712619,-73.781291562
+Bronx,Grocery,Food Bazaar,East 161 Street,Bronx,NY,10451,"East 161 Street
+Bronx, NY 10451
+(40.826442846, -73.921289644)",40.826442846,-73.921289644
+Kings,Grocery,Key Food,Nostrand Av,Brooklyn,NY,11216,"Nostrand Av
+Brooklyn, NY 11216
+(40.679793269, -73.949569789)",40.679793269,-73.949569789
+Bronx,Grocery,ShopRite Of Bruckner Blvd,Bruckner Blvd,Bronx,NY,10473,"Bruckner Blvd
+Bronx, NY 10473
+(40.825271368, -73.862872932)",40.825271368,-73.862872932
+Kings,Grocery,A & M Grocery Store,Avenue D,Brooklyn,NY,11203,"Avenue D
+Brooklyn, NY 11203
+(40.641962238, -73.932229976)",40.641962238,-73.932229976
+Kings,Grocery,Kang Yi Inc.,5th Avenue,Brooklyn,NY,11232,"5th Avenue
+Brooklyn, NY 11232
+(40.654342786, -74.000687237)",40.654342786,-74.000687237
+Queens,Grocery,Stop & Shop #508,Myrtle Ave,Glendale,NY,11385,"Myrtle Ave
+Glendale, NY 11385
+(40.702565345, -73.873209171)",40.702565345,-73.873209171
+Bronx,Grocery,Gitto Farmer's Market,Laconia Avenue,Bronx,NY,10466,"Laconia Avenue
+Bronx, NY 10466
+(40.884053328, -73.849406663)",40.884053328,-73.849406663
+Kings,Grocery,Key Food,Nostrand Av,Brooklyn,NY,11225,"Nostrand Av
+Brooklyn, NY 11225
+(40.662950332, -73.950858267)",40.662950332,-73.950858267
+Kings,Grocery,C-Town Supermarkets,Liberty Avenue,Brooklyn,NY,11208,"Liberty Avenue
+Brooklyn, NY 11208
+(40.677596884, -73.874627323)",40.677596884,-73.874627323
+Kings,Grocery,C-Town Supermarkets,Manhattan Ave,Brooklyn,NY,11222,"Manhattan Ave
+Brooklyn, NY 11222
+(40.728275235, -73.953362197)",40.728275235,-73.953362197
+Kings,Grocery,S&z Bay Ridge Farmers Market Inc.,4th Ave,Brooklyn,NY,11209,"4th Ave
+Brooklyn, NY 11209
+(40.622721585, -74.02838521)",40.622721585,-74.02838521
+Richmond,Grocery,Western Beef #012,Forest Ave,Staten Island,NY,10303,"Forest Ave
+Staten Island, NY 10303
+(40.626920264, -74.163942896)",40.626920264,-74.163942896
+Kings,Grocery,ShopRite Of Gateway Center,Gateway Drive,Brooklyn,NY,11239,"Gateway Drive
+Brooklyn, NY 11239
+(40.651878398, -73.871201067)",40.651878398,-73.871201067
+Queens,Grocery,Met Fresh Supermarket,150th Street,Whitestone,NY,11357,"150th Street
+Whitestone, NY 11357
+(40.78774383, -73.813388888)",40.78774383,-73.813388888
+Queens,Grocery,Fine Fare Supermarket,Jamaica Avenue,Woodhaven,NY,11421,"Jamaica Avenue
+Woodhaven, NY 11421
+(40.692639509, -73.857066388)",40.692639509,-73.857066388
+Queens,Grocery,Mannan Supermarkets,Hillside Av,Jamaica,NY,11432,"Hillside Av
+Jamaica, NY 11432
+(40.711010006, -73.792219979)",40.711010006,-73.792219979
+Bronx,Grocery,Jama Deli Grocery Corp,Ogden Avenue,Bronx,NY,10452,"Ogden Avenue
+Bronx, NY 10452
+(40.837015744, -73.927069735)",40.837015744,-73.927069735
+Kings,Grocery,W Fresh Llc,Wallabout Street,Brooklyn,NY,11206,"Wallabout Street
+Brooklyn, NY 11206
+(40.700373207, -73.95106308)",40.700373207,-73.95106308
+Kings,Grocery,Urban Market,Fifth Avenue,Brooklyn,NY,11215,"Fifth Avenue
+Brooklyn, NY 11215
+(40.668128602, -73.987165162)",40.668128602,-73.987165162
+New York,Grocery,Fine Fare,West 135th St,New York,NY,10037,"West 135th St
+New York, NY 10037
+(40.813454546, -73.93927287)",40.813454546,-73.93927287
+Kings,Grocery,Ideal Food Basket,Washington Avenue,Brooklyn,NY,11238,"Washington Avenue
+Brooklyn, NY 11238
+(40.676308427, -73.963480053)",40.676308427,-73.963480053
+New York,Grocery,Target #2380,"E 117th St, Ste 201",New York,NY,10035,"E 117th St, Ste 201
+New York, NY 10035
+(40.798363893, -73.938892508)",40.798363893,-73.938892508
+Richmond,Grocery,Target Store T-2753,Richmond Avenue,Staten Island,NY,10314,"Richmond Avenue
+Staten Island, NY 10314
+(40.598887445, -74.162748744)",40.598887445,-74.162748744
+Kings,Grocery,Uncle & Cousins Deli Grocery Corp,Seaview Av,Brooklyn,NY,11236,"Seaview Av
+Brooklyn, NY 11236
+(40.629637202, -73.896253106)",40.629637202,-73.896253106
+Queens,Grocery,Food Bazaar,Junction Boulevard,Corona,NY,11368,"Junction Boulevard
+Corona, NY 11368
+(40.744939992, -73.86789004)",40.744939992,-73.86789004
+New York,Grocery,Cherry Valley Market Place,Second Ave,New York,NY,10029,"Second Ave
+New York, NY 10029
+(40.790626109, -73.942432808)",40.790626109,-73.942432808
+Kings,Grocery,Mundo Supermarket,Church Avenue,Brooklyn,NY,11226,"Church Avenue
+Brooklyn, NY 11226
+(40.647725722, -73.967413861)",40.647725722,-73.967413861
+Kings,Grocery,Bangla Nagar Supermarket,Church Ave,Brooklyn,NY,11218,"Church Ave
+Brooklyn, NY 11218
+(40.645041076, -73.974101779)",40.645041076,-73.974101779
+New York,Grocery,Henriquez Grocery,W 135th St,New York,NY,10031,"W 135th St
+New York, NY 10031
+(40.818066008, -73.950095403)",40.818066008,-73.950095403
+Queens,Grocery,Food Universe,Liberty Avenue,South Richmond Hil,NY,11419,"Liberty Avenue
+South Richmond Hil, NY 11419
+(40.685869996, -73.825910033)",40.685869996,-73.825910033
+Kings,Grocery,Key Food,Malcolm X Boulevard,Brooklyn,NY,11221,"Malcolm X Boulevard
+Brooklyn, NY 11221
+(40.689818392, -73.930442756)",40.689818392,-73.930442756
+Kings,Grocery,Associated,Church Avenue,Brooklyn,NY,11203,"Church Avenue
+Brooklyn, NY 11203
+(40.651604081, -73.933218454)",40.651604081,-73.933218454
+Bronx,Grocery,Associated Supermarket,East 167th Street,Bronx,NY,10456,"East 167th Street
+Bronx, NY 10456
+(40.831001581, -73.911466562)",40.831001581,-73.911466562
+Bronx,Grocery,Key Food,E. Tremont Avenue,Bronx,NY,10461,"E. Tremont Avenue
+Bronx, NY 10461
+(40.839669429, -73.836866509)",40.839669429,-73.836866509
+Queens,Grocery,Key Food,Lefferts Blvd,South Ozone Park,NY,11420,"Lefferts Blvd
+South Ozone Park, NY 11420
+(40.673157877, -73.820042478)",40.673157877,-73.820042478
+Bronx,Grocery,St. Peters Food Center Corp,Saint Peters Avenue,Bronx,NY,10461,"Saint Peters Avenue
+Bronx, NY 10461
+(40.840617657, -73.847686494)",40.840617657,-73.847686494
+Bronx,Grocery,Fine Fare,East Gun Hill Road,Bronx,NY,10467,"East Gun Hill Road
+Bronx, NY 10467
+(40.877231993, -73.865986845)",40.877231993,-73.865986845
+Kings,Grocery,"Avenue H Deli, Inc.",Avenue H,Brooklyn,NY,11234,"Avenue H
+Brooklyn, NY 11234
+(40.632775, -73.929704945)",40.632775,-73.929704945
+Bronx,Grocery,Fine Fare Supermarket,Fteley Avenue,Bronx,NY,10472,"Fteley Avenue
+Bronx, NY 10472
+(40.831444813, -73.872061297)",40.831444813,-73.872061297
+Kings,Grocery,You Jia Food Inc.,7th Avenue,Brooklyn,NY,11220,"7th Avenue
+Brooklyn, NY 11220
+(40.639888085, -74.00857688)",40.639888085,-74.00857688
+Bronx,Grocery,C-Town Supermarkets,Creston Avenue,Bronx,NY,10453,"Creston Avenue
+Bronx, NY 10453
+(40.853966032, -73.903717919)",40.853966032,-73.903717919
+Queens,Grocery,C-Town Supermarkets,Hillside Avenue,Jamaica,NY,11432,"Hillside Avenue
+Jamaica, NY 11432
+(40.711010006, -73.792219979)",40.711010006,-73.792219979
+Kings,Grocery,Food Universe,Remsen Avenue,Brooklyn,NY,11212,"Remsen Avenue
+Brooklyn, NY 11212
+(40.658806604, -73.926646162)",40.658806604,-73.926646162
+Bronx,Grocery,Paulino Deli Grocery Corp,Hunts Point Ave,Bronx,NY,10474,"Hunts Point Ave
+Bronx, NY 10474
+(40.814383135, -73.885687709)",40.814383135,-73.885687709
+Bronx,Grocery,Bravo Supermarket,Courtlandt Avenue,Bronx,NY,10451,"Courtlandt Avenue
+Bronx, NY 10451
+(40.819403832, -73.918250502)",40.819403832,-73.918250502
+Queens,Grocery,Key Food #8,73rd Ave,Bayside,NY,11364,"73rd Ave
+Bayside, NY 11364
+(40.739197333, -73.763549406)",40.739197333,-73.763549406
+Queens,Grocery,Trade Fair #5,Ditmars Blvd,Astoria,NY,11105,"Ditmars Blvd
+Astoria, NY 11105
+(40.775665734, -73.910044323)",40.775665734,-73.910044323
+Kings,Grocery,86 B'klyn Grocery Inc.,86th St,Brooklyn,NY,11214,"86th St
+Brooklyn, NY 11214
+(40.605296074, -73.999391361)",40.605296074,-73.999391361
+New York,Grocery,Key Food,Amsterdam Ave,New York,NY,10024,"Amsterdam Ave
+New York, NY 10024
+(40.786035087, -73.976214947)",40.786035087,-73.976214947
+Kings,Grocery,Farm Country,Linden Blvd,Brooklyn,NY,11207,"Linden Blvd
+Brooklyn, NY 11207
+(40.659007024, -73.889221475)",40.659007024,-73.889221475
+Bronx,Grocery,Camila Deli Market,Anderson Avenue,Bronx,NY,10452,"Anderson Avenue
+Bronx, NY 10452
+(40.83376716, -73.92603532)",40.83376716,-73.92603532
+Bronx,Grocery,Key Food 1766,East 167th Street,Bronx,NY,10456,"East 167th Street
+Bronx, NY 10456
+(40.831001581, -73.911466562)",40.831001581,-73.911466562
+Bronx,Grocery,Katelyn Food Center Inc,Park Avenue,Bronx,NY,10451,"Park Avenue
+Bronx, NY 10451
+(40.822059997, -73.920380033)",40.822059997,-73.920380033
+Bronx,Grocery,58 Burnside Food Corp,West Burnside Avenue,Bronx,NY,10453,"West Burnside Avenue
+Bronx, NY 10453
+(40.853962219, -73.914709793)",40.853962219,-73.914709793
+Bronx,Grocery,"Alex Food Ii, Corp.",Dr. Martin Luther King Jr. Blvd,Bronx,NY,10453,"Dr. Martin Luther King Jr. Blvd
+Bronx, NY 10453
+(40.850085818, -73.916160642)",40.850085818,-73.916160642
+Bronx,Grocery,Sagal Food,East Burnside Avenue,Bronx,NY,10453,"East Burnside Avenue
+Bronx, NY 10453
+(40.853109233, -73.905502168)",40.853109233,-73.905502168
+Kings,Grocery,Amin Grocery Corp.,18 Ave,Brooklyn,NY,11218,"18 Ave
+Brooklyn, NY 11218
+(40.633000466, -73.972396437)",40.633000466,-73.972396437
+Queens,Grocery,City Fresh Market,Broadway,Astoria,NY,11106,"Broadway
+Astoria, NY 11106
+(40.763484339, -73.928562832)",40.763484339,-73.928562832
+Kings,Grocery,"Kol Tuv Grocery, Inc.",Kingston Ave,Brooklyn,NY,11225,"Kingston Ave
+Brooklyn, NY 11225
+(40.663215364, -73.94277617)",40.663215364,-73.94277617
+Bronx,Grocery,Latin Deli Grocery Llc,Zerega Avenue,Bronx,NY,10462,"Zerega Avenue
+Bronx, NY 10462
+(40.836184468, -73.845785387)",40.836184468,-73.845785387
+Bronx,Grocery,Key Food Supermarket,Unionport Road,Bronx,NY,10462,"Unionport Road
+Bronx, NY 10462
+(40.836193777, -73.856142073)",40.836193777,-73.856142073
+Kings,Grocery,Boris Fruitland,Fort Hamilton Parkway,Brooklyn,NY,11219,"Fort Hamilton Parkway
+Brooklyn, NY 11219
+(40.635448124, -74.002042816)",40.635448124,-74.002042816
+Queens,Grocery,Ideal Food Basket,Otis Ave,Corona,NY,11368,"Otis Ave
+Corona, NY 11368
+(40.739495609, -73.854708331)",40.739495609,-73.854708331
+Kings,Grocery,Amazing African / American Food & G,Clarkson Avenue,Brooklyn,NY,11212,"Clarkson Avenue
+Brooklyn, NY 11212
+(40.659517189, -73.922598059)",40.659517189,-73.922598059
+Kings,Grocery,Chestnut,Myrtle Av,Brooklyn,NY,11205,"Myrtle Av
+Brooklyn, NY 11205
+(40.693123863, -73.969930633)",40.693123863,-73.969930633
+Queens,Grocery,Super Fresh Supermarket,Shore Front Parkway,Arverne,NY,11692,"Shore Front Parkway
+Arverne, NY 11692
+(40.589518168, -73.787310845)",40.589518168,-73.787310845
+Kings,Grocery,Cc Mart Corp,Church Ave,Brooklyn,NY,11226,"Church Ave
+Brooklyn, NY 11226
+(40.647725722, -73.967413861)",40.647725722,-73.967413861
+Queens,Grocery,Evergreen Farm Market Inc,Onderdonk Avenue,Ridgewood,NY,11385,"Onderdonk Avenue
+Ridgewood, NY 11385
+(40.706337909, -73.911206405)",40.706337909,-73.911206405
+Bronx,Grocery,Food Bazaar,Exterior Street,Bronx,NY,10451,"Exterior Street
+Bronx, NY 10451
+(40.821773929, -73.930830306)",40.821773929,-73.930830306
+New York,Grocery,El Nuevo Renacer Deli Grocery Corp.,Audubon Avenue,New York,NY,10032,"Audubon Avenue
+New York, NY 10032
+(40.841175228, -73.937866087)",40.841175228,-73.937866087
+Bronx,Grocery,"C & T Deli-Grocery Store, Inc.",Washington Avenue,Bronx,NY,10457,"Washington Avenue
+Bronx, NY 10457
+(40.846491224, -73.898356534)",40.846491224,-73.898356534
+New York,Grocery,Foodtown,St Nicholas Ave,New York,NY,10031,"St Nicholas Ave
+New York, NY 10031
+(40.826648939, -73.943090375)",40.826648939,-73.943090375
+Kings,Grocery,Ahmed's Grocery & Halal Meat,Bath Ave,Brooklyn,NY,11214,"Bath Ave
+Brooklyn, NY 11214
+(40.598517723, -73.997321666)",40.598517723,-73.997321666
+Kings,Grocery,Key Food,Neptune Ave,Brooklyn,NY,11224,"Neptune Ave
+Brooklyn, NY 11224
+(40.578996142, -73.984752702)",40.578996142,-73.984752702
+Queens,Grocery,Key Food,Jamaica Ave,Queens Village,NY,11428,"Jamaica Ave
+Queens Village, NY 11428
+(40.71698387, -73.74129102)",40.71698387,-73.74129102
+Kings,Grocery,Klein's Grocery Inc.,Empire Blvd,Brooklyn,NY,11225,"Empire Blvd
+Brooklyn, NY 11225
+(40.663796101, -73.952562075)",40.663796101,-73.952562075
+Queens,Grocery,Fine Fare Supermarket,Farmers Boulevard,Jamaica,NY,11434,"Farmers Boulevard
+Jamaica, NY 11434
+(40.669836979, -73.765510405)",40.669836979,-73.765510405
+Queens,Grocery,Stop 1,108th Street,Corona,NY,11368,"108th Street
+Corona, NY 11368
+(40.747498977, -73.857106152)",40.747498977,-73.857106152
+Kings,Grocery,New Dhaka Grocery & Halal Meat Corp,Crescent Street,Brooklyn,NY,11208,"Crescent Street
+Brooklyn, NY 11208
+(40.668878672, -73.868345151)",40.668878672,-73.868345151
+Kings,Grocery,Landau's Supermarket,Bedford Avenue,Brooklyn,NY,11249,"Bedford Avenue
+Brooklyn, NY 11249
+(40.716387165, -73.959279469)",40.716387165,-73.959279469
+Bronx,Grocery,Pioneer,Featherbed Lane,Bronx,NY,10452,"Featherbed Lane
+Bronx, NY 10452
+(40.846106096, -73.919125747)",40.846106096,-73.919125747
+Queens,Grocery,Foodtown,37th Ave,Jackson Heights,NY,11372,"37th Ave
+Jackson Heights, NY 11372
+(40.749864797, -73.883149449)",40.749864797,-73.883149449
+Kings,Grocery,"Old Williamsburg Food, Inc.",Clymer St,Brooklyn,NY,11211,"Clymer St
+Brooklyn, NY 11211
+(40.70703151, -73.962886692)",40.70703151,-73.962886692
+Queens,Grocery,Bravo Supermarket,Lakewood Avenue,Jamaica,NY,11435,"Lakewood Avenue
+Jamaica, NY 11435
+(40.690986843, -73.802410863)",40.690986843,-73.802410863
+Queens,Grocery,Key Food,Hillside Ave,Jamaica,NY,11432,"Hillside Ave
+Jamaica, NY 11432
+(40.711010006, -73.792219979)",40.711010006,-73.792219979
+Kings,Grocery,Met Food,5th Avenue,Brooklyn,NY,11209,"5th Avenue
+Brooklyn, NY 11209
+(40.624133373, -74.024829246)",40.624133373,-74.024829246
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #2581,Cross Bay Blvd,Howard Beach,NY,11414,"Cross Bay Blvd
+Howard Beach, NY 11414
+(40.6464207, -73.836795229)",40.6464207,-73.836795229
+Kings,Grocery w/ Pharmacy inside,ShopRite Of Avenue I,Mcdonald Avenue,Brooklyn,NY,11230,"Mcdonald Avenue
+Brooklyn, NY 11230
+(40.619242962, -73.975014383)",40.619242962,-73.975014383
+Bronx,Grocery w/ Pharmacy inside,Stop & Shop #504,Co-Op City Blvd,Bronx,NY,10475,"Co-Op City Blvd
+Bronx, NY 10475
+(40.878351856, -73.822690366)",40.878351856,"-Op City Blvd
+Bronx, NY 10475
+(40.878351856, -73.822690366"
+Bronx,Grocery w/ Pharmacy inside,Benjamin's Pharmacy & Surgical,Allerton Avenue,Bronx,NY,10469,"Allerton Avenue
+Bronx, NY 10469
+(40.865430017, -73.855045845)",40.865430017,-73.855045845
+Queens,Grocery w/ Pharmacy inside,Horizon Pharmacy,Kissena Bo,Flushing,NY,11355,"Kissena Bo
+Flushing, NY 11355
+(40.755328445, -73.824509811)",40.755328445,-73.824509811
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #2585,Springfield Blvd,Springfield Garden,NY,11413,"Springfield Blvd
+Springfield Garden, NY 11413
+(40.674962968, -73.756031906)",40.674962968,-73.756031906
+Kings,Grocery w/ Pharmacy inside,Health Max Pharmacy,5th Avenue,Brooklyn,NY,11220,"5th Avenue
+Brooklyn, NY 11220
+(40.641173283, -74.014396236)",40.641173283,-74.014396236
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #2587,Farrington St,Flushing,NY,11354,"Farrington St
+Flushing, NY 11354
+(40.766871519, -73.832759266)",40.766871519,-73.832759266
+Richmond,Grocery w/ Pharmacy inside,Stop & Shop #581,Hylan Blvd.,Staten Island,NY,10306,"Hylan Blvd.
+Staten Island, NY 10306
+(40.562493009, -74.117891604)",40.562493009,-74.117891604
+Kings,Grocery w/ Pharmacy inside,Stop & Shop #505,Avenue Y,Brooklyn,NY,11235,"Avenue Y
+Brooklyn, NY 11235
+(40.590685644, -73.949270384)",40.590685644,-73.949270384
+Queens,Grocery w/ Pharmacy inside,Super Stop & Shop #566,Rockaway Beach Boulevard,Arverne,NY,11692,"Rockaway Beach Boulevard
+Arverne, NY 11692
+(40.592465001, -73.784219997)",40.592465001,-73.784219997
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #509,Grand Avenue,Maspeth,NY,11378,"Grand Avenue
+Maspeth, NY 11378
+(40.721883665, -73.904333203)",40.721883665,-73.904333203
+New York,Grocery w/ Pharmacy inside,Preferred Pharmacy,East 115th Street,New York,NY,10029,"East 115th Street
+New York, NY 10029
+(40.79717979, -73.940302841)",40.79717979,-73.940302841
+Bronx,Grocery w/ Pharmacy inside,Stop & Shop #2592,Bartow Avenue,Bronx,NY,10475,"Bartow Avenue
+Bronx, NY 10475
+(40.869620005, -73.827368075)",40.869620005,-73.827368075
+Kings,Grocery w/ Pharmacy inside,Stop & Shop #2591,Cropsey Av,Brooklyn,NY,11214,"Cropsey Av
+Brooklyn, NY 11214
+(40.596311752, -73.997517972)",40.596311752,-73.997517972
+Kings,Grocery w/ Pharmacy inside,"Newkirk Pharmacy, Inc.",Newkirk Avenue,Brooklyn,NY,11226,"Newkirk Avenue
+Brooklyn, NY 11226
+(40.639249383, -73.955581241)",40.639249383,-73.955581241
+Bronx,Grocery w/ Pharmacy inside,Stop & Shop #2593,East 174th Street,Bronx,NY,10460,"East 174th Street
+Bronx, NY 10460
+(40.836372162, -73.884819878)",40.836372162,-73.884819878
+Kings,Grocery w/ Pharmacy inside,Preferred Pharmacy,Broadway,Brooklyn,NY,11207,"Broadway
+Brooklyn, NY 11207
+(40.683079269, -73.910795599)",40.683079269,-73.910795599
+Kings,Grocery w/ Pharmacy inside,Bocker Pharmacy & Food Mart Inc.,Knickerbocker Avenue,Brooklyn,NY,11237,"Knickerbocker Avenue
+Brooklyn, NY 11237
+(40.702568662, -73.92497553)",40.702568662,-73.92497553
+Kings,Grocery w/ Pharmacy inside,Green Forest Market Inc,Avenue M,Brooklyn,NY,11230,"Avenue M
+Brooklyn, NY 11230
+(40.617677031, -73.963010685)",40.617677031,-73.963010685
+Kings,Grocery w/ Pharmacy inside,Dumont Pharmacy,Junius St,Brooklyn,NY,11212,"Junius St
+Brooklyn, NY 11212
+(40.666248997, -73.902103271)",40.666248997,-73.902103271
+Richmond,Grocery w/ Pharmacy inside,Stop & Shop #2595,Forest Avenue,Staten Island,NY,10302,"Forest Avenue
+Staten Island, NY 10302
+(40.626374486, -74.133144751)",40.626374486,-74.133144751
+Queens,Grocery w/ Pharmacy inside,Stop & Shop #2589,Atlantic Ave,Ozone Park,NY,11416,"Atlantic Ave
+Ozone Park, NY 11416
+(40.687206444, -73.851904411)",40.687206444,-73.851904411
+Kings,Grocery w/ Pharmacy inside,Stop & Shop #2586,Atlantic Ave,Brooklyn,NY,11217,"Atlantic Ave
+Brooklyn, NY 11217
+(40.684660213, -73.979005505)",40.684660213,-73.979005505
