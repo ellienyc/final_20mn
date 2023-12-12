@@ -10,8 +10,8 @@ library(stringr) #load in packages up top
 agg_household_income <- read_csv("agg_household_income.csv")
 
 NYC_tracts_aggincome <- agg_household_income %>% 
-  mutate(ctlabel = str_extract(ctname, "(?<=Tract )(.*?)(?=,)")) #to extract just the census tract number, to join with the shapefile
-                                      #code from ChatGPT: https://chat.openai.com/share/b3584f71-7185-47c7-bea8-419c7093e027
-
+  mutate(geoidshort = str_extract(geoid, "(?<=US)\\d+")) #to shorten GEOID to what matches shapefile
+                                  # code from ChatGPT https://chat.openai.com/share/9692d4c6-7956-44c4-9e9f-d8bfa91773eb
+                                
 # write_csv(NYC_tracts_aggincome, "NYC_tracts_aggincome.csv")
   #saving csv to add to shapefile in QGIS
