@@ -1,4 +1,4 @@
-#script #1: just cleaning up 'WIC vendors' state data set
+#script #1: cleaning up 'WIC vendors' state data set
 
 library(tidyverse)
 library(janitor)
